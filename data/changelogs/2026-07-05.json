@@ -1,0 +1,507 @@
+{
+  "date": "2026-07-05",
+  "additions": [
+    {
+      "entry_id": "0001645967_0001104659-26-080497",
+      "url": "https://www.sec.gov/Archives/edgar/data/1645967/000110465926080497/0001104659-26-080497-index.htm",
+      "entity_name": "Richard Christian M"
+    },
+    {
+      "entry_id": "0001509745_0001104659-26-080497",
+      "url": "https://www.sec.gov/Archives/edgar/data/1509745/000110465926080497/0001104659-26-080497-index.htm",
+      "entity_name": "CYPHERPUNK TECHNOLOGIES INC."
+    },
+    {
+      "entry_id": "0002092424_0001104659-26-080496",
+      "url": "https://www.sec.gov/Archives/edgar/data/2092424/000110465926080496/0001104659-26-080496-index.htm",
+      "entity_name": "Oei Khing Djien"
+    },
+    {
+      "entry_id": "0001509745_0001104659-26-080496",
+      "url": "https://www.sec.gov/Archives/edgar/data/1509745/000110465926080496/0001104659-26-080496-index.htm",
+      "entity_name": "CYPHERPUNK TECHNOLOGIES INC."
+    },
+    {
+      "entry_id": "0001734750_0001193125-26-295228",
+      "url": "https://www.sec.gov/Archives/edgar/data/1734750/000119312526295228/0001193125-26-295228-index.htm",
+      "entity_name": "Corvex, Inc."
+    },
+    {
+      "entry_id": "0001682638_0001193125-26-295228",
+      "url": "https://www.sec.gov/Archives/edgar/data/1682638/000119312526295228/0001193125-26-295228-index.htm",
+      "entity_name": "FAIRBAIRN EMILY"
+    },
+    {
+      "entry_id": "0002141848_0002141848-26-000006",
+      "url": "https://www.sec.gov/Archives/edgar/data/2141848/000214184826000006/0002141848-26-000006-index.htm",
+      "entity_name": "Moreland Christopher"
+    },
+    {
+      "entry_id": "0001734750_0002141848-26-000006",
+      "url": "https://www.sec.gov/Archives/edgar/data/1734750/000214184826000006/0002141848-26-000006-index.htm",
+      "entity_name": "Corvex, Inc."
+    },
+    {
+      "entry_id": "0001734750_0001193125-26-295227",
+      "url": "https://www.sec.gov/Archives/edgar/data/1734750/000119312526295227/0001193125-26-295227-index.htm",
+      "entity_name": "Corvex, Inc."
+    },
+    {
+      "entry_id": "0001652256_0001193125-26-295227",
+      "url": "https://www.sec.gov/Archives/edgar/data/1652256/000119312526295227/0001193125-26-295227-index.htm",
+      "entity_name": "Fleury Patrick"
+    },
+    {
+      "entry_id": "0001574218_0001104659-26-080495",
+      "url": "https://www.sec.gov/Archives/edgar/data/1574218/000110465926080495/0001104659-26-080495-index.htm",
+      "entity_name": "Dietz Thomas John"
+    },
+    {
+      "entry_id": "0001509745_0001104659-26-080495",
+      "url": "https://www.sec.gov/Archives/edgar/data/1509745/000110465926080495/0001104659-26-080495-index.htm",
+      "entity_name": "CYPHERPUNK TECHNOLOGIES INC."
+    },
+    {
+      "entry_id": "0001734750_0001180443-26-000008",
+      "url": "https://www.sec.gov/Archives/edgar/data/1734750/000118044326000008/0001180443-26-000008-index.htm",
+      "entity_name": "Corvex, Inc."
+    },
+    {
+      "entry_id": "0001180443_0001180443-26-000008",
+      "url": "https://www.sec.gov/Archives/edgar/data/1180443/000118044326000008/0001180443-26-000008-index.htm",
+      "entity_name": "DONOFRIO NICHOLAS M"
+    },
+    {
+      "entry_id": "0001849381_0001193125-26-295225",
+      "url": "https://www.sec.gov/Archives/edgar/data/1849381/000119312526295225/0001193125-26-295225-index.htm",
+      "entity_name": "Cullinan Brian"
+    },
+    {
+      "entry_id": "0001734750_0001193125-26-295225",
+      "url": "https://www.sec.gov/Archives/edgar/data/1734750/000119312526295225/0001193125-26-295225-index.htm",
+      "entity_name": "Corvex, Inc."
+    },
+    {
+      "entry_id": "0001916764_0001104659-26-080494",
+      "url": "https://www.sec.gov/Archives/edgar/data/1916764/000110465926080494/0001104659-26-080494-index.htm",
+      "entity_name": "Martin Patricia A."
+    },
+    {
+      "entry_id": "0001509745_0001104659-26-080494",
+      "url": "https://www.sec.gov/Archives/edgar/data/1509745/000110465926080494/0001104659-26-080494-index.htm",
+      "entity_name": "CYPHERPUNK TECHNOLOGIES INC."
+    },
+    {
+      "entry_id": "0001509745_0001104659-26-080493",
+      "url": "https://www.sec.gov/Archives/edgar/data/1509745/000110465926080493/0001104659-26-080493-index.htm",
+      "entity_name": "CYPHERPUNK TECHNOLOGIES INC."
+    },
+    {
+      "entry_id": "0001273806_0001104659-26-080493",
+      "url": "https://www.sec.gov/Archives/edgar/data/1273806/000110465926080493/0001104659-26-080493-index.htm",
+      "entity_name": "LI WILLIAM"
+    },
+    {
+      "entry_id": "0001509745_0001104659-26-080492",
+      "url": "https://www.sec.gov/Archives/edgar/data/1509745/000110465926080492/0001104659-26-080492-index.htm",
+      "entity_name": "CYPHERPUNK TECHNOLOGIES INC."
+    },
+    {
+      "entry_id": "0001270185_0001104659-26-080492",
+      "url": "https://www.sec.gov/Archives/edgar/data/1270185/000110465926080492/0001104659-26-080492-index.htm",
+      "entity_name": "ONSI DOUGLAS E"
+    },
+    {
+      "entry_id": "0002092596_0001104659-26-080491",
+      "url": "https://www.sec.gov/Archives/edgar/data/2092596/000110465926080491/0001104659-26-080491-index.htm",
+      "entity_name": "McEvoy William Patrick III"
+    },
+    {
+      "entry_id": "0001509745_0001104659-26-080491",
+      "url": "https://www.sec.gov/Archives/edgar/data/1509745/000110465926080491/0001104659-26-080491-index.htm",
+      "entity_name": "CYPHERPUNK TECHNOLOGIES INC."
+    },
+    {
+      "entry_id": "0001509745_0001104659-26-080490",
+      "url": "https://www.sec.gov/Archives/edgar/data/1509745/000110465926080490/0001104659-26-080490-index.htm",
+      "entity_name": "CYPHERPUNK TECHNOLOGIES INC."
+    },
+    {
+      "entry_id": "0001357777_0001104659-26-080490",
+      "url": "https://www.sec.gov/Archives/edgar/data/1357777/000110465926080490/0001104659-26-080490-index.htm",
+      "entity_name": "Mashiach Nissim"
+    },
+    {
+      "entry_id": "0001530803_0000902664-26-003001",
+      "url": "https://www.sec.gov/Archives/edgar/data/1530803/000090266426003001/0000902664-26-003001-index.htm",
+      "entity_name": "Oasis Investments II Master Fund Ltd."
+    },
+    {
+      "entry_id": "0001456474_0000902664-26-003001",
+      "url": "https://www.sec.gov/Archives/edgar/data/1456474/000090266426003001/0000902664-26-003001-index.htm",
+      "entity_name": "Fischer Seth"
+    },
+    {
+      "entry_id": "0001317904_0000902664-26-003001",
+      "url": "https://www.sec.gov/Archives/edgar/data/1317904/000090266426003001/0000902664-26-003001-index.htm",
+      "entity_name": "Oasis Management Co Ltd."
+    },
+    {
+      "entry_id": "0000885508_0000902664-26-003001",
+      "url": "https://www.sec.gov/Archives/edgar/data/885508/000090266426003001/0000902664-26-003001-index.htm",
+      "entity_name": "STRATUS PROPERTIES INC"
+    },
+    {
+      "entry_id": "0001243183_0001243183-26-000004",
+      "url": "https://www.sec.gov/Archives/edgar/data/1243183/000124318326000004/0001243183-26-000004-index.htm",
+      "entity_name": "VASOS TODD J"
+    },
+    {
+      "entry_id": "0000091576_0001243183-26-000004",
+      "url": "https://www.sec.gov/Archives/edgar/data/91576/000124318326000004/0001243183-26-000004-index.htm",
+      "entity_name": "KEYCORP /NEW/"
+    },
+    {
+      "entry_id": "0001557267_0001557267-26-000004",
+      "url": "https://www.sec.gov/Archives/edgar/data/1557267/000155726726000004/0001557267-26-000004-index.htm",
+      "entity_name": "Rankin Devina A"
+    },
+    {
+      "entry_id": "0000091576_0001557267-26-000004",
+      "url": "https://www.sec.gov/Archives/edgar/data/91576/000155726726000004/0001557267-26-000004-index.htm",
+      "entity_name": "KEYCORP /NEW/"
+    },
+    {
+      "entry_id": "0002026548_0001477932-26-004177",
+      "url": "https://www.sec.gov/Archives/edgar/data/2026548/000147793226004177/0001477932-26-004177-index.htm",
+      "entity_name": "Kiessling Heather"
+    },
+    {
+      "entry_id": "0001921865_0001477932-26-004177",
+      "url": "https://www.sec.gov/Archives/edgar/data/1921865/000147793226004177/0001477932-26-004177-index.htm",
+      "entity_name": "ASP Isotopes Inc."
+    },
+    {
+      "entry_id": "0001443147_0001443147-26-000006",
+      "url": "https://www.sec.gov/Archives/edgar/data/1443147/000144314726000006/0001443147-26-000006-index.htm",
+      "entity_name": "Hayes Robin"
+    },
+    {
+      "entry_id": "0000091576_0001443147-26-000006",
+      "url": "https://www.sec.gov/Archives/edgar/data/91576/000144314726000006/0001443147-26-000006-index.htm",
+      "entity_name": "KEYCORP /NEW/"
+    },
+    {
+      "entry_id": "0002079961_0001477932-26-004176",
+      "url": "https://www.sec.gov/Archives/edgar/data/2079961/000147793226004176/0001477932-26-004176-index.htm",
+      "entity_name": "Ainscow Donald George"
+    },
+    {
+      "entry_id": "0001921865_0001477932-26-004176",
+      "url": "https://www.sec.gov/Archives/edgar/data/1921865/000147793226004176/0001477932-26-004176-index.htm",
+      "entity_name": "ASP Isotopes Inc."
+    },
+    {
+      "entry_id": "0001188585_0001188585-26-000004",
+      "url": "https://www.sec.gov/Archives/edgar/data/1188585/000118858526000004/0001188585-26-000004-index.htm",
+      "entity_name": "CUTLER ALEXANDER M"
+    },
+    {
+      "entry_id": "0000091576_0001188585-26-000004",
+      "url": "https://www.sec.gov/Archives/edgar/data/91576/000118858526000004/0001188585-26-000004-index.htm",
+      "entity_name": "KEYCORP /NEW/"
+    },
+    {
+      "entry_id": "0001853327_0001636282-26-000088",
+      "url": "https://www.sec.gov/Archives/edgar/data/1853327/000163628226000088/0001636282-26-000088-index.htm",
+      "entity_name": "Burrows Scott L"
+    },
+    {
+      "entry_id": "0001636282_0001636282-26-000088",
+      "url": "https://www.sec.gov/Archives/edgar/data/1636282/000163628226000088/0001636282-26-000088-index.htm",
+      "entity_name": "Spyre Therapeutics, Inc."
+    },
+    {
+      "entry_id": "0002038798_0001636282-26-000087",
+      "url": "https://www.sec.gov/Archives/edgar/data/2038798/000163628226000087/0001636282-26-000087-index.htm",
+      "entity_name": "Sloan Sheldon"
+    },
+    {
+      "entry_id": "0001636282_0001636282-26-000087",
+      "url": "https://www.sec.gov/Archives/edgar/data/1636282/000163628226000087/0001636282-26-000087-index.htm",
+      "entity_name": "Spyre Therapeutics, Inc."
+    },
+    {
+      "entry_id": "0001912810_0001231919-26-000727",
+      "url": "https://www.sec.gov/Archives/edgar/data/1912810/000123191926000727/0001231919-26-000727-index.htm",
+      "entity_name": "Lightspeed General Partner Select III, L.P."
+    },
+    {
+      "entry_id": "0001912675_0001231919-26-000727",
+      "url": "https://www.sec.gov/Archives/edgar/data/1912675/000123191926000727/0001231919-26-000727-index.htm",
+      "entity_name": "Lightspeed Ultimate General Partner Select III, Ltd."
+    },
+    {
+      "entry_id": "0001744937_0001231919-26-000727",
+      "url": "https://www.sec.gov/Archives/edgar/data/1744937/000123191926000727/0001231919-26-000727-index.htm",
+      "entity_name": "Lightspeed Ultimate General Partner Select II, Ltd."
+    },
+    {
+      "entry_id": "0001744936_0001231919-26-000727",
+      "url": "https://www.sec.gov/Archives/edgar/data/1744936/000123191926000727/0001231919-26-000727-index.htm",
+      "entity_name": "Lightspeed General Partner Select II, L.P."
+    },
+    {
+      "entry_id": "0001735240_0001231919-26-000727",
+      "url": "https://www.sec.gov/Archives/edgar/data/1735240/000123191926000727/0001231919-26-000727-index.htm",
+      "entity_name": "LIGHTSPEED VENTURE PARTNERS SELECT III, L.P."
+    },
+    {
+      "entry_id": "0001702122_0001231919-26-000727",
+      "url": "https://www.sec.gov/Archives/edgar/data/1702122/000123191926000727/0001231919-26-000727-index.htm",
+      "entity_name": "Lightspeed Management Company, L.L.C."
+    },
+    {
+      "entry_id": "0001668017_0001231919-26-000727",
+      "url": "https://www.sec.gov/Archives/edgar/data/1668017/000123191926000727/0001231919-26-000727-index.htm",
+      "entity_name": "Lightspeed Venture Partners Select II, L.P."
+    },
+    {
+      "entry_id": "0001639723_0001231919-26-000727",
+      "url": "https://www.sec.gov/Archives/edgar/data/1639723/000123191926000727/0001231919-26-000727-index.htm",
+      "entity_name": "Navan, Inc."
+    },
+    {
+      "entry_id": "0001758363_0001636282-26-000086",
+      "url": "https://www.sec.gov/Archives/edgar/data/1758363/000163628226000086/0001636282-26-000086-index.htm",
+      "entity_name": "Turtle Cameron"
+    },
+    {
+      "entry_id": "0001636282_0001636282-26-000086",
+      "url": "https://www.sec.gov/Archives/edgar/data/1636282/000163628226000086/0001636282-26-000086-index.htm",
+      "entity_name": "Spyre Therapeutics, Inc."
+    },
+    {
+      "entry_id": "0001980478_0001231919-26-000726",
+      "url": "https://www.sec.gov/Archives/edgar/data/1980478/000123191926000726/0001231919-26-000726-index.htm",
+      "entity_name": "Lightspeed General Partner Opportunity Fund, L.P."
+    },
+    {
+      "entry_id": "0001980477_0001231919-26-000726",
+      "url": "https://www.sec.gov/Archives/edgar/data/1980477/000123191926000726/0001231919-26-000726-index.htm",
+      "entity_name": "Lightspeed Ultimate General Partner Opportunity Fund, Ltd."
+    },
+    {
+      "entry_id": "0001978866_0001231919-26-000726",
+      "url": "https://www.sec.gov/Archives/edgar/data/1978866/000123191926000726/0001231919-26-000726-index.htm",
+      "entity_name": "Lightspeed Strategic Partners Ultimate General Partner I L.L.C."
+    },
+    {
+      "entry_id": "0001978187_0001231919-26-000726",
+      "url": "https://www.sec.gov/Archives/edgar/data/1978187/000123191926000726/0001231919-26-000726-index.htm",
+      "entity_name": "Lightspeed Strategic Partners General Partner I L.P."
+    },
+    {
+      "entry_id": "0001830973_0001231919-26-000726",
+      "url": "https://www.sec.gov/Archives/edgar/data/1830973/000123191926000726/0001231919-26-000726-index.htm",
+      "entity_name": "Lightspeed Strategic Partners I L.P."
+    },
+    {
+      "entry_id": "0001780948_0001231919-26-000726",
+      "url": "https://www.sec.gov/Archives/edgar/data/1780948/000123191926000726/0001231919-26-000726-index.htm",
+      "entity_name": "Lightspeed Opportunity Fund, L.P."
+    },
+    {
+      "entry_id": "0001700550_0001231919-26-000726",
+      "url": "https://www.sec.gov/Archives/edgar/data/1700550/000123191926000726/0001231919-26-000726-index.htm",
+      "entity_name": "Lightspeed General Partner X, L.P."
+    },
+    {
+      "entry_id": "0001700549_0001231919-26-000726",
+      "url": "https://www.sec.gov/Archives/edgar/data/1700549/000123191926000726/0001231919-26-000726-index.htm",
+      "entity_name": "Lightspeed Ultimate General Partner X, Ltd."
+    },
+    {
+      "entry_id": "0001639723_0001231919-26-000726",
+      "url": "https://www.sec.gov/Archives/edgar/data/1639723/000123191926000726/0001231919-26-000726-index.htm",
+      "entity_name": "Navan, Inc."
+    },
+    {
+      "entry_id": "0001617751_0001231919-26-000726",
+      "url": "https://www.sec.gov/Archives/edgar/data/1617751/000123191926000726/0001231919-26-000726-index.htm",
+      "entity_name": "Lightspeed Affiliates X, L.P."
+    },
+    {
+      "entry_id": "0001602573_0001231919-26-000726",
+      "url": "https://www.sec.gov/Archives/edgar/data/1602573/000123191926000726/0001231919-26-000726-index.htm",
+      "entity_name": "Lightspeed Venture Partners X, L.P."
+    },
+    {
+      "entry_id": "0001605411_0001437749-26-022670",
+      "url": "https://www.sec.gov/Archives/edgar/data/1605411/000143774926022670/0001437749-26-022670-index.htm",
+      "entity_name": "CLAUSEN PETER"
+    },
+    {
+      "entry_id": "0001091596_0001437749-26-022670",
+      "url": "https://www.sec.gov/Archives/edgar/data/1091596/000143774926022670/0001437749-26-022670-index.htm",
+      "entity_name": "Nuo Therapeutics, Inc."
+    },
+    {
+      "entry_id": "0002058067_0001769628-26-000312",
+      "url": "https://www.sec.gov/Archives/edgar/data/2058067/000176962826000312/0001769628-26-000312-index.htm",
+      "entity_name": "Venturo Brian M"
+    },
+    {
+      "entry_id": "0001769628_0001769628-26-000312",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000312/0001769628-26-000312-index.htm",
+      "entity_name": "CoreWeave, Inc."
+    },
+    {
+      "entry_id": "0002058048_0001769628-26-000311",
+      "url": "https://www.sec.gov/Archives/edgar/data/2058048/000176962826000311/0001769628-26-000311-index.htm",
+      "entity_name": "McVeety Kristen J"
+    },
+    {
+      "entry_id": "0001769628_0001769628-26-000311",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000311/0001769628-26-000311-index.htm",
+      "entity_name": "CoreWeave, Inc."
+    },
+    {
+      "entry_id": "0001465128_0000905148-26-003154",
+      "url": "https://www.sec.gov/Archives/edgar/data/1465128/000090514826003154/0000905148-26-003154-index.htm",
+      "entity_name": "STARWOOD PROPERTY TRUST, INC."
+    },
+    {
+      "entry_id": "0001034657_0000905148-26-003154",
+      "url": "https://www.sec.gov/Archives/edgar/data/1034657/000090514826003154/0000905148-26-003154-index.htm",
+      "entity_name": "STERNLICHT BARRY S"
+    },
+    {
+      "entry_id": "0002124855_0001769628-26-000310",
+      "url": "https://www.sec.gov/Archives/edgar/data/2124855/000176962826000310/0001769628-26-000310-index.htm",
+      "entity_name": "Jain Sachin"
+    },
+    {
+      "entry_id": "0001769628_0001769628-26-000310",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000310/0001769628-26-000310-index.htm",
+      "entity_name": "CoreWeave, Inc."
+    },
+    {
+      "entry_id": "0002058037_0001769628-26-000309",
+      "url": "https://www.sec.gov/Archives/edgar/data/2058037/000176962826000309/0001769628-26-000309-index.htm",
+      "entity_name": "Intrator Michael N"
+    },
+    {
+      "entry_id": "0001769628_0001769628-26-000309",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000309/0001769628-26-000309-index.htm",
+      "entity_name": "CoreWeave, Inc."
+    },
+    {
+      "entry_id": "0002058056_0001769628-26-000308",
+      "url": "https://www.sec.gov/Archives/edgar/data/2058056/000176962826000308/0001769628-26-000308-index.htm",
+      "entity_name": "Goldberg Chen"
+    },
+    {
+      "entry_id": "0001769628_0001769628-26-000308",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000308/0001769628-26-000308-index.htm",
+      "entity_name": "CoreWeave, Inc."
+    },
+    {
+      "entry_id": "0001989937_0001855612-26-000109",
+      "url": "https://www.sec.gov/Archives/edgar/data/1989937/000185561226000109/0001855612-26-000109-index.htm",
+      "entity_name": "Paradatheth Suthen Thomas"
+    },
+    {
+      "entry_id": "0001855612_0001855612-26-000109",
+      "url": "https://www.sec.gov/Archives/edgar/data/1855612/000185561226000109/0001855612-26-000109-index.htm",
+      "entity_name": "Grab Holdings Ltd"
+    },
+    {
+      "entry_id": "0001510281_0001510281-26-000229",
+      "url": "https://www.sec.gov/Archives/edgar/data/1510281/000151028126000229/0001510281-26-000229-index.htm",
+      "entity_name": "Saba Capital Management, L.P."
+    },
+    {
+      "entry_id": "0000858706_0001510281-26-000229",
+      "url": "https://www.sec.gov/Archives/edgar/data/858706/000151028126000229/0001510281-26-000229-index.htm",
+      "entity_name": "NEW GERMANY FUND INC"
+    },
+    {
+      "entry_id": "0001769628_0001769628-26-000307",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000307/0001769628-26-000307-index.htm",
+      "entity_name": "CoreWeave, Inc."
+    },
+    {
+      "entry_id": "0001699866_0001769628-26-000307",
+      "url": "https://www.sec.gov/Archives/edgar/data/1699866/000176962826000307/0001769628-26-000307-index.htm",
+      "entity_name": "Baker Jeff"
+    },
+    {
+      "entry_id": "0002058038_0001769628-26-000306",
+      "url": "https://www.sec.gov/Archives/edgar/data/2058038/000176962826000306/0001769628-26-000306-index.htm",
+      "entity_name": "Agrawal Nitin"
+    },
+    {
+      "entry_id": "0001769628_0001769628-26-000306",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000306/0001769628-26-000306-index.htm",
+      "entity_name": "CoreWeave, Inc."
+    },
+    {
+      "entry_id": "0002026373_0001855612-26-000107",
+      "url": "https://www.sec.gov/Archives/edgar/data/2026373/000185561226000107/0001855612-26-000107-index.htm",
+      "entity_name": "Hungate Alexander Charles"
+    },
+    {
+      "entry_id": "0001855612_0001855612-26-000107",
+      "url": "https://www.sec.gov/Archives/edgar/data/1855612/000185561226000107/0001855612-26-000107-index.htm",
+      "entity_name": "Grab Holdings Ltd"
+    },
+    {
+      "entry_id": "0001855612_0001855612-26-000105",
+      "url": "https://www.sec.gov/Archives/edgar/data/1855612/000185561226000105/0001855612-26-000105-index.htm",
+      "entity_name": "Grab Holdings Ltd"
+    },
+    {
+      "entry_id": "0001696555_0001855612-26-000105",
+      "url": "https://www.sec.gov/Archives/edgar/data/1696555/000185561226000105/0001855612-26-000105-index.htm",
+      "entity_name": "Kandal Philipp Wolfgang Josef"
+    },
+    {
+      "entry_id": "0001976718_0001855612-26-000103",
+      "url": "https://www.sec.gov/Archives/edgar/data/1976718/000185561226000103/0001855612-26-000103-index.htm",
+      "entity_name": "Oey Peter Henry"
+    },
+    {
+      "entry_id": "0001855612_0001855612-26-000103",
+      "url": "https://www.sec.gov/Archives/edgar/data/1855612/000185561226000103/0001855612-26-000103-index.htm",
+      "entity_name": "Grab Holdings Ltd"
+    },
+    {
+      "entry_id": "0001896497_0001855612-26-000101",
+      "url": "https://www.sec.gov/Archives/edgar/data/1896497/000185561226000101/0001855612-26-000101-index.htm",
+      "entity_name": "Tan Anthony Ping Yeow"
+    },
+    {
+      "entry_id": "0001855612_0001855612-26-000101",
+      "url": "https://www.sec.gov/Archives/edgar/data/1855612/000185561226000101/0001855612-26-000101-index.htm",
+      "entity_name": "Grab Holdings Ltd"
+    },
+    {
+      "entry_id": "0001454810_0001454810-26-000006",
+      "url": "https://www.sec.gov/Archives/edgar/data/1454810/000145481026000006/0001454810-26-000006-index.htm",
+      "entity_name": "Ajello James A"
+    },
+    {
+      "entry_id": "0000354707_0001454810-26-000006",
+      "url": "https://www.sec.gov/Archives/edgar/data/354707/000145481026000006/0001454810-26-000006-index.htm",
+      "entity_name": "HAWAIIAN ELECTRIC INDUSTRIES INC"
+    },
+    {
+      "entry_id": "0001611052_0001628280-26-047090",
+      "url": "https://www.sec.gov/Archives/edgar/data/1611052/000162828026047090/0001628280-26-047090-index.htm",
+      "entity_name": "PROCORE TECHNOLOGIES, INC."
+    }
+  ],
+  "deletions": [],
+  "modifications": []
+}
