@@ -1,10 +1,12 @@
 name: Scrape SEC Form 4 insider trades
 
-# Runs daily and commits any new filings back to the repo.
+# Runs every 30 minutes and commits any new filings back to the repo.
+# Form 4s arrive continuously through the day, so frequent runs catch them
+# before they scroll off the "latest 100" feed.
 on:
   schedule:
-    - cron: "0 11 * * *"   # every day at 11:00 UTC (7am ET)
-  workflow_dispatch: {}     # also lets you run it manually from the Actions tab
+    - cron: "*/30 * * * *"   # every 30 minutes
+  workflow_dispatch: {}       # also lets you run it manually from the Actions tab
 
 permissions:
   contents: write           # needed so the job can commit updated data back
@@ -33,5 +35,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data
           # only commit if something actually changed
-          git diff --staged --quiet || git commit -m "Daily Form 4 scrape: ${{ github.run_id }}"
+          git diff --staged --quiet || git commit -m "Form 4 scrape: ${{ github.run_id }}"
           git push

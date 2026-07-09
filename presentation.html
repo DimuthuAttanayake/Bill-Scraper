@@ -1,0 +1,342 @@
+<style>
+  :root {
+    --bg: #f5f6f8;
+    --fg: #12181f;
+    --panel: #ffffff;
+    --panel-2: #eef1f4;
+    --line: #d7dde4;
+    --muted: #5c6773;
+    --accent: #8f6a12;
+    --accent-soft: #f0e6cc;
+    --buy: #157a4a;
+    --sell: #b23b3b;
+    --shadow: 0 1px 2px rgba(18,24,31,.06), 0 8px 24px rgba(18,24,31,.06);
+
+    --font-display: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", serif;
+    --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    --font-mono: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0d1218; --fg: #e7eaed; --panel: #141c25; --panel-2: #1a232e;
+      --line: #273240; --muted: #93a0ad; --accent: #d8a52a; --accent-soft: #2a2413;
+      --buy: #43c184; --sell: #e26b6b;
+      --shadow: 0 1px 2px rgba(0,0,0,.4), 0 10px 30px rgba(0,0,0,.35);
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #0d1218; --fg: #e7eaed; --panel: #141c25; --panel-2: #1a232e;
+    --line: #273240; --muted: #93a0ad; --accent: #d8a52a; --accent-soft: #2a2413;
+    --buy: #43c184; --sell: #e26b6b;
+    --shadow: 0 1px 2px rgba(0,0,0,.4), 0 10px 30px rgba(0,0,0,.35);
+  }
+  :root[data-theme="light"] {
+    --bg: #f5f6f8; --fg: #12181f; --panel: #ffffff; --panel-2: #eef1f4;
+    --line: #d7dde4; --muted: #5c6773; --accent: #8f6a12; --accent-soft: #f0e6cc;
+    --buy: #157a4a; --sell: #b23b3b;
+    --shadow: 0 1px 2px rgba(18,24,31,.06), 0 8px 24px rgba(18,24,31,.06);
+  }
+
+  * { box-sizing: border-box; }
+  html { scroll-snap-type: y mandatory; scroll-behavior: smooth; }
+  @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+  body {
+    margin: 0; background: var(--bg); color: var(--fg);
+    font-family: var(--font-body); line-height: 1.55; -webkit-font-smoothing: antialiased;
+  }
+
+  .progress { position: fixed; top: 0; left: 0; height: 3px; width: 0%; background: var(--accent); z-index: 50; transition: width .15s ease; }
+  .counter { position: fixed; bottom: 1.1rem; right: 1.3rem; z-index: 50; font-family: var(--font-mono); font-size: .72rem; letter-spacing: .08em; color: var(--muted); background: var(--panel); border: 1px solid var(--line); padding: .25rem .55rem; border-radius: 999px; }
+  .deckmark { position: fixed; top: 1rem; left: 1.3rem; z-index: 50; font-family: var(--font-mono); font-size: .72rem; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); }
+  .deckmark b { color: var(--accent); font-weight: 600; }
+
+  .slide { min-height: 100svh; scroll-snap-align: start; display: flex; flex-direction: column; justify-content: center; padding: clamp(2.5rem, 6vw, 6rem) clamp(1.4rem, 6vw, 6rem); border-bottom: 1px solid var(--line); }
+  .wrap { width: 100%; max-width: 1080px; margin: 0 auto; }
+
+  .eyebrow { font-family: var(--font-mono); font-size: .78rem; letter-spacing: .16em; text-transform: uppercase; color: var(--accent); margin: 0 0 1.1rem; display: flex; align-items: center; gap: .7rem; }
+  .eyebrow .num { color: var(--muted); }
+  .eyebrow::before { content: ""; width: 26px; height: 2px; background: var(--accent); display: inline-block; }
+
+  h1 { font-family: var(--font-display); font-weight: 600; font-size: clamp(2.2rem, 6.4vw, 4.4rem); line-height: 1.03; letter-spacing: -.01em; margin: 0 0 1rem; text-wrap: balance; }
+  h2 { font-family: var(--font-display); font-weight: 600; font-size: clamp(1.7rem, 3.8vw, 2.9rem); line-height: 1.08; margin: 0 0 1.2rem; text-wrap: balance; letter-spacing: -.01em; }
+  h3 { font-family: var(--font-body); font-size: 1rem; margin: 0 0 .5rem; }
+  p { margin: 0 0 1rem; max-width: 62ch; }
+  .lead { font-size: clamp(1.1rem, 2.1vw, 1.45rem); color: var(--fg); max-width: 42ch; }
+  .muted { color: var(--muted); }
+  strong { font-weight: 600; }
+
+  .grid { display: grid; gap: 1.1rem; }
+  .g2 { grid-template-columns: repeat(2, 1fr); }
+  .g3 { grid-template-columns: repeat(3, 1fr); }
+  @media (max-width: 760px) { .g2, .g3 { grid-template-columns: 1fr; } }
+
+  .card { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 1.3rem 1.4rem; box-shadow: var(--shadow); }
+  .card h3 { font-family: var(--font-mono); font-size: .74rem; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); margin-bottom: .7rem; }
+  .card p { margin: 0; font-size: .98rem; }
+
+  .stats { display: flex; flex-wrap: wrap; gap: 2.4rem; margin: 1.4rem 0 .4rem; }
+  .stat .n { font-family: var(--font-display); font-size: clamp(2rem, 4.5vw, 3.2rem); line-height: 1; font-variant-numeric: tabular-nums; }
+  .stat .l { font-family: var(--font-mono); font-size: .72rem; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); margin-top: .4rem; }
+
+  ul.clean { list-style: none; padding: 0; margin: .4rem 0 0; }
+  ul.clean li { padding: .55rem 0; border-top: 1px solid var(--line); display: flex; gap: .8rem; }
+  ul.clean li:first-child { border-top: 0; }
+  ul.clean .k { font-family: var(--font-mono); font-size: .8rem; color: var(--accent); min-width: 1.6rem; padding-top: .15rem; }
+  ul.clean span:last-child { max-width: 70ch; }
+
+  code, .mono { font-family: var(--font-mono); }
+  .tag { display: inline-block; font-family: var(--font-mono); font-size: .74rem; padding: .12rem .5rem; border-radius: 5px; border: 1px solid var(--line); background: var(--panel-2); letter-spacing: .04em; }
+  .tag.buy { color: var(--buy); border-color: color-mix(in srgb, var(--buy) 40%, var(--line)); }
+  .tag.sell { color: var(--sell); border-color: color-mix(in srgb, var(--sell) 40%, var(--line)); }
+
+  .schema { display: grid; grid-template-columns: 1fr auto 1fr; gap: 1.2rem; align-items: stretch; }
+  @media (max-width: 820px) { .schema { grid-template-columns: 1fr; } }
+  .tbl { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; box-shadow: var(--shadow); }
+  .tbl .head { font-family: var(--font-mono); font-size: .78rem; letter-spacing: .1em; text-transform: uppercase; padding: .7rem 1rem; background: var(--panel-2); border-bottom: 1px solid var(--line); color: var(--fg); }
+  .tbl .head span { color: var(--muted); text-transform: none; letter-spacing: 0; float: right; font-size: .72rem; }
+  .tbl ul { list-style: none; margin: 0; padding: .5rem 1rem 1rem; }
+  .tbl li { font-family: var(--font-mono); font-size: .82rem; padding: .28rem 0; color: var(--fg); }
+  .tbl li.hl { color: var(--accent); }
+  .join { display: flex; flex-direction: column; align-items: center; justify-content: center; font-family: var(--font-mono); font-size: .72rem; color: var(--muted); text-align: center; gap: .3rem; }
+  .join .key { color: var(--accent); }
+  @media (max-width: 820px) { .join { flex-direction: row; } }
+
+  .mock { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); overflow: hidden; }
+  .mock .bar { display: flex; align-items: center; gap: .6rem; padding: .7rem 1rem; border-bottom: 1px solid var(--line); background: var(--panel-2); }
+  .dot { width: 10px; height: 10px; border-radius: 50%; background: var(--line); }
+  .mock .body { padding: 1.1rem 1.2rem; }
+  .searchrow { display: flex; gap: .6rem; margin-bottom: .9rem; }
+  .searchrow .input { flex: 1; border: 1px solid var(--line); border-radius: 8px; padding: .55rem .8rem; font-family: var(--font-body); color: var(--muted); background: var(--bg); }
+  .searchrow .btn { background: var(--accent); color: #14100a; border: 0; border-radius: 8px; padding: .55rem 1rem; font-weight: 700; font-family: var(--font-body); }
+  .chips { display: flex; gap: .5rem; flex-wrap: wrap; margin-bottom: 1rem; }
+  .chip { font-family: var(--font-mono); font-size: .74rem; border: 1px dashed var(--line); border-radius: 999px; padding: .25rem .7rem; color: var(--muted); }
+  .chip.on { border-style: solid; border-color: var(--accent); color: var(--accent); }
+  table.data { width: 100%; border-collapse: collapse; font-size: .82rem; }
+  table.data th { text-align: left; font-family: var(--font-mono); font-size: .68rem; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); padding: .4rem .5rem; border-bottom: 1px solid var(--line); font-weight: 600; }
+  table.data td { padding: .45rem .5rem; border-bottom: 1px solid var(--line); font-variant-numeric: tabular-nums; }
+  table.data .mono { font-family: var(--font-mono); font-size: .78rem; }
+  .pager { display: flex; justify-content: space-between; align-items: center; margin-top: .9rem; font-family: var(--font-mono); font-size: .74rem; color: var(--muted); }
+  .csvbtn { font-family: var(--font-mono); font-size: .74rem; border: 1px solid var(--accent); color: var(--accent); border-radius: 7px; padding: .3rem .7rem; }
+
+  .q { border-left: 3px solid var(--accent); padding: .3rem 0 .3rem 1.1rem; margin: 0 0 1.2rem; }
+  .q .lbl { font-family: var(--font-mono); font-size: .72rem; letter-spacing: .1em; text-transform: uppercase; color: var(--accent); }
+  .q p { margin: .3rem 0 0; font-size: 1.08rem; font-family: var(--font-display); max-width: 60ch; }
+
+  a { color: var(--accent); }
+  :focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; border-radius: 3px; }
+
+  @media print {
+    html { scroll-snap-type: none; }
+    .progress, .counter, .deckmark { display: none; }
+    .slide { min-height: auto; page-break-after: always; border: 0; padding: 2.5rem; }
+  }
+</style>
+
+<div class="progress" id="progress"></div>
+<div class="deckmark"><b>Insider Ledger</b> &nbsp;·&nbsp; Final Data Project</div>
+<div class="counter" id="counter">01 / 08</div>
+
+<!-- 1 · TITLE + QUESTION -->
+<section class="slide">
+  <div class="wrap">
+    <p class="eyebrow"><span class="num">01 / 08</span> Data &amp; Databases · July 9</p>
+    <h1>Who's buying and selling their own stock?</h1>
+    <p class="lead">A searchable record of corporate insider trades, built from SEC filings and daily market prices.</p>
+    <div class="q" style="margin-top:1.4rem;">
+      <span class="lbl">Investigative question</span>
+      <p>Who is trading their own stock right now, are they buying or selling, and are they trading above or below the market price?</p>
+    </div>
+    <div class="stats" style="margin-top:1.2rem;">
+      <div class="stat"><div class="n">160</div><div class="l">filings &amp; counting</div></div>
+      <div class="stat"><div class="n">197</div><div class="l">individual trades</div></div>
+      <div class="stat"><div class="n">2</div><div class="l">merged data sources</div></div>
+    </div>
+    <p class="muted" style="margin-top:1.4rem; font-size:.9rem;">Dimuthu Attanayake &nbsp;·&nbsp; working title: <span class="mono">Insider Ledger</span></p>
+  </div>
+</section>
+
+<!-- 2 · TOPIC -->
+<section class="slide">
+  <div class="wrap">
+    <p class="eyebrow"><span class="num">02 / 08</span> The topic</p>
+    <h2>Public, but not legible.</h2>
+    <p>Company directors, officers, and 10%+ owners must file a <strong>Form 4</strong> with the SEC within two business days of buying or selling their own stock. It is one of the few windows into what the people who know a company best are doing with their money.</p>
+    <p>The filings exist, but they are scattered, jargon-heavy, and unreadable to a non-expert. This tool turns that raw disclosure feed into something a general reader can search and understand.</p>
+  </div>
+</section>
+
+<!-- 3 · DATA -->
+<section class="slide">
+  <div class="wrap">
+    <p class="eyebrow"><span class="num">03 / 08</span> The data · two sources</p>
+    <h2>One scraped, one from an API — merged on ticker and date.</h2>
+    <div class="grid g2">
+      <div class="card">
+        <h3>Source 1 — SEC EDGAR (scraped)</h3>
+        <p>The "latest filings" feed of Form 4 disclosures. Gives me the insider, the company, the role, and the exact transactions: shares, price, buy or sell. The primary record, collected daily.</p>
+      </div>
+      <div class="card">
+        <h3>Source 2 — Yahoo Finance (API)</h3>
+        <p>Daily closing price for each company. Answers the part Form 4 can't: was the insider's price a premium or a discount to what the public was paying that day?</p>
+      </div>
+    </div>
+    <p class="muted" style="margin-top:1.3rem; font-size:.92rem;">The SEC filing is the ground truth of <em>what happened</em>; the price feed supplies the <em>context</em> that makes one trade meaningful to a general reader.</p>
+  </div>
+</section>
+
+<!-- 4 · PROCESS + CHALLENGES -->
+<section class="slide">
+  <div class="wrap">
+    <p class="eyebrow"><span class="num">04 / 08</span> Process &amp; challenges</p>
+    <h2>A self-updating pipeline — and where it fought back.</h2>
+    <div class="grid g3">
+      <div class="card"><h3>Scrape</h3><p>Pull the latest 100 Form 4s, then follow each into its XML for full transaction detail and footnote text.</p></div>
+      <div class="card"><h3>Detect &amp; log</h3><p>A hash decides new vs. seen, so nothing is re-scraped. Each run writes a change log and error log.</p></div>
+      <div class="card"><h3>Automate</h3><p>A daily GitHub Action re-runs the scrape and commits new filings. 100 → 299 rows in three days.</p></div>
+    </div>
+    <ul class="clean" style="margin-top:1.3rem;">
+      <li><span class="k">01</span><span><strong>The same filing appears twice</strong> — once under the insider, once under the company. 100 rows was really 42 filings, so I dedupe on the accession number.</span></li>
+      <li><span class="k">02</span><span><strong>Prices don't always match.</strong> Weekend/holiday trades have no close and tiny or foreign tickers aren't on Yahoo, so about 10% of trades get no market price.</span></li>
+      <li><span class="k">03</span><span><strong>A scoping question</strong> — Form 4 is a new dataset, so the stock-price source is what satisfies the two-source requirement.</span></li>
+    </ul>
+  </div>
+</section>
+
+<!-- 5 · ONTOLOGY / SCHEMA -->
+<section class="slide">
+  <div class="wrap">
+    <p class="eyebrow"><span class="num">05 / 08</span> Ontology · the schema</p>
+    <h2>Two tables, joined — a filing has many trades.</h2>
+    <div class="schema">
+      <div class="tbl">
+        <div class="head">filings <span>one row per filing</span></div>
+        <ul>
+          <li>accession <span class="muted">(id)</span></li>
+          <li>insider_name</li>
+          <li>company · ticker</li>
+          <li>relationship</li>
+          <li>filing_date</li>
+          <li>footnotes</li>
+          <li>sec_url</li>
+        </ul>
+      </div>
+      <div class="join">
+        <div>accession →</div>
+        <div class="key">1 : many</div>
+        <div>← accession</div>
+      </div>
+      <div class="tbl">
+        <div class="head">trades <span>one row per transaction</span></div>
+        <ul>
+          <li>accession <span class="muted">(fk)</span></li>
+          <li>transaction_date</li>
+          <li>code · A / D</li>
+          <li>shares · price</li>
+          <li>value</li>
+          <li class="hl">market_close &nbsp;← src 2</li>
+          <li class="hl">pct_vs_market &nbsp;← src 2</li>
+        </ul>
+      </div>
+    </div>
+    <p class="muted" style="margin-top:1.3rem; font-size:.92rem;">One row per <strong>transaction</strong> is the searchable unit — it's how a reader thinks ("show me the buys"). The two gold fields are where source&nbsp;2 merges in on <span class="mono">ticker&nbsp;+&nbsp;transaction_date</span>.</p>
+  </div>
+</section>
+
+<!-- 6 · APP + WIREFRAME -->
+<section class="slide">
+  <div class="wrap">
+    <p class="eyebrow"><span class="num">06 / 08</span> The app · fields, searches, wireframe</p>
+    <h2>Made searchable for someone who has never read a filing.</h2>
+    <p>Flask + SQLite, with a search bar, pagination, and CSV export. Searchable: <span class="tag">insider</span> <span class="tag">company</span> <span class="tag">ticker</span> <span class="tag">role</span>, plus a <span class="tag buy">buy</span> / <span class="tag sell">sell</span> filter. Two searches I expect readers to want: <strong>"open-market purchases by directors"</strong> (the rare, high-signal buys) and <strong>"all trades for one ticker, above or below market."</strong></p>
+    <div class="mock">
+      <div class="bar"><span class="dot"></span><span class="dot"></span><span class="dot"></span>
+        <span class="mono" style="font-size:.72rem; color:var(--muted); margin-left:.4rem;">insider-ledger.onrender.com</span></div>
+      <div class="body">
+        <div class="searchrow">
+          <div class="input">Search insider, company, or ticker…</div>
+          <div class="btn">Search</div>
+        </div>
+        <div class="chips">
+          <span class="chip on">Buys (P)</span><span class="chip">Sells (S)</span>
+          <span class="chip">Grants (A)</span><span class="chip">Directors</span><span class="chip">Last 7 days</span>
+        </div>
+        <table class="data">
+          <thead><tr><th>Insider</th><th>Company</th><th>Tkr</th><th>Type</th><th>Shares</th><th>Price</th><th>vs Mkt</th></tr></thead>
+          <tbody>
+            <tr><td>Saba Capital</td><td>New Germany Fund</td><td class="mono">GF</td><td><span class="tag buy">Buy</span></td><td>100</td><td>$11.37</td><td style="color:var(--buy)">−0.8%</td></tr>
+            <tr><td>Officer</td><td>Stratus Properties</td><td class="mono">STRS</td><td><span class="tag sell">Sell</span></td><td>1,200</td><td>$28.03</td><td style="color:var(--sell)">+1.6%</td></tr>
+            <tr><td>Director</td><td>United Therapeutics</td><td class="mono">UTHR</td><td><span class="tag sell">Sell</span></td><td>500</td><td>$549.03</td><td style="color:var(--sell)">+0.3%</td></tr>
+          </tbody>
+        </table>
+        <div class="pager"><span>◀ Prev</span><span>Page 1 of 8 · 197 results</span><span class="csvbtn">⬇ Export CSV</span></div>
+      </div>
+    </div>
+    <p class="muted" style="margin-top:.9rem; font-size:.85rem;">Wireframe — colour marks buys vs. sells; the "vs Mkt" column is the merged price context.</p>
+  </div>
+</section>
+
+<!-- 7 · METHODOLOGY -->
+<section class="slide">
+  <div class="wrap">
+    <p class="eyebrow"><span class="num">07 / 08</span> Methodology &amp; its limits</p>
+    <h2>What this data is, and what it is not.</h2>
+    <div class="grid g2">
+      <div class="card"><h3>What it reveals</h3><p>A near-real-time, verifiable record of insider activity. Every row links back to the original SEC filing, and filings are immutable once submitted.</p></div>
+      <div class="card"><h3>Point of view</h3><p>Collected by the insiders themselves under legal mandate — so it reflects a compliance lens, not an editorial one.</p></div>
+      <div class="card"><h3>What is missing</h3><p>Recent filings only, no deep history. Sales and grants dominate; open-market buys are rare. It records <em>what</em> was traded, never <em>why</em>.</p></div>
+      <div class="card"><h3>Ethics</h3><p>All public data, but the tool aggregates named individuals' finances. A trade is not proof of intent — the framing must not imply wrongdoing.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- 8 · HORIZON + QUESTIONS -->
+<section class="slide">
+  <div class="wrap">
+    <p class="eyebrow"><span class="num">08 / 08</span> Horizon &amp; questions for you</p>
+    <h2>Where it goes — and where I need your read.</h2>
+    <div class="grid g2" style="margin-bottom:1.4rem;">
+      <div class="card"><h3>Next two weeks</h3><p>Ship the app on Render, finalize the two tables from your feedback, add date-range and buy/sell filters, write the full methodology.</p></div>
+      <div class="card"><h3>If built professionally</h3><p>Backfill years of history, flag <strong>clusters</strong> of insiders buying the same stock in one window, and surface net buying by company.</p></div>
+    </div>
+    <div class="q">
+      <span class="lbl">Question 1 · the unit</span>
+      <p>Is one row per <em>transaction</em> clearest for a non-expert, or would grouping by filing or insider tell a cleaner story?</p>
+    </div>
+    <div class="q">
+      <span class="lbl">Question 2 · the framing</span>
+      <p>How do I present "traded 2% below market" as useful context without implying a signal — or wrongdoing — that isn't there?</p>
+    </div>
+  </div>
+</section>
+
+<script>
+  var counter = document.getElementById('counter');
+  var progress = document.getElementById('progress');
+  var slides = Array.prototype.slice.call(document.querySelectorAll('.slide'));
+  var total = slides.length;
+
+  function currentIndex() {
+    var y = window.scrollY + window.innerHeight / 2;
+    var idx = 0;
+    for (var i = 0; i < slides.length; i++) { if (slides[i].offsetTop <= y) idx = i; }
+    return idx;
+  }
+  function update() {
+    var idx = currentIndex();
+    counter.textContent = String(idx + 1).padStart(2, '0') + ' / ' + String(total).padStart(2, '0');
+    var max = document.documentElement.scrollHeight - window.innerHeight;
+    progress.style.width = (max > 0 ? (window.scrollY / max) * 100 : 0) + '%';
+  }
+  function go(dir) {
+    var next = Math.min(Math.max(currentIndex() + dir, 0), slides.length - 1);
+    slides[next].scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+  window.addEventListener('scroll', update, { passive: true });
+  window.addEventListener('resize', update);
+  document.addEventListener('keydown', function (e) {
+    if (['ArrowDown', 'ArrowRight', 'PageDown', ' '].indexOf(e.key) > -1) { e.preventDefault(); go(1); }
+    if (['ArrowUp', 'ArrowLeft', 'PageUp'].indexOf(e.key) > -1) { e.preventDefault(); go(-1); }
+  });
+  update();
+</script>
