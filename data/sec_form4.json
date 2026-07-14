@@ -8616,6 +8616,96 @@
     "xml_url": "https://www.sec.gov/Archives/edgar/data/38725/000118924226000035/wk-form4_1783344757.xml"
   },
   {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000043920&owner=include&count=100",
+    "entity_name": "GREIF, INC",
+    "entity_cik": "0000043920",
+    "entity_role": "Issuer",
+    "form_type": "4",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/43920/000004392026000103/0000043920-26-000103-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/43920/000004392026000103/0000043920-26-000103.txt",
+    "description": "Statement of changes in beneficial ownership of securities",
+    "accession_number": "0000043920-26-000103",
+    "size": "5 KB",
+    "accepted_date": "2026-07-13",
+    "accepted_time": "21:20:46",
+    "filing_date": "2026-07-13",
+    "content_hash": "3202c4fc4a0b48b1ea17b72d9073a153",
+    "url": "https://www.sec.gov/Archives/edgar/data/43920/000004392026000103/0000043920-26-000103-index.htm",
+    "entry_id": "0000043920_0000043920-26-000103",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "PRIMARY DOCUMENT",
+          "form4.html",
+          "4",
+          ""
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/43920/000004392026000103/xslF345X06/form4.xml"
+        ]
+      },
+      {
+        "cells": [
+          "1",
+          "PRIMARY DOCUMENT",
+          "form4.xml",
+          "4",
+          "3755"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/43920/000004392026000103/form4.xml"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0000043920-26-000103.txt",
+          "",
+          "5409"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/43920/000004392026000103/0000043920-26-000103.txt"
+        ]
+      }
+    ],
+    "schema_version": "X0609",
+    "document_type": "4",
+    "period_of_report": "2026-07-10",
+    "issuer_cik": "0000043920",
+    "issuer_name": "GREIF, INC",
+    "issuer_trading_symbol": "GEF, GEF-B",
+    "reporting_owner_cik": "0001628498",
+    "reporting_owner_name": "Bergwall Timothy",
+    "reporting_owner_address": {
+      "rptOwnerNonUSAddressFlag": "false",
+      "rptOwnerStreet1": "425 WINTER ROAD",
+      "rptOwnerCity": "DELAWARE",
+      "rptOwnerState": "OH",
+      "rptOwnerZipCode": "43015"
+    },
+    "relationship": {
+      "isOfficer": "1",
+      "officerTitle": "SVP, Chief Commercial Officer"
+    },
+    "non_derivative_transactions": [
+      {
+        "security_title": "Class A Common Stock",
+        "transaction_date": "2026-07-10",
+        "shares_owned_following": "63831.55",
+        "direct_or_indirect": "D",
+        "transaction_code": "S",
+        "shares": "2000",
+        "price_per_share": "73.1444",
+        "acquired_disposed": "D"
+      }
+    ],
+    "signature_name": "Timothy Bergwall by L. Dennis Hoffman, Jr. pursuant to a POA filed with the Commission.",
+    "signature_date": "2026-07-13",
+    "xml_url": "https://www.sec.gov/Archives/edgar/data/43920/000004392026000103/form4.xml"
+  },
+  {
     "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000070858&owner=include&count=100",
     "entity_name": "BANK OF AMERICA CORP /DE/",
     "entity_cik": "0000070858",
@@ -53361,6 +53451,99 @@
     "xml_url": "https://www.sec.gov/Archives/edgar/data/1627720/000173016826000066/wk-form4_1783723055.xml"
   },
   {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001628498&owner=include&count=100",
+    "entity_name": "Bergwall Timothy",
+    "entity_cik": "0001628498",
+    "entity_role": "Reporting",
+    "form_type": "4",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/1628498/000004392026000103/0000043920-26-000103-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/1628498/000004392026000103/0000043920-26-000103.txt",
+    "description": "Statement of changes in beneficial ownership of securities",
+    "accession_number": "0000043920-26-000103",
+    "act": "34",
+    "size": "5 KB",
+    "accepted_date": "2026-07-13",
+    "accepted_time": "21:20:46",
+    "filing_date": "2026-07-13",
+    "file_number": "001-00566",
+    "film_number": "261172409",
+    "content_hash": "c662f7076806746aaaf97db27069be15",
+    "url": "https://www.sec.gov/Archives/edgar/data/1628498/000004392026000103/0000043920-26-000103-index.htm",
+    "entry_id": "0001628498_0000043920-26-000103",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "PRIMARY DOCUMENT",
+          "form4.html",
+          "4",
+          ""
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/43920/000004392026000103/xslF345X06/form4.xml"
+        ]
+      },
+      {
+        "cells": [
+          "1",
+          "PRIMARY DOCUMENT",
+          "form4.xml",
+          "4",
+          "3755"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/43920/000004392026000103/form4.xml"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0000043920-26-000103.txt",
+          "",
+          "5409"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/43920/000004392026000103/0000043920-26-000103.txt"
+        ]
+      }
+    ],
+    "schema_version": "X0609",
+    "document_type": "4",
+    "period_of_report": "2026-07-10",
+    "issuer_cik": "0000043920",
+    "issuer_name": "GREIF, INC",
+    "issuer_trading_symbol": "GEF, GEF-B",
+    "reporting_owner_cik": "0001628498",
+    "reporting_owner_name": "Bergwall Timothy",
+    "reporting_owner_address": {
+      "rptOwnerNonUSAddressFlag": "false",
+      "rptOwnerStreet1": "425 WINTER ROAD",
+      "rptOwnerCity": "DELAWARE",
+      "rptOwnerState": "OH",
+      "rptOwnerZipCode": "43015"
+    },
+    "relationship": {
+      "isOfficer": "1",
+      "officerTitle": "SVP, Chief Commercial Officer"
+    },
+    "non_derivative_transactions": [
+      {
+        "security_title": "Class A Common Stock",
+        "transaction_date": "2026-07-10",
+        "shares_owned_following": "63831.55",
+        "direct_or_indirect": "D",
+        "transaction_code": "S",
+        "shares": "2000",
+        "price_per_share": "73.1444",
+        "acquired_disposed": "D"
+      }
+    ],
+    "signature_name": "Timothy Bergwall by L. Dennis Hoffman, Jr. pursuant to a POA filed with the Commission.",
+    "signature_date": "2026-07-13",
+    "xml_url": "https://www.sec.gov/Archives/edgar/data/43920/000004392026000103/form4.xml"
+  },
+  {
     "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001631463&owner=include&count=100",
     "entity_name": "Barrel Energy Inc.",
     "entity_cik": "0001631463",
@@ -56211,6 +56394,128 @@
     "signature_name": "/s/ Anya Hamill as attorney-in-fact",
     "signature_date": "2026-07-13",
     "xml_url": "https://www.sec.gov/Archives/edgar/data/1650696/000143774926023470/rdgdoc.xml"
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001650696&owner=include&count=100",
+    "entity_name": "Laird Superfood, Inc.",
+    "entity_cik": "0001650696",
+    "entity_role": "Issuer",
+    "form_type": "4",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/1650696/000143774926023473/0001437749-26-023473-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/1650696/000143774926023473/0001437749-26-023473.txt",
+    "description": "Statement of changes in beneficial ownership of securities",
+    "accession_number": "0001437749-26-023473",
+    "size": "9 KB",
+    "accepted_date": "2026-07-13",
+    "accepted_time": "21:09:18",
+    "filing_date": "2026-07-13",
+    "content_hash": "9e5fffbeddae28a61bbf3cf39b54bafd",
+    "url": "https://www.sec.gov/Archives/edgar/data/1650696/000143774926023473/0001437749-26-023473-index.htm",
+    "entry_id": "0001650696_0001437749-26-023473",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "2026-07-09 FORM 4",
+          "rdgdoc.html",
+          "4",
+          ""
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1650696/000143774926023473/xslF345X06/rdgdoc.xml"
+        ]
+      },
+      {
+        "cells": [
+          "1",
+          "2026-07-09 FORM 4",
+          "rdgdoc.xml",
+          "4",
+          "7713"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1650696/000143774926023473/rdgdoc.xml"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001437749-26-023473.txt",
+          "",
+          "9260"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1650696/000143774926023473/0001437749-26-023473.txt"
+        ]
+      }
+    ],
+    "schema_version": "X0609",
+    "document_type": "4",
+    "period_of_report": "2026-07-09",
+    "issuer_cik": "0001650696",
+    "issuer_name": "Laird Superfood, Inc.",
+    "issuer_trading_symbol": "LSF",
+    "reporting_owner_cik": "0001788654",
+    "reporting_owner_name": "Naylor Maile",
+    "reporting_owner_address": {
+      "rptOwnerNonUSAddressFlag": "false",
+      "rptOwnerStreet1": "5303 SPINE ROAD",
+      "rptOwnerStreet2": "SUITE 204",
+      "rptOwnerCity": "BOULDER",
+      "rptOwnerState": "CO",
+      "rptOwnerZipCode": "80301"
+    },
+    "relationship": {
+      "isDirector": "1"
+    },
+    "derivative_transactions": [
+      {
+        "security_title": "Option (right to buy)",
+        "transaction_date": "2026-07-09",
+        "shares_owned_following": "60000",
+        "direct_or_indirect": "D",
+        "transaction_code": "A",
+        "shares": "60000",
+        "price_per_share": "0",
+        "acquired_disposed": "A",
+        "conversion_exercise_price": "4.36",
+        "underlying_title": "Laird Superfood, Inc. Common Stock",
+        "underlying_shares": "60000"
+      },
+      {
+        "security_title": "Option (right to buy)",
+        "transaction_date": "2026-07-06",
+        "shares_owned_following": "25000",
+        "direct_or_indirect": "D",
+        "transaction_code": "A",
+        "shares": "25000",
+        "price_per_share": "0",
+        "acquired_disposed": "A",
+        "conversion_exercise_price": "6",
+        "underlying_title": "Laird Superfood, Inc. Common Stock",
+        "underlying_shares": "25000"
+      },
+      {
+        "security_title": "Option (right to buy)",
+        "transaction_date": "2026-07-09",
+        "shares_owned_following": "25000",
+        "direct_or_indirect": "D",
+        "transaction_code": "A",
+        "shares": "25000",
+        "price_per_share": "0",
+        "acquired_disposed": "A",
+        "conversion_exercise_price": "9",
+        "underlying_title": "Laird Superfood, Inc. Common Stock",
+        "underlying_shares": "25000"
+      }
+    ],
+    "footnotes": [
+      "The stock options vest as to 25% of the shares on each of the first four anniversaries of the grant date."
+    ],
+    "signature_name": "/s/ Anya Hamill as attorney-in-fact",
+    "signature_date": "2026-07-13",
+    "xml_url": "https://www.sec.gov/Archives/edgar/data/1650696/000143774926023473/rdgdoc.xml"
   },
   {
     "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001651403&owner=include&count=100",
@@ -80855,6 +81160,131 @@
     "xml_url": "https://www.sec.gov/Archives/edgar/data/1227451/000094562126000902/form4.xml"
   },
   {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001788654&owner=include&count=100",
+    "entity_name": "Naylor Maile",
+    "entity_cik": "0001788654",
+    "entity_role": "Reporting",
+    "form_type": "4",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/1788654/000143774926023473/0001437749-26-023473-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/1788654/000143774926023473/0001437749-26-023473.txt",
+    "description": "Statement of changes in beneficial ownership of securities",
+    "accession_number": "0001437749-26-023473",
+    "act": "34",
+    "size": "9 KB",
+    "accepted_date": "2026-07-13",
+    "accepted_time": "21:09:18",
+    "filing_date": "2026-07-13",
+    "file_number": "001-39537",
+    "film_number": "261172398",
+    "content_hash": "20249da5af5f73e025a45355b432874a",
+    "url": "https://www.sec.gov/Archives/edgar/data/1788654/000143774926023473/0001437749-26-023473-index.htm",
+    "entry_id": "0001788654_0001437749-26-023473",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "2026-07-09 FORM 4",
+          "rdgdoc.html",
+          "4",
+          ""
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1650696/000143774926023473/xslF345X06/rdgdoc.xml"
+        ]
+      },
+      {
+        "cells": [
+          "1",
+          "2026-07-09 FORM 4",
+          "rdgdoc.xml",
+          "4",
+          "7713"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1650696/000143774926023473/rdgdoc.xml"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001437749-26-023473.txt",
+          "",
+          "9260"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1650696/000143774926023473/0001437749-26-023473.txt"
+        ]
+      }
+    ],
+    "schema_version": "X0609",
+    "document_type": "4",
+    "period_of_report": "2026-07-09",
+    "issuer_cik": "0001650696",
+    "issuer_name": "Laird Superfood, Inc.",
+    "issuer_trading_symbol": "LSF",
+    "reporting_owner_cik": "0001788654",
+    "reporting_owner_name": "Naylor Maile",
+    "reporting_owner_address": {
+      "rptOwnerNonUSAddressFlag": "false",
+      "rptOwnerStreet1": "5303 SPINE ROAD",
+      "rptOwnerStreet2": "SUITE 204",
+      "rptOwnerCity": "BOULDER",
+      "rptOwnerState": "CO",
+      "rptOwnerZipCode": "80301"
+    },
+    "relationship": {
+      "isDirector": "1"
+    },
+    "derivative_transactions": [
+      {
+        "security_title": "Option (right to buy)",
+        "transaction_date": "2026-07-09",
+        "shares_owned_following": "60000",
+        "direct_or_indirect": "D",
+        "transaction_code": "A",
+        "shares": "60000",
+        "price_per_share": "0",
+        "acquired_disposed": "A",
+        "conversion_exercise_price": "4.36",
+        "underlying_title": "Laird Superfood, Inc. Common Stock",
+        "underlying_shares": "60000"
+      },
+      {
+        "security_title": "Option (right to buy)",
+        "transaction_date": "2026-07-06",
+        "shares_owned_following": "25000",
+        "direct_or_indirect": "D",
+        "transaction_code": "A",
+        "shares": "25000",
+        "price_per_share": "0",
+        "acquired_disposed": "A",
+        "conversion_exercise_price": "6",
+        "underlying_title": "Laird Superfood, Inc. Common Stock",
+        "underlying_shares": "25000"
+      },
+      {
+        "security_title": "Option (right to buy)",
+        "transaction_date": "2026-07-09",
+        "shares_owned_following": "25000",
+        "direct_or_indirect": "D",
+        "transaction_code": "A",
+        "shares": "25000",
+        "price_per_share": "0",
+        "acquired_disposed": "A",
+        "conversion_exercise_price": "9",
+        "underlying_title": "Laird Superfood, Inc. Common Stock",
+        "underlying_shares": "25000"
+      }
+    ],
+    "footnotes": [
+      "The stock options vest as to 25% of the shares on each of the first four anniversaries of the grant date."
+    ],
+    "signature_name": "/s/ Anya Hamill as attorney-in-fact",
+    "signature_date": "2026-07-13",
+    "xml_url": "https://www.sec.gov/Archives/edgar/data/1650696/000143774926023473/rdgdoc.xml"
+  },
+  {
     "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001789029&owner=include&count=100",
     "entity_name": "Aeva Technologies, Inc.",
     "entity_cik": "0001789029",
@@ -82252,6 +82682,119 @@
     "signature_name": "/s/ Kamran Alam, Attorney-in-Fact",
     "signature_date": "2026-07-10",
     "xml_url": "https://www.sec.gov/Archives/edgar/data/1665124/000166512426000013/form4-07102026_100732.xml"
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001812477&owner=include&count=100",
+    "entity_name": "Keel Infrastructure Corp.",
+    "entity_cik": "0001812477",
+    "entity_role": "Issuer",
+    "form_type": "4",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/1812477/000119312526302304/0001193125-26-302304-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/1812477/000119312526302304/0001193125-26-302304.txt",
+    "description": "Statement of changes in beneficial ownership of securities",
+    "accession_number": "0001193125-26-302304",
+    "size": "7 KB",
+    "accepted_date": "2026-07-13",
+    "accepted_time": "21:20:49",
+    "filing_date": "2026-07-13",
+    "content_hash": "85295b06d43bdd941ec25aba3ce92159",
+    "url": "https://www.sec.gov/Archives/edgar/data/1812477/000119312526302304/0001193125-26-302304-index.htm",
+    "entry_id": "0001812477_0001193125-26-302304",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "4",
+          "ownership.html",
+          "4",
+          ""
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1812477/000119312526302304/xslF345X06/ownership.xml"
+        ]
+      },
+      {
+        "cells": [
+          "1",
+          "4",
+          "ownership.xml",
+          "4",
+          "6173"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1812477/000119312526302304/ownership.xml"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001193125-26-302304.txt",
+          "",
+          "7642"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1812477/000119312526302304/0001193125-26-302304.txt"
+        ]
+      }
+    ],
+    "schema_version": "X0609",
+    "document_type": "4",
+    "period_of_report": "2026-07-09",
+    "issuer_cik": "0001812477",
+    "issuer_name": "Keel Infrastructure Corp.",
+    "issuer_trading_symbol": "KEEL",
+    "reporting_owner_cik": "0002145277",
+    "reporting_owner_name": "Aiyer Ganesh",
+    "reporting_owner_address": {
+      "rptOwnerNonUSAddressFlag": "false",
+      "rptOwnerStreet1": "120 BROADWAY, SUITE 1075",
+      "rptOwnerCity": "NEW YORK",
+      "rptOwnerState": "NY",
+      "rptOwnerZipCode": "10004"
+    },
+    "relationship": {
+      "isDirector": "false",
+      "isOfficer": "true",
+      "isTenPercentOwner": "false",
+      "isOther": "false",
+      "officerTitle": "President"
+    },
+    "derivative_transactions": [
+      {
+        "security_title": "Restricted Stock Units",
+        "transaction_date": "2026-07-09",
+        "shares_owned_following": "259516",
+        "direct_or_indirect": "D",
+        "transaction_code": "A",
+        "shares": "259516",
+        "price_per_share": "0",
+        "acquired_disposed": "A",
+        "underlying_title": "Common Stock",
+        "underlying_shares": "259516"
+      },
+      {
+        "security_title": "Stock Options (Right to Buy)",
+        "transaction_date": "2026-07-09",
+        "shares_owned_following": "100000",
+        "direct_or_indirect": "D",
+        "transaction_code": "A",
+        "shares": "100000",
+        "price_per_share": "0",
+        "acquired_disposed": "A",
+        "conversion_exercise_price": "4.56",
+        "underlying_title": "Common Stock",
+        "underlying_shares": "100000"
+      }
+    ],
+    "footnotes": [
+      "Each restricted stock unit (\"RSU\") represents a contingent right to receive one common share or an equivalent value in cash at the issuer's election.",
+      "The RSUs will vest as follows: 129,758 on January 9, 2027; 64,879 on July 9, 2027; and 64,879 on January 9, 2028.",
+      "The stock options will vest 100% on January 9, 2027."
+    ],
+    "signature_name": "/s/ Rachel Silverstein, as attorney-in-fact",
+    "signature_date": "2026-07-13",
+    "xml_url": "https://www.sec.gov/Archives/edgar/data/1812477/000119312526302304/ownership.xml"
   },
   {
     "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001813453&owner=include&count=100",
@@ -85017,6 +85560,134 @@
     "signature_name": "/s/ Agustin Cancela, attorney-in-fact for Sebastian Kanovich",
     "signature_date": "2026-07-09",
     "xml_url": "https://www.sec.gov/Archives/edgar/data/1846832/000191107926000001/primary_doc.xml"
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001847130&owner=include&count=100",
+    "entity_name": "Roy Kanishka",
+    "entity_cik": "0001847130",
+    "entity_role": "Reporting",
+    "form_type": "4",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/1847130/000121390026077740/0001213900-26-077740-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/1847130/000121390026077740/0001213900-26-077740.txt",
+    "description": "Statement of changes in beneficial ownership of securities",
+    "accession_number": "0001213900-26-077740",
+    "act": "34",
+    "size": "10 KB",
+    "accepted_date": "2026-07-13",
+    "accepted_time": "21:05:34",
+    "filing_date": "2026-07-13",
+    "file_number": "001-42472",
+    "film_number": "261172394",
+    "content_hash": "3c0f082378d898efd3b254dd09425a4e",
+    "url": "https://www.sec.gov/Archives/edgar/data/1847130/000121390026077740/0001213900-26-077740-index.htm",
+    "entry_id": "0001847130_0001213900-26-077740",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "",
+          "ownership.html",
+          "4",
+          ""
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1847130/000121390026077740/xslF345X06/ownership.xml"
+        ]
+      },
+      {
+        "cells": [
+          "1",
+          "",
+          "ownership.xml",
+          "4",
+          "9577"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1847130/000121390026077740/ownership.xml"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001213900-26-077740.txt",
+          "",
+          "10982"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1847130/000121390026077740/0001213900-26-077740.txt"
+        ]
+      }
+    ],
+    "schema_version": "X0609",
+    "document_type": "4",
+    "period_of_report": "2025-04-25",
+    "issuer_cik": "0002030482",
+    "issuer_name": "Plum Acquisition Corp, IV",
+    "issuer_trading_symbol": "PLMK",
+    "reporting_owner_cik": "0001847130",
+    "reporting_owner_name": "Roy Kanishka",
+    "reporting_owner_address": {
+      "rptOwnerNonUSAddressFlag": "false",
+      "rptOwnerStreet1": "C/O PLUM ACQUISITION CORP. IV",
+      "rptOwnerStreet2": "2021 FILLMORE ST. #2089",
+      "rptOwnerCity": "SAN FRANCISCO",
+      "rptOwnerState": "CA",
+      "rptOwnerZipCode": "94115"
+    },
+    "relationship": {
+      "isDirector": "1",
+      "isOfficer": "1",
+      "isTenPercentOwner": "1",
+      "isOther": "0",
+      "officerTitle": "Chief Executive Officer"
+    },
+    "non_derivative_transactions": [
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-09",
+        "shares_owned_following": "6659999",
+        "direct_or_indirect": "I",
+        "transaction_code": "C",
+        "shares": "5649999",
+        "acquired_disposed": "A"
+      }
+    ],
+    "derivative_transactions": [
+      {
+        "security_title": "Class B ordinary shares",
+        "transaction_date": "2025-04-25",
+        "shares_owned_following": "5650000",
+        "direct_or_indirect": "I",
+        "transaction_code": "J",
+        "shares": "25000",
+        "price_per_share": "0.00",
+        "acquired_disposed": "D",
+        "underlying_title": "Class A ordinary shares",
+        "underlying_shares": "25000"
+      },
+      {
+        "security_title": "Class B ordinary shares",
+        "transaction_date": "2026-07-09",
+        "shares_owned_following": "1",
+        "direct_or_indirect": "I",
+        "transaction_code": "C",
+        "shares": "5649999",
+        "price_per_share": "0.00",
+        "acquired_disposed": "D",
+        "underlying_title": "Class A ordinary shares",
+        "underlying_shares": "5649999"
+      }
+    ],
+    "footnotes": [
+      "Each Class B ordinary share, par value $0.0001, (\"Class B Shares\") will automatically convert into Class A ordinary shares, par value $0.0001, of the Issuer (\"Class A Shares\") at a ratio of no less than one-to-one following the consummation of the Issuer's initial business combination, or earlier at the option of the holder thereof, subject to adjustment as set forth in the Issuer's registration statement on Form S-1 (File No. 333-281144). The Class B Shares have no expiration date.",
+      "The securities are held directly by Plum Partners IV, LLC (the \"Sponsor\"). Kanishka Roy, the Issuer's Chairman and Chief Executive Officer, is the managing member of the Sponsor, therefore, he may be deemed to have beneficial ownership of the securities held directly by the Sponsor. Mr. Roy disclaims beneficial ownership of such shares, except to the extent of his pecuniary interest therein.",
+      "Represents the Class B Shares transferred by the Sponsor to Aidin Aghamiri for services as a director.",
+      "The reported Class B Shares converted into Class A Shares pursuant to an election by the Sponsor."
+    ],
+    "signature_name": "/s/ Kanishka Roy",
+    "signature_date": "2026-07-13",
+    "xml_url": "https://www.sec.gov/Archives/edgar/data/1847130/000121390026077740/ownership.xml"
   },
   {
     "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001849381&owner=include&count=100",
@@ -97473,6 +98144,365 @@
     "xml_url": "https://www.sec.gov/Archives/edgar/data/1985487/000119312526297837/ownership.xml"
   },
   {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002030482&owner=include&count=100",
+    "entity_name": "Plum Acquisition Corp, IV",
+    "entity_cik": "0002030482",
+    "entity_role": "Issuer",
+    "form_type": "4",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/2030482/000121390026077739/0001213900-26-077739-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/2030482/000121390026077739/0001213900-26-077739.txt",
+    "description": "Statement of changes in beneficial ownership of securities",
+    "accession_number": "0001213900-26-077739",
+    "size": "10 KB",
+    "accepted_date": "2026-07-13",
+    "accepted_time": "21:04:31",
+    "filing_date": "2026-07-13",
+    "content_hash": "cf8477a903638d729a58a2dbe1a0a84e",
+    "url": "https://www.sec.gov/Archives/edgar/data/2030482/000121390026077739/0001213900-26-077739-index.htm",
+    "entry_id": "0002030482_0001213900-26-077739",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "",
+          "ownership.html",
+          "4",
+          ""
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/2030482/000121390026077739/xslF345X06/ownership.xml"
+        ]
+      },
+      {
+        "cells": [
+          "1",
+          "",
+          "ownership.xml",
+          "4",
+          "9094"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/2030482/000121390026077739/ownership.xml"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001213900-26-077739.txt",
+          "",
+          "10715"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/2030482/000121390026077739/0001213900-26-077739.txt"
+        ]
+      }
+    ],
+    "schema_version": "X0609",
+    "document_type": "4",
+    "period_of_report": "2025-04-25",
+    "issuer_cik": "0002030482",
+    "issuer_name": "Plum Acquisition Corp, IV",
+    "issuer_trading_symbol": "PLMK",
+    "reporting_owner_cik": "0002047679",
+    "reporting_owner_name": "PLUM PARTNERS IV, LLC",
+    "reporting_owner_address": {
+      "rptOwnerNonUSAddressFlag": "false",
+      "rptOwnerStreet1": "C/O PLUM ACQUISITION CORP. IV",
+      "rptOwnerStreet2": "2021 FILLMORE ST. #2089",
+      "rptOwnerCity": "SAN FRANCISCO",
+      "rptOwnerState": "CA",
+      "rptOwnerZipCode": "94115"
+    },
+    "relationship": {
+      "isDirector": "0",
+      "isOfficer": "0",
+      "isTenPercentOwner": "1",
+      "isOther": "0"
+    },
+    "non_derivative_transactions": [
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-09",
+        "shares_owned_following": "6659999",
+        "direct_or_indirect": "D",
+        "transaction_code": "C",
+        "shares": "5649999",
+        "acquired_disposed": "A"
+      }
+    ],
+    "derivative_transactions": [
+      {
+        "security_title": "Class B ordinary shares",
+        "transaction_date": "2025-04-25",
+        "shares_owned_following": "5650000",
+        "direct_or_indirect": "D",
+        "transaction_code": "J",
+        "shares": "25000",
+        "price_per_share": "0.00",
+        "acquired_disposed": "D",
+        "underlying_title": "Class A ordinary shares",
+        "underlying_shares": "25000"
+      },
+      {
+        "security_title": "Class B ordinary shares",
+        "transaction_date": "2026-07-09",
+        "shares_owned_following": "1",
+        "direct_or_indirect": "D",
+        "transaction_code": "C",
+        "shares": "5649999",
+        "price_per_share": "0.00",
+        "acquired_disposed": "D",
+        "underlying_title": "Class A ordinary shares",
+        "underlying_shares": "5649999"
+      }
+    ],
+    "footnotes": [
+      "Each Class B ordinary share, par value $0.0001, (\"Class B Shares\") will automatically convert into Class A ordinary shares, par value $0.0001, of the Issuer (\"Class A Shares\") at a ratio of no less than one-to-one following the consummation of the Issuer's initial business combination, or earlier at the option of the holder thereof, subject to adjustment as set forth in the Issuer's registration statement on Form S-1 (File No. 333-281144). The Class B Shares have no expiration date.",
+      "The securities are held directly by Plum Partners IV, LLC (the \"Sponsor\"). Kanishka Roy, the Issuer's Chairman and Chief Executive Officer, is the managing member of the Sponsor, therefore, he may be deemed to have beneficial ownership of the securities held directly by the Sponsor. Mr. Roy disclaims beneficial ownership of such shares, except to the extent of his pecuniary interest therein.",
+      "Represents the Class B Shares transferred by the Sponsor to Aidin Aghamiri for services as a director.",
+      "The reported Class B Shares converted into Class A Shares pursuant to an election by the Sponsor."
+    ],
+    "signature_name": "/s/ Tricia Branker, Attorney-in-Fact",
+    "signature_date": "2026-07-13",
+    "xml_url": "https://www.sec.gov/Archives/edgar/data/2030482/000121390026077739/ownership.xml"
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002030482&owner=include&count=100",
+    "entity_name": "Plum Acquisition Corp, IV",
+    "entity_cik": "0002030482",
+    "entity_role": "Issuer",
+    "form_type": "4",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/2030482/000121390026077740/0001213900-26-077740-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/2030482/000121390026077740/0001213900-26-077740.txt",
+    "description": "Statement of changes in beneficial ownership of securities",
+    "accession_number": "0001213900-26-077740",
+    "size": "10 KB",
+    "accepted_date": "2026-07-13",
+    "accepted_time": "21:05:34",
+    "filing_date": "2026-07-13",
+    "content_hash": "d32b09b1543dc14214b62d7efa86903b",
+    "url": "https://www.sec.gov/Archives/edgar/data/2030482/000121390026077740/0001213900-26-077740-index.htm",
+    "entry_id": "0002030482_0001213900-26-077740",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "",
+          "ownership.html",
+          "4",
+          ""
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1847130/000121390026077740/xslF345X06/ownership.xml"
+        ]
+      },
+      {
+        "cells": [
+          "1",
+          "",
+          "ownership.xml",
+          "4",
+          "9577"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1847130/000121390026077740/ownership.xml"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001213900-26-077740.txt",
+          "",
+          "10982"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1847130/000121390026077740/0001213900-26-077740.txt"
+        ]
+      }
+    ],
+    "schema_version": "X0609",
+    "document_type": "4",
+    "period_of_report": "2025-04-25",
+    "issuer_cik": "0002030482",
+    "issuer_name": "Plum Acquisition Corp, IV",
+    "issuer_trading_symbol": "PLMK",
+    "reporting_owner_cik": "0001847130",
+    "reporting_owner_name": "Roy Kanishka",
+    "reporting_owner_address": {
+      "rptOwnerNonUSAddressFlag": "false",
+      "rptOwnerStreet1": "C/O PLUM ACQUISITION CORP. IV",
+      "rptOwnerStreet2": "2021 FILLMORE ST. #2089",
+      "rptOwnerCity": "SAN FRANCISCO",
+      "rptOwnerState": "CA",
+      "rptOwnerZipCode": "94115"
+    },
+    "relationship": {
+      "isDirector": "1",
+      "isOfficer": "1",
+      "isTenPercentOwner": "1",
+      "isOther": "0",
+      "officerTitle": "Chief Executive Officer"
+    },
+    "non_derivative_transactions": [
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-09",
+        "shares_owned_following": "6659999",
+        "direct_or_indirect": "I",
+        "transaction_code": "C",
+        "shares": "5649999",
+        "acquired_disposed": "A"
+      }
+    ],
+    "derivative_transactions": [
+      {
+        "security_title": "Class B ordinary shares",
+        "transaction_date": "2025-04-25",
+        "shares_owned_following": "5650000",
+        "direct_or_indirect": "I",
+        "transaction_code": "J",
+        "shares": "25000",
+        "price_per_share": "0.00",
+        "acquired_disposed": "D",
+        "underlying_title": "Class A ordinary shares",
+        "underlying_shares": "25000"
+      },
+      {
+        "security_title": "Class B ordinary shares",
+        "transaction_date": "2026-07-09",
+        "shares_owned_following": "1",
+        "direct_or_indirect": "I",
+        "transaction_code": "C",
+        "shares": "5649999",
+        "price_per_share": "0.00",
+        "acquired_disposed": "D",
+        "underlying_title": "Class A ordinary shares",
+        "underlying_shares": "5649999"
+      }
+    ],
+    "footnotes": [
+      "Each Class B ordinary share, par value $0.0001, (\"Class B Shares\") will automatically convert into Class A ordinary shares, par value $0.0001, of the Issuer (\"Class A Shares\") at a ratio of no less than one-to-one following the consummation of the Issuer's initial business combination, or earlier at the option of the holder thereof, subject to adjustment as set forth in the Issuer's registration statement on Form S-1 (File No. 333-281144). The Class B Shares have no expiration date.",
+      "The securities are held directly by Plum Partners IV, LLC (the \"Sponsor\"). Kanishka Roy, the Issuer's Chairman and Chief Executive Officer, is the managing member of the Sponsor, therefore, he may be deemed to have beneficial ownership of the securities held directly by the Sponsor. Mr. Roy disclaims beneficial ownership of such shares, except to the extent of his pecuniary interest therein.",
+      "Represents the Class B Shares transferred by the Sponsor to Aidin Aghamiri for services as a director.",
+      "The reported Class B Shares converted into Class A Shares pursuant to an election by the Sponsor."
+    ],
+    "signature_name": "/s/ Kanishka Roy",
+    "signature_date": "2026-07-13",
+    "xml_url": "https://www.sec.gov/Archives/edgar/data/1847130/000121390026077740/ownership.xml"
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002030482&owner=include&count=100",
+    "entity_name": "Plum Acquisition Corp, IV",
+    "entity_cik": "0002030482",
+    "entity_role": "Issuer",
+    "form_type": "4",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/2030482/000121390026077741/0001213900-26-077741-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/2030482/000121390026077741/0001213900-26-077741.txt",
+    "description": "Statement of changes in beneficial ownership of securities",
+    "accession_number": "0001213900-26-077741",
+    "size": "7 KB",
+    "accepted_date": "2026-07-13",
+    "accepted_time": "21:06:07",
+    "filing_date": "2026-07-13",
+    "content_hash": "56b9691373932eb5096f8009fee2292a",
+    "url": "https://www.sec.gov/Archives/edgar/data/2030482/000121390026077741/0001213900-26-077741-index.htm",
+    "entry_id": "0002030482_0001213900-26-077741",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "",
+          "ownership.html",
+          "4",
+          ""
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/2030482/000121390026077741/xslF345X06/ownership.xml"
+        ]
+      },
+      {
+        "cells": [
+          "1",
+          "",
+          "ownership.xml",
+          "4",
+          "6203"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/2030482/000121390026077741/ownership.xml"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001213900-26-077741.txt",
+          "",
+          "7599"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/2030482/000121390026077741/0001213900-26-077741.txt"
+        ]
+      }
+    ],
+    "schema_version": "X0609",
+    "document_type": "4",
+    "period_of_report": "2026-07-09",
+    "issuer_cik": "0002030482",
+    "issuer_name": "Plum Acquisition Corp, IV",
+    "issuer_trading_symbol": "PLMK",
+    "reporting_owner_cik": "0002066891",
+    "reporting_owner_name": "Aghamiri Aidin",
+    "reporting_owner_address": {
+      "rptOwnerNonUSAddressFlag": "false",
+      "rptOwnerStreet1": "C/O PLUM ACQUISITION CORP. IV",
+      "rptOwnerStreet2": "2021 FILLMORE ST. #2089",
+      "rptOwnerCity": "SAN FRANCISCO",
+      "rptOwnerState": "CA",
+      "rptOwnerZipCode": "94115"
+    },
+    "relationship": {
+      "isDirector": "1",
+      "isOfficer": "0",
+      "isTenPercentOwner": "0",
+      "isOther": "0"
+    },
+    "non_derivative_transactions": [
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-09",
+        "shares_owned_following": "25000",
+        "direct_or_indirect": "D",
+        "transaction_code": "C",
+        "shares": "25000",
+        "acquired_disposed": "A"
+      }
+    ],
+    "derivative_transactions": [
+      {
+        "security_title": "Class B ordinary shares",
+        "transaction_date": "2026-07-09",
+        "shares_owned_following": "0",
+        "direct_or_indirect": "D",
+        "transaction_code": "C",
+        "shares": "25000",
+        "price_per_share": "0.00",
+        "acquired_disposed": "D",
+        "underlying_title": "Class A ordinary shares",
+        "underlying_shares": "25000"
+      }
+    ],
+    "footnotes": [
+      "Each Class B ordinary share, par value $0.0001, (\"Class B Shares\") will automatically convert into Class A ordinary shares, par value $0.0001, of the Issuer (\"Class A Shares\") at a ratio of no less than one-to-one following the consummation of the Issuer's initial business combination, or earlier at the option of the holder thereof, subject to adjustment as set forth in the Issuer's registration statement on Form S-1 (File No. 333-281144). The Class B Shares have no expiration date.",
+      "The reported Class B Shares converted into Class A Shares pursuant to an election by the Reporting Person."
+    ],
+    "signature_name": "/s/ Tricia Banker, Attorney-in-Fact",
+    "signature_date": "2026-07-13",
+    "xml_url": "https://www.sec.gov/Archives/edgar/data/2030482/000121390026077741/ownership.xml"
+  },
+  {
     "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002033348&owner=include&count=100",
     "entity_name": "Loh Michael Anthony",
     "entity_cik": "0002033348",
@@ -98163,6 +99193,133 @@
     "signature_name": "/s/ Suzanne S. Taylor, attorney-in-fact",
     "signature_date": "2026-07-06",
     "xml_url": "https://www.sec.gov/Archives/edgar/data/1173514/000117351426000174/form4.xml"
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002047679&owner=include&count=100",
+    "entity_name": "PLUM PARTNERS IV, LLC",
+    "entity_cik": "0002047679",
+    "entity_role": "Reporting",
+    "form_type": "4",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/2047679/000121390026077739/0001213900-26-077739-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/2047679/000121390026077739/0001213900-26-077739.txt",
+    "description": "Statement of changes in beneficial ownership of securities",
+    "accession_number": "0001213900-26-077739",
+    "act": "34",
+    "size": "10 KB",
+    "accepted_date": "2026-07-13",
+    "accepted_time": "21:04:31",
+    "filing_date": "2026-07-13",
+    "file_number": "001-42472",
+    "film_number": "261172393",
+    "content_hash": "af552ce61b63d91319e73e30efa9e408",
+    "url": "https://www.sec.gov/Archives/edgar/data/2047679/000121390026077739/0001213900-26-077739-index.htm",
+    "entry_id": "0002047679_0001213900-26-077739",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "",
+          "ownership.html",
+          "4",
+          ""
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/2030482/000121390026077739/xslF345X06/ownership.xml"
+        ]
+      },
+      {
+        "cells": [
+          "1",
+          "",
+          "ownership.xml",
+          "4",
+          "9094"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/2030482/000121390026077739/ownership.xml"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001213900-26-077739.txt",
+          "",
+          "10715"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/2030482/000121390026077739/0001213900-26-077739.txt"
+        ]
+      }
+    ],
+    "schema_version": "X0609",
+    "document_type": "4",
+    "period_of_report": "2025-04-25",
+    "issuer_cik": "0002030482",
+    "issuer_name": "Plum Acquisition Corp, IV",
+    "issuer_trading_symbol": "PLMK",
+    "reporting_owner_cik": "0002047679",
+    "reporting_owner_name": "PLUM PARTNERS IV, LLC",
+    "reporting_owner_address": {
+      "rptOwnerNonUSAddressFlag": "false",
+      "rptOwnerStreet1": "C/O PLUM ACQUISITION CORP. IV",
+      "rptOwnerStreet2": "2021 FILLMORE ST. #2089",
+      "rptOwnerCity": "SAN FRANCISCO",
+      "rptOwnerState": "CA",
+      "rptOwnerZipCode": "94115"
+    },
+    "relationship": {
+      "isDirector": "0",
+      "isOfficer": "0",
+      "isTenPercentOwner": "1",
+      "isOther": "0"
+    },
+    "non_derivative_transactions": [
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-09",
+        "shares_owned_following": "6659999",
+        "direct_or_indirect": "D",
+        "transaction_code": "C",
+        "shares": "5649999",
+        "acquired_disposed": "A"
+      }
+    ],
+    "derivative_transactions": [
+      {
+        "security_title": "Class B ordinary shares",
+        "transaction_date": "2025-04-25",
+        "shares_owned_following": "5650000",
+        "direct_or_indirect": "D",
+        "transaction_code": "J",
+        "shares": "25000",
+        "price_per_share": "0.00",
+        "acquired_disposed": "D",
+        "underlying_title": "Class A ordinary shares",
+        "underlying_shares": "25000"
+      },
+      {
+        "security_title": "Class B ordinary shares",
+        "transaction_date": "2026-07-09",
+        "shares_owned_following": "1",
+        "direct_or_indirect": "D",
+        "transaction_code": "C",
+        "shares": "5649999",
+        "price_per_share": "0.00",
+        "acquired_disposed": "D",
+        "underlying_title": "Class A ordinary shares",
+        "underlying_shares": "5649999"
+      }
+    ],
+    "footnotes": [
+      "Each Class B ordinary share, par value $0.0001, (\"Class B Shares\") will automatically convert into Class A ordinary shares, par value $0.0001, of the Issuer (\"Class A Shares\") at a ratio of no less than one-to-one following the consummation of the Issuer's initial business combination, or earlier at the option of the holder thereof, subject to adjustment as set forth in the Issuer's registration statement on Form S-1 (File No. 333-281144). The Class B Shares have no expiration date.",
+      "The securities are held directly by Plum Partners IV, LLC (the \"Sponsor\"). Kanishka Roy, the Issuer's Chairman and Chief Executive Officer, is the managing member of the Sponsor, therefore, he may be deemed to have beneficial ownership of the securities held directly by the Sponsor. Mr. Roy disclaims beneficial ownership of such shares, except to the extent of his pecuniary interest therein.",
+      "Represents the Class B Shares transferred by the Sponsor to Aidin Aghamiri for services as a director.",
+      "The reported Class B Shares converted into Class A Shares pursuant to an election by the Sponsor."
+    ],
+    "signature_name": "/s/ Tricia Branker, Attorney-in-Fact",
+    "signature_date": "2026-07-13",
+    "xml_url": "https://www.sec.gov/Archives/edgar/data/2030482/000121390026077739/ownership.xml"
   },
   {
     "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002052053&owner=include&count=100",
@@ -101289,6 +102446,119 @@
     "signature_name": "/s/ Oliver Tuszik by Jeremy Erickson, Attorney-in-Fact",
     "signature_date": "2026-07-13",
     "xml_url": "https://www.sec.gov/Archives/edgar/data/858877/000085887726000102/wk-form4_1783981758.xml"
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002066891&owner=include&count=100",
+    "entity_name": "Aghamiri Aidin",
+    "entity_cik": "0002066891",
+    "entity_role": "Reporting",
+    "form_type": "4",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/2066891/000121390026077741/0001213900-26-077741-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/2066891/000121390026077741/0001213900-26-077741.txt",
+    "description": "Statement of changes in beneficial ownership of securities",
+    "accession_number": "0001213900-26-077741",
+    "act": "34",
+    "size": "7 KB",
+    "accepted_date": "2026-07-13",
+    "accepted_time": "21:06:07",
+    "filing_date": "2026-07-13",
+    "file_number": "001-42472",
+    "film_number": "261172396",
+    "content_hash": "3cbe2987213fd354ea233651a671169e",
+    "url": "https://www.sec.gov/Archives/edgar/data/2066891/000121390026077741/0001213900-26-077741-index.htm",
+    "entry_id": "0002066891_0001213900-26-077741",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "",
+          "ownership.html",
+          "4",
+          ""
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/2030482/000121390026077741/xslF345X06/ownership.xml"
+        ]
+      },
+      {
+        "cells": [
+          "1",
+          "",
+          "ownership.xml",
+          "4",
+          "6203"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/2030482/000121390026077741/ownership.xml"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001213900-26-077741.txt",
+          "",
+          "7599"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/2030482/000121390026077741/0001213900-26-077741.txt"
+        ]
+      }
+    ],
+    "schema_version": "X0609",
+    "document_type": "4",
+    "period_of_report": "2026-07-09",
+    "issuer_cik": "0002030482",
+    "issuer_name": "Plum Acquisition Corp, IV",
+    "issuer_trading_symbol": "PLMK",
+    "reporting_owner_cik": "0002066891",
+    "reporting_owner_name": "Aghamiri Aidin",
+    "reporting_owner_address": {
+      "rptOwnerNonUSAddressFlag": "false",
+      "rptOwnerStreet1": "C/O PLUM ACQUISITION CORP. IV",
+      "rptOwnerStreet2": "2021 FILLMORE ST. #2089",
+      "rptOwnerCity": "SAN FRANCISCO",
+      "rptOwnerState": "CA",
+      "rptOwnerZipCode": "94115"
+    },
+    "relationship": {
+      "isDirector": "1",
+      "isOfficer": "0",
+      "isTenPercentOwner": "0",
+      "isOther": "0"
+    },
+    "non_derivative_transactions": [
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-09",
+        "shares_owned_following": "25000",
+        "direct_or_indirect": "D",
+        "transaction_code": "C",
+        "shares": "25000",
+        "acquired_disposed": "A"
+      }
+    ],
+    "derivative_transactions": [
+      {
+        "security_title": "Class B ordinary shares",
+        "transaction_date": "2026-07-09",
+        "shares_owned_following": "0",
+        "direct_or_indirect": "D",
+        "transaction_code": "C",
+        "shares": "25000",
+        "price_per_share": "0.00",
+        "acquired_disposed": "D",
+        "underlying_title": "Class A ordinary shares",
+        "underlying_shares": "25000"
+      }
+    ],
+    "footnotes": [
+      "Each Class B ordinary share, par value $0.0001, (\"Class B Shares\") will automatically convert into Class A ordinary shares, par value $0.0001, of the Issuer (\"Class A Shares\") at a ratio of no less than one-to-one following the consummation of the Issuer's initial business combination, or earlier at the option of the holder thereof, subject to adjustment as set forth in the Issuer's registration statement on Form S-1 (File No. 333-281144). The Class B Shares have no expiration date.",
+      "The reported Class B Shares converted into Class A Shares pursuant to an election by the Reporting Person."
+    ],
+    "signature_name": "/s/ Tricia Banker, Attorney-in-Fact",
+    "signature_date": "2026-07-13",
+    "xml_url": "https://www.sec.gov/Archives/edgar/data/2030482/000121390026077741/ownership.xml"
   },
   {
     "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002068530&owner=include&count=100",
@@ -107922,6 +109192,122 @@
     "signature_name": "ICONIQ Strategic Partners VIII Holdings, L.P., By: ICONIQ Strategic Partners VIII GP, L.P., By: ICONIQ Strategic Partners VIII TT GP, LLC, By: Kevin Foster, Title: Head of Strategy, /s/ Kevin Foster",
     "signature_date": "2026-07-10",
     "xml_url": "https://www.sec.gov/Archives/edgar/data/1688143/000119312526301164/ownership.xml"
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002145277&owner=include&count=100",
+    "entity_name": "Aiyer Ganesh",
+    "entity_cik": "0002145277",
+    "entity_role": "Reporting",
+    "form_type": "4",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/2145277/000119312526302304/0001193125-26-302304-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/2145277/000119312526302304/0001193125-26-302304.txt",
+    "description": "Statement of changes in beneficial ownership of securities",
+    "accession_number": "0001193125-26-302304",
+    "act": "34",
+    "size": "7 KB",
+    "accepted_date": "2026-07-13",
+    "accepted_time": "21:20:49",
+    "filing_date": "2026-07-13",
+    "file_number": "001-40370",
+    "film_number": "261172410",
+    "content_hash": "02dff7fc5c7715c7f0d27cee894ef5b3",
+    "url": "https://www.sec.gov/Archives/edgar/data/2145277/000119312526302304/0001193125-26-302304-index.htm",
+    "entry_id": "0002145277_0001193125-26-302304",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "4",
+          "ownership.html",
+          "4",
+          ""
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1812477/000119312526302304/xslF345X06/ownership.xml"
+        ]
+      },
+      {
+        "cells": [
+          "1",
+          "4",
+          "ownership.xml",
+          "4",
+          "6173"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1812477/000119312526302304/ownership.xml"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001193125-26-302304.txt",
+          "",
+          "7642"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1812477/000119312526302304/0001193125-26-302304.txt"
+        ]
+      }
+    ],
+    "schema_version": "X0609",
+    "document_type": "4",
+    "period_of_report": "2026-07-09",
+    "issuer_cik": "0001812477",
+    "issuer_name": "Keel Infrastructure Corp.",
+    "issuer_trading_symbol": "KEEL",
+    "reporting_owner_cik": "0002145277",
+    "reporting_owner_name": "Aiyer Ganesh",
+    "reporting_owner_address": {
+      "rptOwnerNonUSAddressFlag": "false",
+      "rptOwnerStreet1": "120 BROADWAY, SUITE 1075",
+      "rptOwnerCity": "NEW YORK",
+      "rptOwnerState": "NY",
+      "rptOwnerZipCode": "10004"
+    },
+    "relationship": {
+      "isDirector": "false",
+      "isOfficer": "true",
+      "isTenPercentOwner": "false",
+      "isOther": "false",
+      "officerTitle": "President"
+    },
+    "derivative_transactions": [
+      {
+        "security_title": "Restricted Stock Units",
+        "transaction_date": "2026-07-09",
+        "shares_owned_following": "259516",
+        "direct_or_indirect": "D",
+        "transaction_code": "A",
+        "shares": "259516",
+        "price_per_share": "0",
+        "acquired_disposed": "A",
+        "underlying_title": "Common Stock",
+        "underlying_shares": "259516"
+      },
+      {
+        "security_title": "Stock Options (Right to Buy)",
+        "transaction_date": "2026-07-09",
+        "shares_owned_following": "100000",
+        "direct_or_indirect": "D",
+        "transaction_code": "A",
+        "shares": "100000",
+        "price_per_share": "0",
+        "acquired_disposed": "A",
+        "conversion_exercise_price": "4.56",
+        "underlying_title": "Common Stock",
+        "underlying_shares": "100000"
+      }
+    ],
+    "footnotes": [
+      "Each restricted stock unit (\"RSU\") represents a contingent right to receive one common share or an equivalent value in cash at the issuer's election.",
+      "The RSUs will vest as follows: 129,758 on January 9, 2027; 64,879 on July 9, 2027; and 64,879 on January 9, 2028.",
+      "The stock options will vest 100% on January 9, 2027."
+    ],
+    "signature_name": "/s/ Rachel Silverstein, as attorney-in-fact",
+    "signature_date": "2026-07-13",
+    "xml_url": "https://www.sec.gov/Archives/edgar/data/1812477/000119312526302304/ownership.xml"
   },
   {
     "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002064953&owner=include&count=100",
