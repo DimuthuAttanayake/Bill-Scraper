@@ -1,67 +1,6 @@
 {
   "date": "2026-07-14",
-  "additions": [
-    {
-      "entry_id": "0002145277_0001193125-26-302304",
-      "url": "https://www.sec.gov/Archives/edgar/data/2145277/000119312526302304/0001193125-26-302304-index.htm",
-      "entity_name": "Aiyer Ganesh"
-    },
-    {
-      "entry_id": "0001812477_0001193125-26-302304",
-      "url": "https://www.sec.gov/Archives/edgar/data/1812477/000119312526302304/0001193125-26-302304-index.htm",
-      "entity_name": "Keel Infrastructure Corp."
-    },
-    {
-      "entry_id": "0001628498_0000043920-26-000103",
-      "url": "https://www.sec.gov/Archives/edgar/data/1628498/000004392026000103/0000043920-26-000103-index.htm",
-      "entity_name": "Bergwall Timothy"
-    },
-    {
-      "entry_id": "0000043920_0000043920-26-000103",
-      "url": "https://www.sec.gov/Archives/edgar/data/43920/000004392026000103/0000043920-26-000103-index.htm",
-      "entity_name": "GREIF, INC"
-    },
-    {
-      "entry_id": "0001788654_0001437749-26-023473",
-      "url": "https://www.sec.gov/Archives/edgar/data/1788654/000143774926023473/0001437749-26-023473-index.htm",
-      "entity_name": "Naylor Maile"
-    },
-    {
-      "entry_id": "0001650696_0001437749-26-023473",
-      "url": "https://www.sec.gov/Archives/edgar/data/1650696/000143774926023473/0001437749-26-023473-index.htm",
-      "entity_name": "Laird Superfood, Inc."
-    },
-    {
-      "entry_id": "0002066891_0001213900-26-077741",
-      "url": "https://www.sec.gov/Archives/edgar/data/2066891/000121390026077741/0001213900-26-077741-index.htm",
-      "entity_name": "Aghamiri Aidin"
-    },
-    {
-      "entry_id": "0002030482_0001213900-26-077741",
-      "url": "https://www.sec.gov/Archives/edgar/data/2030482/000121390026077741/0001213900-26-077741-index.htm",
-      "entity_name": "Plum Acquisition Corp, IV"
-    },
-    {
-      "entry_id": "0002030482_0001213900-26-077740",
-      "url": "https://www.sec.gov/Archives/edgar/data/2030482/000121390026077740/0001213900-26-077740-index.htm",
-      "entity_name": "Plum Acquisition Corp, IV"
-    },
-    {
-      "entry_id": "0001847130_0001213900-26-077740",
-      "url": "https://www.sec.gov/Archives/edgar/data/1847130/000121390026077740/0001213900-26-077740-index.htm",
-      "entity_name": "Roy Kanishka"
-    },
-    {
-      "entry_id": "0002047679_0001213900-26-077739",
-      "url": "https://www.sec.gov/Archives/edgar/data/2047679/000121390026077739/0001213900-26-077739-index.htm",
-      "entity_name": "PLUM PARTNERS IV, LLC"
-    },
-    {
-      "entry_id": "0002030482_0001213900-26-077739",
-      "url": "https://www.sec.gov/Archives/edgar/data/2030482/000121390026077739/0001213900-26-077739-index.htm",
-      "entity_name": "Plum Acquisition Corp, IV"
-    }
-  ],
+  "additions": [],
   "deletions": [
     {
       "url": "https://www.sec.gov/Archives/edgar/data/9631/000183988226033388/0001839882-26-033388-index.htm",
