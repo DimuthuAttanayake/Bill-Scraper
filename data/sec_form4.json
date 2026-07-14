@@ -3095,6 +3095,89 @@
     "entity_cik": "0000019617",
     "entity_role": "Filer",
     "form_type": "424B2",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/19617/000121390026077722/0001213900-26-077722-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/19617/000121390026077722/0001213900-26-077722.txt",
+    "description": "Prospectus [Rule 424(b)(2)]",
+    "accession_number": "0001213900-26-077722",
+    "act": "33",
+    "size": "763 KB",
+    "accepted_date": "2026-07-13",
+    "accepted_time": "19:37:29",
+    "filing_date": "2026-07-14",
+    "file_number": "333-293684",
+    "film_number": "261172320",
+    "content_hash": "bc579d7325a220a15e34840c05161086",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026077722/0001213900-26-077722-index.htm",
+    "entry_id": "0000019617_0001213900-26-077722",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "PRELIMINARY PRICING SUPPLEMENT",
+          "ea0297912-01_424b2.htm",
+          "424B2",
+          "189805"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/19617/000121390026077722/ea0297912-01_424b2.htm"
+        ]
+      },
+      {
+        "cells": [
+          "2",
+          "GRAPHIC",
+          "image_001.jpg",
+          "GRAPHIC",
+          "198059"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/19617/000121390026077722/image_001.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "3",
+          "GRAPHIC",
+          "image_002.jpg",
+          "GRAPHIC",
+          "131951"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/19617/000121390026077722/image_002.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "4",
+          "GRAPHIC",
+          "image_003.jpg",
+          "GRAPHIC",
+          "85189"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/19617/000121390026077722/image_003.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001213900-26-077722.txt",
+          "",
+          "763941"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/19617/000121390026077722/0001213900-26-077722.txt"
+        ]
+      }
+    ]
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000019617&owner=include&count=100",
+    "entity_name": "JPMORGAN CHASE & CO",
+    "entity_cik": "0000019617",
+    "entity_role": "Filer",
+    "form_type": "424B2",
     "html_index_link": "https://www.sec.gov/Archives/edgar/data/19617/000191870426019304/0001918704-26-019304-index.htm",
     "txt_link": "https://www.sec.gov/Archives/edgar/data/19617/000191870426019304/0001918704-26-019304.txt",
     "description": "Prospectus [Rule 424(b)(2)]",
@@ -8706,6 +8789,113 @@
     "xml_url": "https://www.sec.gov/Archives/edgar/data/43920/000004392026000103/form4.xml"
   },
   {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000067088&owner=include&count=100",
+    "entity_name": "MITSUBISHI UFJ FINANCIAL GROUP INC",
+    "entity_cik": "0000067088",
+    "entity_role": "Filer",
+    "form_type": "424B2",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/67088/000119312526302464/0001193125-26-302464-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/67088/000119312526302464/0001193125-26-302464.txt",
+    "description": "Prospectus [Rule 424(b)(2)]",
+    "accession_number": "0001193125-26-302464",
+    "act": "33",
+    "size": "1 MB",
+    "accepted_date": "2026-07-14",
+    "accepted_time": "06:21:02",
+    "filing_date": "2026-07-14",
+    "file_number": "333-273681",
+    "film_number": "261172496",
+    "content_hash": "b9b8b492c0e5e9ec82144a78de40db39",
+    "url": "https://www.sec.gov/Archives/edgar/data/67088/000119312526302464/0001193125-26-302464-index.htm",
+    "entry_id": "0000067088_0001193125-26-302464",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "PROSPECTUS SUPPLEMENT",
+          "d112550d424b2.htm",
+          "424B2",
+          "1257083"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/67088/000119312526302464/d112550d424b2.htm"
+        ]
+      },
+      {
+        "cells": [
+          "2",
+          "EX-FILING FEES",
+          "d112550dexfilingfees.htmiXBRL",
+          "EX-FILING FEES",
+          "76123"
+        ],
+        "links": [
+          "https://www.sec.gov/ix?doc=/Archives/edgar/data/67088/000119312526302464/d112550dexfilingfees.htm"
+        ]
+      },
+      {
+        "cells": [
+          "3",
+          "GRAPHIC",
+          "g112550g43n16.jpg",
+          "GRAPHIC",
+          "10541"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/67088/000119312526302464/g112550g43n16.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "4",
+          "GRAPHIC",
+          "g112550g79d57.jpg",
+          "GRAPHIC",
+          "32940"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/67088/000119312526302464/g112550g79d57.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "5",
+          "GRAPHIC",
+          "g112550g88a88.jpg",
+          "GRAPHIC",
+          "28961"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/67088/000119312526302464/g112550g88a88.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "6",
+          "GRAPHIC",
+          "g112550g99a02.jpg",
+          "GRAPHIC",
+          "60474"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/67088/000119312526302464/g112550g99a02.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001193125-26-302464.txt",
+          "",
+          "1686326"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/67088/000119312526302464/0001193125-26-302464.txt"
+        ]
+      }
+    ]
+  },
+  {
     "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000070858&owner=include&count=100",
     "entity_name": "BANK OF AMERICA CORP /DE/",
     "entity_cik": "0000070858",
@@ -8760,6 +8950,89 @@
         ],
         "links": [
           "https://www.sec.gov/Archives/edgar/data/70858/000121390026077033/0001213900-26-077033.txt"
+        ]
+      }
+    ]
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000070858&owner=include&count=100",
+    "entity_name": "BANK OF AMERICA CORP /DE/",
+    "entity_cik": "0000070858",
+    "entity_role": "Filer",
+    "form_type": "424B2",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/70858/000121390026077756/0001213900-26-077756-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/70858/000121390026077756/0001213900-26-077756.txt",
+    "description": "Prospectus [Rule 424(b)(2)]",
+    "accession_number": "0001213900-26-077756",
+    "act": "33",
+    "size": "280 KB",
+    "accepted_date": "2026-07-13",
+    "accepted_time": "21:52:19",
+    "filing_date": "2026-07-14",
+    "file_number": "333-290665",
+    "film_number": "261172429",
+    "content_hash": "7cd49b563d3b4bb1aa577c89abb4a643",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000121390026077756/0001213900-26-077756-index.htm",
+    "entry_id": "0000070858_0001213900-26-077756",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "PRODUCT SUPPLEMENT",
+          "ea0297918-01_424b2.htm",
+          "424B2",
+          "208341"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/70858/000121390026077756/ea0297918-01_424b2.htm"
+        ]
+      },
+      {
+        "cells": [
+          "2",
+          "GRAPHIC",
+          "image_001.jpg",
+          "GRAPHIC",
+          "19798"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/70858/000121390026077756/image_001.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "3",
+          "GRAPHIC",
+          "image_002.jpg",
+          "GRAPHIC",
+          "19338"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/70858/000121390026077756/image_002.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "4",
+          "GRAPHIC",
+          "image_003.jpg",
+          "GRAPHIC",
+          "11794"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/70858/000121390026077756/image_003.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001213900-26-077756.txt",
+          "",
+          "280935"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/70858/000121390026077756/0001213900-26-077756.txt"
         ]
       }
     ]
@@ -22638,6 +22911,116 @@
     ]
   },
   {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000891532&owner=include&count=100",
+    "entity_name": "PERMA FIX ENVIRONMENTAL SERVICES INC",
+    "entity_cik": "0000891532",
+    "entity_role": "Issuer",
+    "form_type": "4",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/891532/000149315226033108/0001493152-26-033108-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/891532/000149315226033108/0001493152-26-033108.txt",
+    "description": "Statement of changes in beneficial ownership of securities",
+    "accession_number": "0001493152-26-033108",
+    "size": "7 KB",
+    "accepted_date": "2026-07-14",
+    "accepted_time": "07:00:10",
+    "filing_date": "2026-07-14",
+    "content_hash": "ae481286de04fc4fbda176cb65ee566a",
+    "url": "https://www.sec.gov/Archives/edgar/data/891532/000149315226033108/0001493152-26-033108-index.htm",
+    "entry_id": "0000891532_0001493152-26-033108",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "4",
+          "ownership.html",
+          "4",
+          ""
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/891532/000149315226033108/xslF345X06/ownership.xml"
+        ]
+      },
+      {
+        "cells": [
+          "1",
+          "4",
+          "ownership.xml",
+          "4",
+          "5602"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/891532/000149315226033108/ownership.xml"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001493152-26-033108.txt",
+          "",
+          "7051"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/891532/000149315226033108/0001493152-26-033108.txt"
+        ]
+      }
+    ],
+    "schema_version": "X0609",
+    "document_type": "4",
+    "period_of_report": "2026-07-13",
+    "issuer_cik": "0000891532",
+    "issuer_name": "PERMA FIX ENVIRONMENTAL SERVICES INC",
+    "issuer_trading_symbol": "PESI",
+    "reporting_owner_cik": "0001370728",
+    "reporting_owner_name": "Shelton Larry",
+    "reporting_owner_address": {
+      "rptOwnerNonUSAddressFlag": "false",
+      "rptOwnerStreet1": "8302 DUNWOODY PLACE, SUITE 250",
+      "rptOwnerCity": "ATLANTA,",
+      "rptOwnerState": "GA",
+      "rptOwnerZipCode": "30350"
+    },
+    "relationship": {
+      "isDirector": "1",
+      "isOfficer": "0",
+      "isTenPercentOwner": "0",
+      "isOther": "0"
+    },
+    "non_derivative_transactions": [
+      {
+        "security_title": "Common Stock",
+        "transaction_date": "2026-07-13",
+        "shares_owned_following": "198983",
+        "direct_or_indirect": "D",
+        "transaction_code": "M",
+        "shares": "2400",
+        "price_per_share": "4.6000",
+        "acquired_disposed": "A"
+      }
+    ],
+    "derivative_transactions": [
+      {
+        "security_title": "Stock Option (Right to Buy)",
+        "transaction_date": "2026-07-13",
+        "shares_owned_following": "0",
+        "direct_or_indirect": "D",
+        "transaction_code": "M",
+        "shares": "2400",
+        "price_per_share": "0",
+        "acquired_disposed": "D",
+        "conversion_exercise_price": "4.6000",
+        "underlying_title": "Common Stock",
+        "underlying_shares": "2400"
+      }
+    ],
+    "footnotes": [
+      "Non-Qualified Stock Option granted 07/28/2016 under the Company's Outside Directors Stock Plan. The option vests fully six months from grant date."
+    ],
+    "signature_name": "/s/ Larry Shelton",
+    "signature_date": "2026-07-14",
+    "xml_url": "https://www.sec.gov/Archives/edgar/data/891532/000149315226033108/ownership.xml"
+  },
+  {
     "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000895421&owner=include&count=100",
     "entity_name": "MORGAN STANLEY",
     "entity_cik": "0000895421",
@@ -29466,6 +29849,77 @@
     "entity_cik": "0001000275",
     "entity_role": "Filer",
     "form_type": "424B2",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/1000275/000095010326010573/0000950103-26-010573-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/1000275/000095010326010573/0000950103-26-010573.txt",
+    "description": "Prospectus [Rule 424(b)(2)]",
+    "accession_number": "0000950103-26-010573",
+    "act": "33",
+    "size": "146 KB",
+    "accepted_date": "2026-07-13",
+    "accepted_time": "20:18:12",
+    "filing_date": "2026-07-14",
+    "file_number": "333-275898",
+    "film_number": "261172356",
+    "content_hash": "fbbe8fd1a4160d9fe13211ae7805426e",
+    "url": "https://www.sec.gov/Archives/edgar/data/1000275/000095010326010573/0000950103-26-010573-index.htm",
+    "entry_id": "0001000275_0000950103-26-010573",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "FORM 424B2",
+          "dp250001_424b2-us4268avgo.htm",
+          "424B2",
+          "108173"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1000275/000095010326010573/dp250001_424b2-us4268avgo.htm"
+        ]
+      },
+      {
+        "cells": [
+          "2",
+          "GRAPHIC",
+          "image_002.jpg",
+          "GRAPHIC",
+          "4625"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1000275/000095010326010573/image_002.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "3",
+          "GRAPHIC",
+          "image_001.jpg",
+          "GRAPHIC",
+          "21874"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1000275/000095010326010573/image_001.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0000950103-26-010573.txt",
+          "",
+          "146131"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1000275/000095010326010573/0000950103-26-010573.txt"
+        ]
+      }
+    ]
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001000275&owner=include&count=100",
+    "entity_name": "ROYAL BANK OF CANADA",
+    "entity_cik": "0001000275",
+    "entity_role": "Filer",
+    "form_type": "424B2",
     "html_index_link": "https://www.sec.gov/Archives/edgar/data/1000275/000121465926008265/0001214659-26-008265-index.htm",
     "txt_link": "https://www.sec.gov/Archives/edgar/data/1000275/000121465926008265/0001214659-26-008265.txt",
     "description": "Prospectus [Rule 424(b)(2)]",
@@ -30609,6 +31063,53 @@
     "signature_name": "/s/Chris Siu, Attorney-in-Fact",
     "signature_date": "2026-07-13",
     "xml_url": "https://www.sec.gov/Archives/edgar/data/1040470/000104047026000207/primary_01.xml"
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001065088&owner=include&count=100",
+    "entity_name": "EBAY INC",
+    "entity_cik": "0001065088",
+    "entity_role": "Subject",
+    "form_type": "425",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/1065088/000119312526302491/0001193125-26-302491-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/1065088/000119312526302491/0001193125-26-302491.txt",
+    "description": "Prospectuses and communications, business combinations",
+    "accession_number": "0001193125-26-302491",
+    "act": "34",
+    "size": "36 KB",
+    "accepted_date": "2026-07-14",
+    "accepted_time": "06:53:03",
+    "filing_date": "2026-07-14",
+    "file_number": "001-37713",
+    "film_number": "261172511",
+    "content_hash": "76ba0347f0b5dda9b11aee46f6430a1e",
+    "url": "https://www.sec.gov/Archives/edgar/data/1065088/000119312526302491/0001193125-26-302491-index.htm",
+    "entry_id": "0001065088_0001193125-26-302491",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "425",
+          "d97777d425.htm",
+          "425",
+          "34991"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1065088/000119312526302491/d97777d425.htm"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001193125-26-302491.txt",
+          "",
+          "36662"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1065088/000119312526302491/0001193125-26-302491.txt"
+        ]
+      }
+    ]
   },
   {
     "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001082554&owner=include&count=100",
@@ -33808,6 +34309,89 @@
     "xml_url": "https://www.sec.gov/Archives/edgar/data/1114700/000121390026077729/ownership.xml"
   },
   {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001117057&owner=include&count=100",
+    "entity_name": "Planet Green Holdings Corp.",
+    "entity_cik": "0001117057",
+    "entity_role": "Filer",
+    "form_type": "424B5",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/1117057/000121390026077727/0001213900-26-077727-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/1117057/000121390026077727/0001213900-26-077727.txt",
+    "description": "Prospectus [Rule 424(b)(5)]",
+    "accession_number": "0001213900-26-077727",
+    "act": "33",
+    "size": "1 MB",
+    "accepted_date": "2026-07-13",
+    "accepted_time": "19:45:17",
+    "filing_date": "2026-07-14",
+    "file_number": "333-294386",
+    "film_number": "261172330",
+    "content_hash": "46ebfdc65c6d79c9f548356ffc6327a0",
+    "url": "https://www.sec.gov/Archives/edgar/data/1117057/000121390026077727/0001213900-26-077727-index.htm",
+    "entry_id": "0001117057_0001213900-26-077727",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "PROSPECTUS SUPPLEMENT",
+          "ea0294608-424b5_planet.htm",
+          "424B5",
+          "690363"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1117057/000121390026077727/ea0294608-424b5_planet.htm"
+        ]
+      },
+      {
+        "cells": [
+          "2",
+          "GRAPHIC",
+          "ea029460801_img1.jpg",
+          "GRAPHIC",
+          "135290"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1117057/000121390026077727/ea029460801_img1.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "3",
+          "GRAPHIC",
+          "ea029460801_img2.jpg",
+          "GRAPHIC",
+          "111548"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1117057/000121390026077727/ea029460801_img2.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "4",
+          "GRAPHIC",
+          "ea029460801_img3.jpg",
+          "GRAPHIC",
+          "65081"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1117057/000121390026077727/ea029460801_img3.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001213900-26-077727.txt",
+          "",
+          "1121633"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1117057/000121390026077727/0001213900-26-077727.txt"
+        ]
+      }
+    ]
+  },
+  {
     "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001122411&owner=include&count=100",
     "entity_name": "ASE Technology Holding Co., Ltd.",
     "entity_cik": "0001122411",
@@ -34163,6 +34747,220 @@
         ],
         "links": [
           "https://www.sec.gov/Archives/edgar/data/1163653/000110465926082547/0001104659-26-082547.txt"
+        ]
+      }
+    ]
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001163653&owner=include&count=100",
+    "entity_name": "NOMURA HOLDINGS INC",
+    "entity_cik": "0001163653",
+    "entity_role": "Filer",
+    "form_type": "424B2",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/1163653/000110465926083225/0001104659-26-083225-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/1163653/000110465926083225/0001104659-26-083225.txt",
+    "description": "Prospectus [Rule 424(b)(2)]",
+    "accession_number": "0001104659-26-083225",
+    "act": "33",
+    "size": "889 KB",
+    "accepted_date": "2026-07-13",
+    "accepted_time": "20:08:32",
+    "filing_date": "2026-07-14",
+    "file_number": "333-273353",
+    "film_number": "261172350",
+    "content_hash": "45ebe1e07a78b4da86874adfd6458a58",
+    "url": "https://www.sec.gov/Archives/edgar/data/1163653/000110465926083225/0001104659-26-083225-index.htm",
+    "entry_id": "0001163653_0001104659-26-083225",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "PRICING SUPPLEMENT",
+          "tm2619530d19_424b2.htm",
+          "424B2",
+          "144995"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1163653/000110465926083225/tm2619530d19_424b2.htm"
+        ]
+      },
+      {
+        "cells": [
+          "2",
+          "EX-FILING FEES",
+          "tm2619530d19_ex-filingfees.htmiXBRL",
+          "EX-FILING FEES",
+          "25485"
+        ],
+        "links": [
+          "https://www.sec.gov/ix?doc=/Archives/edgar/data/1163653/000110465926083225/tm2619530d19_ex-filingfees.htm"
+        ]
+      },
+      {
+        "cells": [
+          "3",
+          "PRICING SUPPLEMENT",
+          "tm2619530d19_424b2.pdf",
+          "424B2",
+          "327201"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1163653/000110465926083225/tm2619530d19_424b2.pdf"
+        ]
+      },
+      {
+        "cells": [
+          "4",
+          "GRAPHIC",
+          "tm2619530d19_424b2img01.jpg",
+          "GRAPHIC",
+          "28772"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1163653/000110465926083225/tm2619530d19_424b2img01.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "5",
+          "GRAPHIC",
+          "tm2619530d19_424b2img02.jpg",
+          "GRAPHIC",
+          "76570"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1163653/000110465926083225/tm2619530d19_424b2img02.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001104659-26-083225.txt",
+          "",
+          "889527"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1163653/000110465926083225/0001104659-26-083225.txt"
+        ]
+      }
+    ]
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001163653&owner=include&count=100",
+    "entity_name": "NOMURA HOLDINGS INC",
+    "entity_cik": "0001163653",
+    "entity_role": "Filer",
+    "form_type": "424B2",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/1163653/000110465926083251/0001104659-26-083251-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/1163653/000110465926083251/0001104659-26-083251.txt",
+    "description": "Prospectus [Rule 424(b)(2)]",
+    "accession_number": "0001104659-26-083251",
+    "act": "33",
+    "size": "1 MB",
+    "accepted_date": "2026-07-13",
+    "accepted_time": "21:52:27",
+    "filing_date": "2026-07-14",
+    "file_number": "333-273353",
+    "film_number": "261172432",
+    "content_hash": "83b057eb78d3a422a02bccb72df18860",
+    "url": "https://www.sec.gov/Archives/edgar/data/1163653/000110465926083251/0001104659-26-083251-index.htm",
+    "entry_id": "0001163653_0001104659-26-083251",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "PRICING SUPPLEMENT",
+          "tm2619530d18_424b2.htm",
+          "424B2",
+          "310393"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1163653/000110465926083251/tm2619530d18_424b2.htm"
+        ]
+      },
+      {
+        "cells": [
+          "2",
+          "EX-FILING FEES",
+          "tm2619530d18_ex-filingfees.htmiXBRL",
+          "EX-FILING FEES",
+          "25485"
+        ],
+        "links": [
+          "https://www.sec.gov/ix?doc=/Archives/edgar/data/1163653/000110465926083251/tm2619530d18_ex-filingfees.htm"
+        ]
+      },
+      {
+        "cells": [
+          "3",
+          "PRICING SUPPLEMENT",
+          "tm2619530d18_424b2.pdf",
+          "424B2",
+          "511194"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1163653/000110465926083251/tm2619530d18_424b2.pdf"
+        ]
+      },
+      {
+        "cells": [
+          "4",
+          "GRAPHIC",
+          "tm2619530d18_424b2img001.jpg",
+          "GRAPHIC",
+          "30209"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1163653/000110465926083251/tm2619530d18_424b2img001.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "5",
+          "GRAPHIC",
+          "tm2619530d18_424b2img002.jpg",
+          "GRAPHIC",
+          "25862"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1163653/000110465926083251/tm2619530d18_424b2img002.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "6",
+          "GRAPHIC",
+          "tm2619530d18_424b2img003.jpg",
+          "GRAPHIC",
+          "26359"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1163653/000110465926083251/tm2619530d18_424b2img003.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "7",
+          "GRAPHIC",
+          "tm2619530d18_424b2img004.jpg",
+          "GRAPHIC",
+          "24629"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1163653/000110465926083251/tm2619530d18_424b2img004.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001104659-26-083251.txt",
+          "",
+          "1310996"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1163653/000110465926083251/0001104659-26-083251.txt"
         ]
       }
     ]
@@ -42070,6 +42868,424 @@
     "xml_url": "https://www.sec.gov/Archives/edgar/data/1366415/000119312526301121/ownership.xml"
   },
   {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001370728&owner=include&count=100",
+    "entity_name": "Shelton Larry",
+    "entity_cik": "0001370728",
+    "entity_role": "Reporting",
+    "form_type": "4",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/1370728/000149315226033108/0001493152-26-033108-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/1370728/000149315226033108/0001493152-26-033108.txt",
+    "description": "Statement of changes in beneficial ownership of securities",
+    "accession_number": "0001493152-26-033108",
+    "act": "34",
+    "size": "7 KB",
+    "accepted_date": "2026-07-14",
+    "accepted_time": "07:00:10",
+    "filing_date": "2026-07-14",
+    "file_number": "001-11596",
+    "film_number": "261172515",
+    "content_hash": "8da85339b6e49bad0d12c4f5551b38a1",
+    "url": "https://www.sec.gov/Archives/edgar/data/1370728/000149315226033108/0001493152-26-033108-index.htm",
+    "entry_id": "0001370728_0001493152-26-033108",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "4",
+          "ownership.html",
+          "4",
+          ""
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/891532/000149315226033108/xslF345X06/ownership.xml"
+        ]
+      },
+      {
+        "cells": [
+          "1",
+          "4",
+          "ownership.xml",
+          "4",
+          "5602"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/891532/000149315226033108/ownership.xml"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001493152-26-033108.txt",
+          "",
+          "7051"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/891532/000149315226033108/0001493152-26-033108.txt"
+        ]
+      }
+    ],
+    "schema_version": "X0609",
+    "document_type": "4",
+    "period_of_report": "2026-07-13",
+    "issuer_cik": "0000891532",
+    "issuer_name": "PERMA FIX ENVIRONMENTAL SERVICES INC",
+    "issuer_trading_symbol": "PESI",
+    "reporting_owner_cik": "0001370728",
+    "reporting_owner_name": "Shelton Larry",
+    "reporting_owner_address": {
+      "rptOwnerNonUSAddressFlag": "false",
+      "rptOwnerStreet1": "8302 DUNWOODY PLACE, SUITE 250",
+      "rptOwnerCity": "ATLANTA,",
+      "rptOwnerState": "GA",
+      "rptOwnerZipCode": "30350"
+    },
+    "relationship": {
+      "isDirector": "1",
+      "isOfficer": "0",
+      "isTenPercentOwner": "0",
+      "isOther": "0"
+    },
+    "non_derivative_transactions": [
+      {
+        "security_title": "Common Stock",
+        "transaction_date": "2026-07-13",
+        "shares_owned_following": "198983",
+        "direct_or_indirect": "D",
+        "transaction_code": "M",
+        "shares": "2400",
+        "price_per_share": "4.6000",
+        "acquired_disposed": "A"
+      }
+    ],
+    "derivative_transactions": [
+      {
+        "security_title": "Stock Option (Right to Buy)",
+        "transaction_date": "2026-07-13",
+        "shares_owned_following": "0",
+        "direct_or_indirect": "D",
+        "transaction_code": "M",
+        "shares": "2400",
+        "price_per_share": "0",
+        "acquired_disposed": "D",
+        "conversion_exercise_price": "4.6000",
+        "underlying_title": "Common Stock",
+        "underlying_shares": "2400"
+      }
+    ],
+    "footnotes": [
+      "Non-Qualified Stock Option granted 07/28/2016 under the Company's Outside Directors Stock Plan. The option vests fully six months from grant date."
+    ],
+    "signature_name": "/s/ Larry Shelton",
+    "signature_date": "2026-07-14",
+    "xml_url": "https://www.sec.gov/Archives/edgar/data/891532/000149315226033108/ownership.xml"
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001375877&owner=include&count=100",
+    "entity_name": "Canadian Solar Inc.",
+    "entity_cik": "0001375877",
+    "entity_role": "Issuer",
+    "form_type": "4",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/1375877/000110465926083269/0001104659-26-083269-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/1375877/000110465926083269/0001104659-26-083269.txt",
+    "description": "Statement of changes in beneficial ownership of securities",
+    "accession_number": "0001104659-26-083269",
+    "size": "6 KB",
+    "accepted_date": "2026-07-14",
+    "accepted_time": "06:02:58",
+    "filing_date": "2026-07-14",
+    "content_hash": "746ed79db5a3980d9f2d186b3502e487",
+    "url": "https://www.sec.gov/Archives/edgar/data/1375877/000110465926083269/0001104659-26-083269-index.htm",
+    "entry_id": "0001375877_0001104659-26-083269",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "OWNERSHIP DOCUMENT",
+          "tm2620303-7_4seq1.html",
+          "4",
+          ""
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1375877/000110465926083269/xslF345X06/tm2620303-7_4seq1.xml"
+        ]
+      },
+      {
+        "cells": [
+          "1",
+          "OWNERSHIP DOCUMENT",
+          "tm2620303-7_4seq1.xml",
+          "4",
+          "4618"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1375877/000110465926083269/tm2620303-7_4seq1.xml"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001104659-26-083269.txt",
+          "",
+          "6117"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1375877/000110465926083269/0001104659-26-083269.txt"
+        ]
+      }
+    ],
+    "schema_version": "X0609",
+    "document_type": "4",
+    "period_of_report": "2026-07-09",
+    "issuer_cik": "0001375877",
+    "issuer_name": "Canadian Solar Inc.",
+    "issuer_trading_symbol": "CSIQ",
+    "reporting_owner_cik": "0001389641",
+    "reporting_owner_name": "Qu Shawn Xiaohua",
+    "reporting_owner_address": {
+      "rptOwnerNonUSAddressFlag": "true",
+      "rptOwnerStreet1": "C/O CANADIAN SOLAR INC,",
+      "rptOwnerStreet2": "4273 KING STREET EAST, SUITE 102",
+      "rptOwnerCity": "KITCHENER",
+      "rptOwnerCountry": "A6",
+      "rptOwnerZipCode": "N2P 2E9",
+      "rptOwnerStateDescription": "ONTARIO, CANADA"
+    },
+    "relationship": {
+      "isDirector": "1",
+      "isOfficer": "1",
+      "isTenPercentOwner": "1",
+      "isOther": "0",
+      "officerTitle": "Chief Technology Officer"
+    },
+    "derivative_transactions": [
+      {
+        "security_title": "Restricted Share Units",
+        "transaction_date": "2026-07-09",
+        "shares_owned_following": "54349",
+        "direct_or_indirect": "D",
+        "transaction_code": "A",
+        "shares": "18892",
+        "price_per_share": "0.00",
+        "acquired_disposed": "A",
+        "conversion_exercise_price": "0.00",
+        "underlying_title": "Common Stock",
+        "underlying_shares": "18892"
+      }
+    ],
+    "footnotes": [
+      "The transaction reported herein was effected on July 9, 2026, following completion of the Company's internal approval process. For purposes of the applicable award terms, the award has a deemed grant date of May 6, 2026.",
+      "The RSUs will vest in three approximately equal annual installments beginning on May 6, 2027.",
+      "These RSUs have no expiration date."
+    ],
+    "signature_name": "/s/ Shawn (Xiaohua) Qu",
+    "signature_date": "2026-07-14",
+    "xml_url": "https://www.sec.gov/Archives/edgar/data/1375877/000110465926083269/tm2620303-7_4seq1.xml"
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001375877&owner=include&count=100",
+    "entity_name": "Canadian Solar Inc.",
+    "entity_cik": "0001375877",
+    "entity_role": "Issuer",
+    "form_type": "4",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/1375877/000110465926083273/0001104659-26-083273-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/1375877/000110465926083273/0001104659-26-083273.txt",
+    "description": "Statement of changes in beneficial ownership of securities",
+    "accession_number": "0001104659-26-083273",
+    "size": "5 KB",
+    "accepted_date": "2026-07-14",
+    "accepted_time": "06:04:18",
+    "filing_date": "2026-07-14",
+    "content_hash": "742b143b600b2c3fa855ea008a6c66a6",
+    "url": "https://www.sec.gov/Archives/edgar/data/1375877/000110465926083273/0001104659-26-083273-index.htm",
+    "entry_id": "0001375877_0001104659-26-083273",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "OWNERSHIP DOCUMENT",
+          "tm2620303-6_4seq1.html",
+          "4",
+          ""
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1375877/000110465926083273/xslF345X06/tm2620303-6_4seq1.xml"
+        ]
+      },
+      {
+        "cells": [
+          "1",
+          "OWNERSHIP DOCUMENT",
+          "tm2620303-6_4seq1.xml",
+          "4",
+          "4392"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1375877/000110465926083273/tm2620303-6_4seq1.xml"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001104659-26-083273.txt",
+          "",
+          "5870"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1375877/000110465926083273/0001104659-26-083273.txt"
+        ]
+      }
+    ],
+    "schema_version": "X0609",
+    "document_type": "4",
+    "period_of_report": "2026-07-09",
+    "issuer_cik": "0001375877",
+    "issuer_name": "Canadian Solar Inc.",
+    "issuer_trading_symbol": "CSIQ",
+    "reporting_owner_cik": "0001978482",
+    "reporting_owner_name": "Ruda Harry E",
+    "reporting_owner_address": {
+      "rptOwnerNonUSAddressFlag": "true",
+      "rptOwnerStreet1": "C/O CANADIAN SOLAR INC,",
+      "rptOwnerStreet2": "4273 KING STREET EAST, SUITE 102",
+      "rptOwnerCity": "KITCHENER",
+      "rptOwnerCountry": "A6",
+      "rptOwnerZipCode": "N2P 2E9",
+      "rptOwnerStateDescription": "ONTARIO, CANADA"
+    },
+    "relationship": {
+      "isDirector": "1",
+      "isOfficer": "0",
+      "isTenPercentOwner": "0",
+      "isOther": "0"
+    },
+    "derivative_transactions": [
+      {
+        "security_title": "Restricted Share Units",
+        "transaction_date": "2026-07-09",
+        "shares_owned_following": "24108",
+        "direct_or_indirect": "D",
+        "transaction_code": "A",
+        "shares": "1949",
+        "price_per_share": "0.00",
+        "acquired_disposed": "A",
+        "conversion_exercise_price": "0.00",
+        "underlying_title": "Common Stock",
+        "underlying_shares": "1949"
+      }
+    ],
+    "footnotes": [
+      "The transaction reported herein was effected on July 9, 2026. For purposes of the applicable award terms, the award has a deemed grant date of July 1, 20",
+      "These RSUs have no expiration date."
+    ],
+    "signature_name": "/s/ Harry Eugen Ruda",
+    "signature_date": "2026-07-14",
+    "xml_url": "https://www.sec.gov/Archives/edgar/data/1375877/000110465926083273/tm2620303-6_4seq1.xml"
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001375877&owner=include&count=100",
+    "entity_name": "Canadian Solar Inc.",
+    "entity_cik": "0001375877",
+    "entity_role": "Issuer",
+    "form_type": "4",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/1375877/000110465926083281/0001104659-26-083281-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/1375877/000110465926083281/0001104659-26-083281.txt",
+    "description": "Statement of changes in beneficial ownership of securities",
+    "accession_number": "0001104659-26-083281",
+    "size": "5 KB",
+    "accepted_date": "2026-07-14",
+    "accepted_time": "06:08:07",
+    "filing_date": "2026-07-14",
+    "content_hash": "7101ddbe9c7a0965f54b760eb73a28fa",
+    "url": "https://www.sec.gov/Archives/edgar/data/1375877/000110465926083281/0001104659-26-083281-index.htm",
+    "entry_id": "0001375877_0001104659-26-083281",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "OWNERSHIP DOCUMENT",
+          "tm2620303-1_4seq1.html",
+          "4",
+          ""
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1375877/000110465926083281/xslF345X06/tm2620303-1_4seq1.xml"
+        ]
+      },
+      {
+        "cells": [
+          "1",
+          "OWNERSHIP DOCUMENT",
+          "tm2620303-1_4seq1.xml",
+          "4",
+          "4415"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1375877/000110465926083281/tm2620303-1_4seq1.xml"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001104659-26-083281.txt",
+          "",
+          "5904"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1375877/000110465926083281/0001104659-26-083281.txt"
+        ]
+      }
+    ],
+    "schema_version": "X0609",
+    "document_type": "4",
+    "period_of_report": "2026-07-09",
+    "issuer_cik": "0001375877",
+    "issuer_name": "Canadian Solar Inc.",
+    "issuer_trading_symbol": "CSIQ",
+    "reporting_owner_cik": "0001979240",
+    "reporting_owner_name": "Wong Andrew Luen Cheung",
+    "reporting_owner_address": {
+      "rptOwnerNonUSAddressFlag": "true",
+      "rptOwnerStreet1": "C/O CANADIAN SOLAR INC,",
+      "rptOwnerStreet2": "4273 KING STREET EAST, SUITE 102",
+      "rptOwnerCity": "KITCHENER",
+      "rptOwnerCountry": "A6",
+      "rptOwnerZipCode": "N2P 2E9",
+      "rptOwnerStateDescription": "ONTARIO, CANADA"
+    },
+    "relationship": {
+      "isDirector": "1",
+      "isOfficer": "0",
+      "isTenPercentOwner": "0",
+      "isOther": "0"
+    },
+    "derivative_transactions": [
+      {
+        "security_title": "Restricted Share Units",
+        "transaction_date": "2026-07-09",
+        "shares_owned_following": "24108",
+        "direct_or_indirect": "D",
+        "transaction_code": "A",
+        "shares": "1949",
+        "price_per_share": "0.00",
+        "acquired_disposed": "A",
+        "conversion_exercise_price": "0.00",
+        "underlying_title": "Common Stock",
+        "underlying_shares": "1949"
+      }
+    ],
+    "footnotes": [
+      "The transaction reported herein was effected on July 9, 2026. For purposes of the applicable award terms, the award has a deemed grant date of July 1, 2026.",
+      "These RSUs have no expiration date."
+    ],
+    "signature_name": "/s/ Andrew (Luen Cheung) Wong",
+    "signature_date": "2026-07-14",
+    "xml_url": "https://www.sec.gov/Archives/edgar/data/1375877/000110465926083281/tm2620303-1_4seq1.xml"
+  },
+  {
     "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001376339&owner=include&count=100",
     "entity_name": "MIMEDX GROUP, INC.",
     "entity_cik": "0001376339",
@@ -42544,6 +43760,326 @@
         ]
       }
     ]
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001383951&owner=include&count=100",
+    "entity_name": "Nomura America Finance, LLC",
+    "entity_cik": "0001383951",
+    "entity_role": "Filer",
+    "form_type": "424B2",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/1383951/000110465926083225/0001104659-26-083225-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/1383951/000110465926083225/0001104659-26-083225.txt",
+    "description": "Prospectus [Rule 424(b)(2)]",
+    "accession_number": "0001104659-26-083225",
+    "act": "33",
+    "size": "889 KB",
+    "accepted_date": "2026-07-13",
+    "accepted_time": "20:08:32",
+    "filing_date": "2026-07-14",
+    "file_number": "333-273353-01",
+    "film_number": "261172349",
+    "content_hash": "01cf2fd6e8c4d6116a1380b45d00db60",
+    "url": "https://www.sec.gov/Archives/edgar/data/1383951/000110465926083225/0001104659-26-083225-index.htm",
+    "entry_id": "0001383951_0001104659-26-083225",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "PRICING SUPPLEMENT",
+          "tm2619530d19_424b2.htm",
+          "424B2",
+          "144995"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1163653/000110465926083225/tm2619530d19_424b2.htm"
+        ]
+      },
+      {
+        "cells": [
+          "2",
+          "EX-FILING FEES",
+          "tm2619530d19_ex-filingfees.htmiXBRL",
+          "EX-FILING FEES",
+          "25485"
+        ],
+        "links": [
+          "https://www.sec.gov/ix?doc=/Archives/edgar/data/1163653/000110465926083225/tm2619530d19_ex-filingfees.htm"
+        ]
+      },
+      {
+        "cells": [
+          "3",
+          "PRICING SUPPLEMENT",
+          "tm2619530d19_424b2.pdf",
+          "424B2",
+          "327201"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1163653/000110465926083225/tm2619530d19_424b2.pdf"
+        ]
+      },
+      {
+        "cells": [
+          "4",
+          "GRAPHIC",
+          "tm2619530d19_424b2img01.jpg",
+          "GRAPHIC",
+          "28772"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1163653/000110465926083225/tm2619530d19_424b2img01.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "5",
+          "GRAPHIC",
+          "tm2619530d19_424b2img02.jpg",
+          "GRAPHIC",
+          "76570"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1163653/000110465926083225/tm2619530d19_424b2img02.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001104659-26-083225.txt",
+          "",
+          "889527"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1163653/000110465926083225/0001104659-26-083225.txt"
+        ]
+      }
+    ]
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001383951&owner=include&count=100",
+    "entity_name": "Nomura America Finance, LLC",
+    "entity_cik": "0001383951",
+    "entity_role": "Filer",
+    "form_type": "424B2",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/1383951/000110465926083251/0001104659-26-083251-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/1383951/000110465926083251/0001104659-26-083251.txt",
+    "description": "Prospectus [Rule 424(b)(2)]",
+    "accession_number": "0001104659-26-083251",
+    "act": "33",
+    "size": "1 MB",
+    "accepted_date": "2026-07-13",
+    "accepted_time": "21:52:27",
+    "filing_date": "2026-07-14",
+    "file_number": "333-273353-01",
+    "film_number": "261172431",
+    "content_hash": "f7d5cf944f005dccc5e325cf91783e12",
+    "url": "https://www.sec.gov/Archives/edgar/data/1383951/000110465926083251/0001104659-26-083251-index.htm",
+    "entry_id": "0001383951_0001104659-26-083251",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "PRICING SUPPLEMENT",
+          "tm2619530d18_424b2.htm",
+          "424B2",
+          "310393"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1163653/000110465926083251/tm2619530d18_424b2.htm"
+        ]
+      },
+      {
+        "cells": [
+          "2",
+          "EX-FILING FEES",
+          "tm2619530d18_ex-filingfees.htmiXBRL",
+          "EX-FILING FEES",
+          "25485"
+        ],
+        "links": [
+          "https://www.sec.gov/ix?doc=/Archives/edgar/data/1163653/000110465926083251/tm2619530d18_ex-filingfees.htm"
+        ]
+      },
+      {
+        "cells": [
+          "3",
+          "PRICING SUPPLEMENT",
+          "tm2619530d18_424b2.pdf",
+          "424B2",
+          "511194"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1163653/000110465926083251/tm2619530d18_424b2.pdf"
+        ]
+      },
+      {
+        "cells": [
+          "4",
+          "GRAPHIC",
+          "tm2619530d18_424b2img001.jpg",
+          "GRAPHIC",
+          "30209"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1163653/000110465926083251/tm2619530d18_424b2img001.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "5",
+          "GRAPHIC",
+          "tm2619530d18_424b2img002.jpg",
+          "GRAPHIC",
+          "25862"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1163653/000110465926083251/tm2619530d18_424b2img002.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "6",
+          "GRAPHIC",
+          "tm2619530d18_424b2img003.jpg",
+          "GRAPHIC",
+          "26359"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1163653/000110465926083251/tm2619530d18_424b2img003.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "7",
+          "GRAPHIC",
+          "tm2619530d18_424b2img004.jpg",
+          "GRAPHIC",
+          "24629"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1163653/000110465926083251/tm2619530d18_424b2img004.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001104659-26-083251.txt",
+          "",
+          "1310996"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1163653/000110465926083251/0001104659-26-083251.txt"
+        ]
+      }
+    ]
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001389641&owner=include&count=100",
+    "entity_name": "Qu Shawn Xiaohua",
+    "entity_cik": "0001389641",
+    "entity_role": "Reporting",
+    "form_type": "4",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/1389641/000110465926083269/0001104659-26-083269-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/1389641/000110465926083269/0001104659-26-083269.txt",
+    "description": "Statement of changes in beneficial ownership of securities",
+    "accession_number": "0001104659-26-083269",
+    "act": "34",
+    "size": "6 KB",
+    "accepted_date": "2026-07-14",
+    "accepted_time": "06:02:58",
+    "filing_date": "2026-07-14",
+    "file_number": "001-33107",
+    "film_number": "261172472",
+    "content_hash": "4840e21202f8ecc4d8d0f8c47b2c112a",
+    "url": "https://www.sec.gov/Archives/edgar/data/1389641/000110465926083269/0001104659-26-083269-index.htm",
+    "entry_id": "0001389641_0001104659-26-083269",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "OWNERSHIP DOCUMENT",
+          "tm2620303-7_4seq1.html",
+          "4",
+          ""
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1375877/000110465926083269/xslF345X06/tm2620303-7_4seq1.xml"
+        ]
+      },
+      {
+        "cells": [
+          "1",
+          "OWNERSHIP DOCUMENT",
+          "tm2620303-7_4seq1.xml",
+          "4",
+          "4618"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1375877/000110465926083269/tm2620303-7_4seq1.xml"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001104659-26-083269.txt",
+          "",
+          "6117"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1375877/000110465926083269/0001104659-26-083269.txt"
+        ]
+      }
+    ],
+    "schema_version": "X0609",
+    "document_type": "4",
+    "period_of_report": "2026-07-09",
+    "issuer_cik": "0001375877",
+    "issuer_name": "Canadian Solar Inc.",
+    "issuer_trading_symbol": "CSIQ",
+    "reporting_owner_cik": "0001389641",
+    "reporting_owner_name": "Qu Shawn Xiaohua",
+    "reporting_owner_address": {
+      "rptOwnerNonUSAddressFlag": "true",
+      "rptOwnerStreet1": "C/O CANADIAN SOLAR INC,",
+      "rptOwnerStreet2": "4273 KING STREET EAST, SUITE 102",
+      "rptOwnerCity": "KITCHENER",
+      "rptOwnerCountry": "A6",
+      "rptOwnerZipCode": "N2P 2E9",
+      "rptOwnerStateDescription": "ONTARIO, CANADA"
+    },
+    "relationship": {
+      "isDirector": "1",
+      "isOfficer": "1",
+      "isTenPercentOwner": "1",
+      "isOther": "0",
+      "officerTitle": "Chief Technology Officer"
+    },
+    "derivative_transactions": [
+      {
+        "security_title": "Restricted Share Units",
+        "transaction_date": "2026-07-09",
+        "shares_owned_following": "54349",
+        "direct_or_indirect": "D",
+        "transaction_code": "A",
+        "shares": "18892",
+        "price_per_share": "0.00",
+        "acquired_disposed": "A",
+        "conversion_exercise_price": "0.00",
+        "underlying_title": "Common Stock",
+        "underlying_shares": "18892"
+      }
+    ],
+    "footnotes": [
+      "The transaction reported herein was effected on July 9, 2026, following completion of the Company's internal approval process. For purposes of the applicable award terms, the award has a deemed grant date of May 6, 2026.",
+      "The RSUs will vest in three approximately equal annual installments beginning on May 6, 2027.",
+      "These RSUs have no expiration date."
+    ],
+    "signature_name": "/s/ Shawn (Xiaohua) Qu",
+    "signature_date": "2026-07-14",
+    "xml_url": "https://www.sec.gov/Archives/edgar/data/1375877/000110465926083269/tm2620303-7_4seq1.xml"
   },
   {
     "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001393311&owner=include&count=100",
@@ -49458,6 +50994,77 @@
     "signature_name": "/s/Patrick J. Kennedy, as attorney-in-fact for William Bradley Southern",
     "signature_date": "2026-07-07",
     "xml_url": "https://www.sec.gov/Archives/edgar/data/108516/000119312526296983/ownership.xml"
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001553846&owner=include&count=100",
+    "entity_name": "RedHill Biopharma Ltd.",
+    "entity_cik": "0001553846",
+    "entity_role": "Filer",
+    "form_type": "424B3",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/1553846/000117891326003476/0001178913-26-003476-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/1553846/000117891326003476/0001178913-26-003476.txt",
+    "description": "Prospectus [Rule 424(b)(3)]",
+    "accession_number": "0001178913-26-003476",
+    "act": "33",
+    "size": "259 KB",
+    "accepted_date": "2026-07-14",
+    "accepted_time": "06:00:58",
+    "filing_date": "2026-07-14",
+    "file_number": "333-297223",
+    "film_number": "261172462",
+    "content_hash": "0d5d30181ddeb35357e68fa2b4aa2863",
+    "url": "https://www.sec.gov/Archives/edgar/data/1553846/000117891326003476/0001178913-26-003476-index.htm",
+    "entry_id": "0001553846_0001178913-26-003476",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "424B3",
+          "zk2635670.htm",
+          "424B3",
+          "241192"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1553846/000117891326003476/zk2635670.htm"
+        ]
+      },
+      {
+        "cells": [
+          "2",
+          "GRAPHIC",
+          "image_001.jpg",
+          "GRAPHIC",
+          "6220"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1553846/000117891326003476/image_001.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "3",
+          "GRAPHIC",
+          "image_002.jpg",
+          "GRAPHIC",
+          "6208"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1553846/000117891326003476/image_002.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001178913-26-003476.txt",
+          "",
+          "259543"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1553846/000117891326003476/0001178913-26-003476.txt"
+        ]
+      }
+    ]
   },
   {
     "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001556246&owner=include&count=100",
@@ -56898,6 +58505,161 @@
     "xml_url": "https://www.sec.gov/Archives/edgar/data/1652256/000119312526295227/ownership.xml"
   },
   {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001661059&owner=include&count=100",
+    "entity_name": "NextCure, Inc.",
+    "entity_cik": "0001661059",
+    "entity_role": "Subject",
+    "form_type": "425",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/1661059/000110465926083327/0001104659-26-083327-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/1661059/000110465926083327/0001104659-26-083327.txt",
+    "description": "Prospectuses and communications, business combinations",
+    "accession_number": "0001104659-26-083327",
+    "act": "34",
+    "size": "1 MB",
+    "accepted_date": "2026-07-14",
+    "accepted_time": "07:02:44",
+    "filing_date": "2026-07-14",
+    "file_number": "001-38905",
+    "film_number": "261172520",
+    "content_hash": "42ea0299936a1c776df54b828bf41ec8",
+    "url": "https://www.sec.gov/Archives/edgar/data/1661059/000110465926083327/0001104659-26-083327-index.htm",
+    "entry_id": "0001661059_0001104659-26-083327",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "425",
+          "tm2620428d1_8k.htm",
+          "425",
+          "84368"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1661059/000110465926083327/tm2620428d1_8k.htm"
+        ]
+      },
+      {
+        "cells": [
+          "2",
+          "EXHIBIT 2.1",
+          "tm2620428d1_ex2-1.htm",
+          "EX-2.1",
+          "741095"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1661059/000110465926083327/tm2620428d1_ex2-1.htm"
+        ]
+      },
+      {
+        "cells": [
+          "3",
+          "EXHIBIT 10.1",
+          "tm2620428d1_ex10-1.htm",
+          "EX-10.1",
+          "65244"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1661059/000110465926083327/tm2620428d1_ex10-1.htm"
+        ]
+      },
+      {
+        "cells": [
+          "4",
+          "EXHIBIT 10.2",
+          "tm2620428d1_ex10-2.htm",
+          "EX-10.2",
+          "58268"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1661059/000110465926083327/tm2620428d1_ex10-2.htm"
+        ]
+      },
+      {
+        "cells": [
+          "5",
+          "EXHIBIT 10.3",
+          "tm2620428d1_ex10-3.htm",
+          "EX-10.3",
+          "287515"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1661059/000110465926083327/tm2620428d1_ex10-3.htm"
+        ]
+      },
+      {
+        "cells": [
+          "6",
+          "EXHIBIT 10.4",
+          "tm2620428d1_ex10-4.htm",
+          "EX-10.4",
+          "123033"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1661059/000110465926083327/tm2620428d1_ex10-4.htm"
+        ]
+      },
+      {
+        "cells": [
+          "7",
+          "EXHIBIT 10.5",
+          "tm2620428d1_ex10-5.htm",
+          "EX-10.5",
+          "46197"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1661059/000110465926083327/tm2620428d1_ex10-5.htm"
+        ]
+      },
+      {
+        "cells": [
+          "8",
+          "EXHIBIT 10.6",
+          "tm2620428d1_ex10-6.htm",
+          "EX-10.6",
+          "135376"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1661059/000110465926083327/tm2620428d1_ex10-6.htm"
+        ]
+      },
+      {
+        "cells": [
+          "9",
+          "EXHIBIT 99.1",
+          "tm2620428d1_ex99-1.htm",
+          "EX-99.1",
+          "28233"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1661059/000110465926083327/tm2620428d1_ex99-1.htm"
+        ]
+      },
+      {
+        "cells": [
+          "10",
+          "GRAPHIC",
+          "tm2620428d1_ex99-1img001.jpg",
+          "GRAPHIC",
+          "3287"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1661059/000110465926083327/tm2620428d1_ex99-1img001.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001104659-26-083327.txt",
+          "",
+          "1575652"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1661059/000110465926083327/0001104659-26-083327.txt"
+        ]
+      }
+    ]
+  },
+  {
     "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001665124&owner=include&count=100",
     "entity_name": "Nagendran Sukumar",
     "entity_cik": "0001665124",
@@ -59253,6 +61015,89 @@
         ],
         "links": [
           "https://www.sec.gov/Archives/edgar/data/19617/000121390026077467/0001213900-26-077467.txt"
+        ]
+      }
+    ]
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001665650&owner=include&count=100",
+    "entity_name": "JPMorgan Chase Financial Co. LLC",
+    "entity_cik": "0001665650",
+    "entity_role": "Filer",
+    "form_type": "424B2",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/1665650/000121390026077722/0001213900-26-077722-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/1665650/000121390026077722/0001213900-26-077722.txt",
+    "description": "Prospectus [Rule 424(b)(2)]",
+    "accession_number": "0001213900-26-077722",
+    "act": "33",
+    "size": "763 KB",
+    "accepted_date": "2026-07-13",
+    "accepted_time": "19:37:29",
+    "filing_date": "2026-07-14",
+    "file_number": "333-293684-01",
+    "film_number": "261172319",
+    "content_hash": "f3184914e6627c79ee433bf2542bead5",
+    "url": "https://www.sec.gov/Archives/edgar/data/1665650/000121390026077722/0001213900-26-077722-index.htm",
+    "entry_id": "0001665650_0001213900-26-077722",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "PRELIMINARY PRICING SUPPLEMENT",
+          "ea0297912-01_424b2.htm",
+          "424B2",
+          "189805"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/19617/000121390026077722/ea0297912-01_424b2.htm"
+        ]
+      },
+      {
+        "cells": [
+          "2",
+          "GRAPHIC",
+          "image_001.jpg",
+          "GRAPHIC",
+          "198059"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/19617/000121390026077722/image_001.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "3",
+          "GRAPHIC",
+          "image_002.jpg",
+          "GRAPHIC",
+          "131951"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/19617/000121390026077722/image_002.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "4",
+          "GRAPHIC",
+          "image_003.jpg",
+          "GRAPHIC",
+          "85189"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/19617/000121390026077722/image_003.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001213900-26-077722.txt",
+          "",
+          "763941"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/19617/000121390026077722/0001213900-26-077722.txt"
         ]
       }
     ]
@@ -68650,6 +70495,89 @@
     "entity_cik": "0001682472",
     "entity_role": "Filer",
     "form_type": "424B2",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/1682472/000121390026077756/0001213900-26-077756-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/1682472/000121390026077756/0001213900-26-077756.txt",
+    "description": "Prospectus [Rule 424(b)(2)]",
+    "accession_number": "0001213900-26-077756",
+    "act": "33",
+    "size": "280 KB",
+    "accepted_date": "2026-07-13",
+    "accepted_time": "21:52:19",
+    "filing_date": "2026-07-14",
+    "file_number": "333-290665-01",
+    "film_number": "261172430",
+    "content_hash": "9a1824bf75c191e7383ba8247f1585f6",
+    "url": "https://www.sec.gov/Archives/edgar/data/1682472/000121390026077756/0001213900-26-077756-index.htm",
+    "entry_id": "0001682472_0001213900-26-077756",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "PRODUCT SUPPLEMENT",
+          "ea0297918-01_424b2.htm",
+          "424B2",
+          "208341"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/70858/000121390026077756/ea0297918-01_424b2.htm"
+        ]
+      },
+      {
+        "cells": [
+          "2",
+          "GRAPHIC",
+          "image_001.jpg",
+          "GRAPHIC",
+          "19798"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/70858/000121390026077756/image_001.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "3",
+          "GRAPHIC",
+          "image_002.jpg",
+          "GRAPHIC",
+          "19338"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/70858/000121390026077756/image_002.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "4",
+          "GRAPHIC",
+          "image_003.jpg",
+          "GRAPHIC",
+          "11794"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/70858/000121390026077756/image_003.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001213900-26-077756.txt",
+          "",
+          "280935"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/70858/000121390026077756/0001213900-26-077756.txt"
+        ]
+      }
+    ]
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001682472&owner=include&count=100",
+    "entity_name": "BofA Finance LLC",
+    "entity_cik": "0001682472",
+    "entity_role": "Filer",
+    "form_type": "424B2",
     "html_index_link": "https://www.sec.gov/Archives/edgar/data/1682472/000191870426019305/0001918704-26-019305-index.htm",
     "txt_link": "https://www.sec.gov/Archives/edgar/data/1682472/000191870426019305/0001918704-26-019305.txt",
     "description": "Prospectus [Rule 424(b)(2)]",
@@ -72610,6 +74538,380 @@
     "xml_url": "https://www.sec.gov/Archives/edgar/data/1703399/000119312526297957/ownership.xml"
   },
   {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001703399&owner=include&count=100",
+    "entity_name": "Sea Ltd",
+    "entity_cik": "0001703399",
+    "entity_role": "Issuer",
+    "form_type": "4",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/1703399/000119312526302441/0001193125-26-302441-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/1703399/000119312526302441/0001193125-26-302441.txt",
+    "description": "Statement of changes in beneficial ownership of securities",
+    "accession_number": "0001193125-26-302441",
+    "size": "19 KB",
+    "accepted_date": "2026-07-14",
+    "accepted_time": "06:01:55",
+    "filing_date": "2026-07-14",
+    "content_hash": "75d93109e59f2be66032a76b4725d0b5",
+    "url": "https://www.sec.gov/Archives/edgar/data/1703399/000119312526302441/0001193125-26-302441-index.htm",
+    "entry_id": "0001703399_0001193125-26-302441",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "4",
+          "ownership.html",
+          "4",
+          ""
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1703399/000119312526302441/xslF345X06/ownership.xml"
+        ]
+      },
+      {
+        "cells": [
+          "1",
+          "4",
+          "ownership.xml",
+          "4",
+          "18304"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1703399/000119312526302441/ownership.xml"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001193125-26-302441.txt",
+          "",
+          "19769"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1703399/000119312526302441/0001193125-26-302441.txt"
+        ]
+      }
+    ],
+    "schema_version": "X0609",
+    "document_type": "4",
+    "period_of_report": "2026-07-10",
+    "issuer_cik": "0001703399",
+    "issuer_name": "Sea Ltd",
+    "issuer_trading_symbol": "SE",
+    "reporting_owner_cik": "0001729171",
+    "reporting_owner_name": "Ye Gang",
+    "reporting_owner_address": {
+      "rptOwnerNonUSAddressFlag": "true",
+      "rptOwnerStreet1": "C/O 1 FUSIONOPOLIS PLACE,",
+      "rptOwnerStreet2": "#17-10, GALAXIS",
+      "rptOwnerCity": "SINGAPORE",
+      "rptOwnerCountry": "U0",
+      "rptOwnerZipCode": "138522",
+      "rptOwnerStateDescription": "SINGAPORE"
+    },
+    "relationship": {
+      "isDirector": "true",
+      "isOfficer": "true",
+      "isTenPercentOwner": "false",
+      "isOther": "false",
+      "officerTitle": "COO"
+    },
+    "non_derivative_transactions": [
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-10",
+        "shares_owned_following": "438481",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "1519",
+        "price_per_share": "112.02",
+        "acquired_disposed": "D"
+      },
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-10",
+        "shares_owned_following": "435363",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "3118",
+        "price_per_share": "113.05",
+        "acquired_disposed": "D"
+      },
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-10",
+        "shares_owned_following": "426422",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "8941",
+        "price_per_share": "114.03",
+        "acquired_disposed": "D"
+      },
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-10",
+        "shares_owned_following": "420000",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "6422",
+        "price_per_share": "114.71",
+        "acquired_disposed": "D"
+      },
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-13",
+        "shares_owned_following": "415926",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "4074",
+        "price_per_share": "111.22",
+        "acquired_disposed": "D"
+      },
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-13",
+        "shares_owned_following": "408076",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "7850",
+        "price_per_share": "111.95",
+        "acquired_disposed": "D"
+      },
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-13",
+        "shares_owned_following": "404637",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "3439",
+        "price_per_share": "113.12",
+        "acquired_disposed": "D"
+      },
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-13",
+        "shares_owned_following": "403044",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "1593",
+        "price_per_share": "114.18",
+        "acquired_disposed": "D"
+      },
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-13",
+        "shares_owned_following": "400000",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "3044",
+        "price_per_share": "114.87",
+        "acquired_disposed": "D"
+      }
+    ],
+    "footnotes": [
+      "The shares were sold pursuant to a Rule 10b5-1 trading plan adopted by a BVI entity controlled by the Reporting Person on September 4, 2025.",
+      "Represents the weighted average price of shares sold at prices that ranged from $111.44 to $112.41. The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer or a security holder of the issuer full information regarding the number of shares sold at each separate price within the ranges set forth in this Form 4.",
+      "Represents the weighted average price of shares sold at prices that ranged from $112.44 to $113.439.",
+      "Represents the weighted average price of shares sold at prices that ranged from $113.44 to $114.43.",
+      "Represents the weighted average price of shares sold at prices that ranged from $114.44 to $115.35.",
+      "Represents the weighted average price of shares sold at prices that ranged from $110.62 to $111.615.",
+      "Represents the weighted average price of shares sold at prices that ranged from $111.62 to $112.61.",
+      "Represents the weighted average price of shares sold at prices that ranged from $112.62 to $113.56.",
+      "Represents the weighted average price of shares sold at prices that ranged from $113.63 to $114.60.",
+      "Represents the weighted average price of shares sold at prices that ranged from $114.63 to $115.37."
+    ],
+    "signature_name": "/s/ Mark Tang, attorney-in-fact for Gang Ye",
+    "signature_date": "2026-07-14",
+    "xml_url": "https://www.sec.gov/Archives/edgar/data/1703399/000119312526302441/ownership.xml"
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001703399&owner=include&count=100",
+    "entity_name": "Sea Ltd",
+    "entity_cik": "0001703399",
+    "entity_role": "Issuer",
+    "form_type": "4",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/1703399/000119312526302442/0001193125-26-302442-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/1703399/000119312526302442/0001193125-26-302442.txt",
+    "description": "Statement of changes in beneficial ownership of securities",
+    "accession_number": "0001193125-26-302442",
+    "size": "19 KB",
+    "accepted_date": "2026-07-14",
+    "accepted_time": "06:02:29",
+    "filing_date": "2026-07-14",
+    "content_hash": "d4eacaec6c4724f92ab3b2b3ebbe9e88",
+    "url": "https://www.sec.gov/Archives/edgar/data/1703399/000119312526302442/0001193125-26-302442-index.htm",
+    "entry_id": "0001703399_0001193125-26-302442",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "4",
+          "ownership.html",
+          "4",
+          ""
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1703399/000119312526302442/xslF345X06/ownership.xml"
+        ]
+      },
+      {
+        "cells": [
+          "1",
+          "4",
+          "ownership.xml",
+          "4",
+          "18295"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1703399/000119312526302442/ownership.xml"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001193125-26-302442.txt",
+          "",
+          "19797"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1703399/000119312526302442/0001193125-26-302442.txt"
+        ]
+      }
+    ],
+    "schema_version": "X0609",
+    "document_type": "4",
+    "period_of_report": "2026-07-10",
+    "issuer_cik": "0001703399",
+    "issuer_name": "Sea Ltd",
+    "issuer_trading_symbol": "SE",
+    "reporting_owner_cik": "0002113214",
+    "reporting_owner_name": "Wang Yanjun",
+    "reporting_owner_address": {
+      "rptOwnerNonUSAddressFlag": "true",
+      "rptOwnerStreet1": "C/O 1 FUSIONOPOLIS PLACE,",
+      "rptOwnerStreet2": "#17-10, GALAXIS",
+      "rptOwnerCity": "SINGAPORE",
+      "rptOwnerCountry": "U0",
+      "rptOwnerZipCode": "138522",
+      "rptOwnerStateDescription": "SINGAPORE"
+    },
+    "relationship": {
+      "isDirector": "false",
+      "isOfficer": "true",
+      "isTenPercentOwner": "false",
+      "isOther": "false",
+      "officerTitle": "CCO and GC"
+    },
+    "non_derivative_transactions": [
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-10",
+        "shares_owned_following": "39473",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "527",
+        "price_per_share": "111.96",
+        "acquired_disposed": "D"
+      },
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-10",
+        "shares_owned_following": "39297",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "176",
+        "price_per_share": "113.25",
+        "acquired_disposed": "D"
+      },
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-10",
+        "shares_owned_following": "38843",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "454",
+        "price_per_share": "113.92",
+        "acquired_disposed": "D"
+      },
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-10",
+        "shares_owned_following": "38500",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "343",
+        "price_per_share": "114.7",
+        "acquired_disposed": "D"
+      },
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-13",
+        "shares_owned_following": "37983",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "517",
+        "price_per_share": "111.22",
+        "acquired_disposed": "D"
+      },
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-13",
+        "shares_owned_following": "37489",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "494",
+        "price_per_share": "111.93",
+        "acquired_disposed": "D"
+      },
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-13",
+        "shares_owned_following": "37285",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "204",
+        "price_per_share": "113.08",
+        "acquired_disposed": "D"
+      },
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-13",
+        "shares_owned_following": "37158",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "127",
+        "price_per_share": "114.21",
+        "acquired_disposed": "D"
+      },
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-13",
+        "shares_owned_following": "37000",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "158",
+        "price_per_share": "114.93",
+        "acquired_disposed": "D"
+      }
+    ],
+    "footnotes": [
+      "The shares were sold pursuant to a Rule 10b5-1 trading plan adopted by a BVI entity controlled by the Reporting Person on March 26, 2026.",
+      "Represents the weighted average price of shares sold at prices that ranged from $111.43 to $112.39. The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer or a security holder of the issuer full information regarding the number of shares sold at each separate price within the ranges set forth in this Form 4.",
+      "Represents the weighted average price of shares sold at prices that ranged from $112.44 to $113.42.",
+      "Represents the weighted average price of shares sold at prices that ranged from $113.43 to $114.42.",
+      "Represents the weighted average price of shares sold at prices that ranged from $114.43 to $115.35.",
+      "Represents the weighted average price of shares sold at prices that ranged from $110.64 to $111.63.",
+      "Represents the weighted average price of shares sold at prices that ranged from $111.64 to $112.62.",
+      "Represents the weighted average price of shares sold at prices that ranged from $112.64 to $113.58.",
+      "Represents the weighted average price of shares sold at prices that ranged from $113.70 to $114.60.",
+      "Represents the weighted average price of shares sold at prices that ranged from $114.66 to $115.24."
+    ],
+    "signature_name": "/s/ Emily Tan, attorney-in-fact for Yanjun Wang",
+    "signature_date": "2026-07-14",
+    "xml_url": "https://www.sec.gov/Archives/edgar/data/1703399/000119312526302442/ownership.xml"
+  },
+  {
     "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001703956&owner=include&count=100",
     "entity_name": "Concrete Pumping Holdings, Inc.",
     "entity_cik": "0001703956",
@@ -74240,6 +76542,196 @@
     "signature_name": "/s/ Mark Tang, attorney-in-fact for Gang Ye",
     "signature_date": "2026-07-08",
     "xml_url": "https://www.sec.gov/Archives/edgar/data/1703399/000119312526297954/ownership.xml"
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001729171&owner=include&count=100",
+    "entity_name": "Ye Gang",
+    "entity_cik": "0001729171",
+    "entity_role": "Reporting",
+    "form_type": "4",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/1729171/000119312526302441/0001193125-26-302441-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/1729171/000119312526302441/0001193125-26-302441.txt",
+    "description": "Statement of changes in beneficial ownership of securities",
+    "accession_number": "0001193125-26-302441",
+    "act": "34",
+    "size": "19 KB",
+    "accepted_date": "2026-07-14",
+    "accepted_time": "06:01:55",
+    "filing_date": "2026-07-14",
+    "file_number": "001-38237",
+    "film_number": "261172468",
+    "content_hash": "b8165b7380e0582d436ed19ddce36526",
+    "url": "https://www.sec.gov/Archives/edgar/data/1729171/000119312526302441/0001193125-26-302441-index.htm",
+    "entry_id": "0001729171_0001193125-26-302441",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "4",
+          "ownership.html",
+          "4",
+          ""
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1703399/000119312526302441/xslF345X06/ownership.xml"
+        ]
+      },
+      {
+        "cells": [
+          "1",
+          "4",
+          "ownership.xml",
+          "4",
+          "18304"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1703399/000119312526302441/ownership.xml"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001193125-26-302441.txt",
+          "",
+          "19769"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1703399/000119312526302441/0001193125-26-302441.txt"
+        ]
+      }
+    ],
+    "schema_version": "X0609",
+    "document_type": "4",
+    "period_of_report": "2026-07-10",
+    "issuer_cik": "0001703399",
+    "issuer_name": "Sea Ltd",
+    "issuer_trading_symbol": "SE",
+    "reporting_owner_cik": "0001729171",
+    "reporting_owner_name": "Ye Gang",
+    "reporting_owner_address": {
+      "rptOwnerNonUSAddressFlag": "true",
+      "rptOwnerStreet1": "C/O 1 FUSIONOPOLIS PLACE,",
+      "rptOwnerStreet2": "#17-10, GALAXIS",
+      "rptOwnerCity": "SINGAPORE",
+      "rptOwnerCountry": "U0",
+      "rptOwnerZipCode": "138522",
+      "rptOwnerStateDescription": "SINGAPORE"
+    },
+    "relationship": {
+      "isDirector": "true",
+      "isOfficer": "true",
+      "isTenPercentOwner": "false",
+      "isOther": "false",
+      "officerTitle": "COO"
+    },
+    "non_derivative_transactions": [
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-10",
+        "shares_owned_following": "438481",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "1519",
+        "price_per_share": "112.02",
+        "acquired_disposed": "D"
+      },
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-10",
+        "shares_owned_following": "435363",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "3118",
+        "price_per_share": "113.05",
+        "acquired_disposed": "D"
+      },
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-10",
+        "shares_owned_following": "426422",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "8941",
+        "price_per_share": "114.03",
+        "acquired_disposed": "D"
+      },
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-10",
+        "shares_owned_following": "420000",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "6422",
+        "price_per_share": "114.71",
+        "acquired_disposed": "D"
+      },
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-13",
+        "shares_owned_following": "415926",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "4074",
+        "price_per_share": "111.22",
+        "acquired_disposed": "D"
+      },
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-13",
+        "shares_owned_following": "408076",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "7850",
+        "price_per_share": "111.95",
+        "acquired_disposed": "D"
+      },
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-13",
+        "shares_owned_following": "404637",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "3439",
+        "price_per_share": "113.12",
+        "acquired_disposed": "D"
+      },
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-13",
+        "shares_owned_following": "403044",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "1593",
+        "price_per_share": "114.18",
+        "acquired_disposed": "D"
+      },
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-13",
+        "shares_owned_following": "400000",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "3044",
+        "price_per_share": "114.87",
+        "acquired_disposed": "D"
+      }
+    ],
+    "footnotes": [
+      "The shares were sold pursuant to a Rule 10b5-1 trading plan adopted by a BVI entity controlled by the Reporting Person on September 4, 2025.",
+      "Represents the weighted average price of shares sold at prices that ranged from $111.44 to $112.41. The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer or a security holder of the issuer full information regarding the number of shares sold at each separate price within the ranges set forth in this Form 4.",
+      "Represents the weighted average price of shares sold at prices that ranged from $112.44 to $113.439.",
+      "Represents the weighted average price of shares sold at prices that ranged from $113.44 to $114.43.",
+      "Represents the weighted average price of shares sold at prices that ranged from $114.44 to $115.35.",
+      "Represents the weighted average price of shares sold at prices that ranged from $110.62 to $111.615.",
+      "Represents the weighted average price of shares sold at prices that ranged from $111.62 to $112.61.",
+      "Represents the weighted average price of shares sold at prices that ranged from $112.62 to $113.56.",
+      "Represents the weighted average price of shares sold at prices that ranged from $113.63 to $114.60.",
+      "Represents the weighted average price of shares sold at prices that ranged from $114.63 to $115.37."
+    ],
+    "signature_name": "/s/ Mark Tang, attorney-in-fact for Gang Ye",
+    "signature_date": "2026-07-14",
+    "xml_url": "https://www.sec.gov/Archives/edgar/data/1703399/000119312526302441/ownership.xml"
   },
   {
     "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001730168&owner=include&count=100",
@@ -81053,6 +83545,53 @@
     "signature_name": "Kevin Tang",
     "signature_date": "2026-07-13",
     "xml_url": "https://www.sec.gov/Archives/edgar/data/1178579/000117857926000011/form4-07132026_110705.xml"
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001783879&owner=include&count=100",
+    "entity_name": "Robinhood Markets, Inc.",
+    "entity_cik": "0001783879",
+    "entity_role": "Filer",
+    "form_type": "40-APP",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/1783879/000095010326010574/0000950103-26-010574-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/1783879/000095010326010574/0000950103-26-010574.txt",
+    "description": "Application for exemption and other relief filed under the Investment Company Act of 1940",
+    "accession_number": "0000950103-26-010574",
+    "act": "IC",
+    "size": "139 KB",
+    "accepted_date": "2026-07-13",
+    "accepted_time": "20:43:51",
+    "filing_date": "2026-07-14",
+    "file_number": "812-16054",
+    "film_number": "261172375",
+    "content_hash": "36740f9571faa2e4bdf0ee89e6ea6c5d",
+    "url": "https://www.sec.gov/Archives/edgar/data/1783879/000095010326010574/0000950103-26-010574-index.htm",
+    "entry_id": "0001783879_0000950103-26-010574",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "FORM 40-APP",
+          "dp250003_40app.htm",
+          "40-APP",
+          "133511"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1783879/000095010326010574/dp250003_40app.htm"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0000950103-26-010574.txt",
+          "",
+          "139296"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1783879/000095010326010574/0000950103-26-010574.txt"
+        ]
+      }
+    ]
   },
   {
     "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001787621&owner=include&count=100",
@@ -88214,6 +90753,53 @@
     "xml_url": "https://www.sec.gov/Archives/edgar/data/1286139/000186750426000012/wk-form4_1783981885.xml"
   },
   {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001867949&owner=include&count=100",
+    "entity_name": "Chicago Atlantic Real Estate Finance, Inc.",
+    "entity_cik": "0001867949",
+    "entity_role": "Subject",
+    "form_type": "425",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/1867949/000121390026077754/0001213900-26-077754-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/1867949/000121390026077754/0001213900-26-077754.txt",
+    "description": "Prospectuses and communications, business combinations",
+    "accession_number": "0001213900-26-077754",
+    "act": "34",
+    "size": "15 KB",
+    "accepted_date": "2026-07-13",
+    "accepted_time": "21:44:38",
+    "filing_date": "2026-07-14",
+    "file_number": "001-41123",
+    "film_number": "261172423",
+    "content_hash": "ba0797c6c76b59328c6fff3955709b0e",
+    "url": "https://www.sec.gov/Archives/edgar/data/1867949/000121390026077754/0001213900-26-077754-index.htm",
+    "entry_id": "0001867949_0001213900-26-077754",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "FORM 425",
+          "ea0297908-425_chicago.htm",
+          "425",
+          "13390"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1843162/000121390026077754/ea0297908-425_chicago.htm"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001213900-26-077754.txt",
+          "",
+          "15085"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1843162/000121390026077754/0001213900-26-077754.txt"
+        ]
+      }
+    ]
+  },
+  {
     "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001871321&owner=include&count=100",
     "entity_name": "Alpha Tau Medical Ltd.",
     "entity_cik": "0001871321",
@@ -89209,6 +91795,120 @@
     "signature_name": "/s/Darren Thayer, Attorney-in-Fact for Mark D. Monte",
     "signature_date": "2026-07-13",
     "xml_url": "https://www.sec.gov/Archives/edgar/data/1885551/000143510926000118/primary_doc.xml"
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001886190&owner=include&count=100",
+    "entity_name": "Gogoro Inc.",
+    "entity_cik": "0001886190",
+    "entity_role": "Issuer",
+    "form_type": "4",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/1886190/000119312526302449/0001193125-26-302449-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/1886190/000119312526302449/0001193125-26-302449.txt",
+    "description": "Statement of changes in beneficial ownership of securities",
+    "accession_number": "0001193125-26-302449",
+    "size": "9 KB",
+    "accepted_date": "2026-07-14",
+    "accepted_time": "06:06:12",
+    "filing_date": "2026-07-14",
+    "content_hash": "3f646df55045039f9c338ce3b1d9c792",
+    "url": "https://www.sec.gov/Archives/edgar/data/1886190/000119312526302449/0001193125-26-302449-index.htm",
+    "entry_id": "0001886190_0001193125-26-302449",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "4",
+          "ownership.html",
+          "4",
+          ""
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1886190/000119312526302449/xslF345X06/ownership.xml"
+        ]
+      },
+      {
+        "cells": [
+          "1",
+          "4",
+          "ownership.xml",
+          "4",
+          "8402"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1886190/000119312526302449/ownership.xml"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001193125-26-302449.txt",
+          "",
+          "9900"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1886190/000119312526302449/0001193125-26-302449.txt"
+        ]
+      }
+    ],
+    "schema_version": "X0609",
+    "document_type": "4",
+    "period_of_report": "2026-06-22",
+    "issuer_cik": "0001886190",
+    "issuer_name": "Gogoro Inc.",
+    "issuer_trading_symbol": "GGR",
+    "reporting_owner_cik": "0001916103",
+    "reporting_owner_name": "Yin Chung-Yao",
+    "reporting_owner_address": {
+      "rptOwnerNonUSAddressFlag": "true",
+      "rptOwnerStreet1": "11F, BUILDING C, NO. 225, SECTION 2,",
+      "rptOwnerStreet2": "CHANG'AN E. RD., SONGSHAN DISTRICT",
+      "rptOwnerCity": "TAIPEI CITY",
+      "rptOwnerNonUSStateTerritory": "TAIWAN",
+      "rptOwnerCountry": "F5",
+      "rptOwnerZipCode": "105404",
+      "rptOwnerStateDescription": "TAIWAN"
+    },
+    "relationship": {
+      "isDirector": "true",
+      "isOfficer": "false",
+      "isTenPercentOwner": "false",
+      "isOther": "false"
+    },
+    "non_derivative_transactions": [
+      {
+        "security_title": "Ordinary Shares",
+        "transaction_date": "2026-06-22",
+        "shares_owned_following": "9561657",
+        "direct_or_indirect": "I",
+        "transaction_code": "J",
+        "shares": "9561657",
+        "acquired_disposed": "A"
+      }
+    ],
+    "derivative_transactions": [
+      {
+        "security_title": "Warrants",
+        "transaction_date": "2026-06-22",
+        "shares_owned_following": "541934",
+        "direct_or_indirect": "I",
+        "transaction_code": "J",
+        "shares": "541934",
+        "acquired_disposed": "A",
+        "conversion_exercise_price": "33.83",
+        "underlying_title": "Ordinary Shares",
+        "underlying_shares": "541934"
+      }
+    ],
+    "footnotes": [
+      "The Ordinary Shares reported herein are held directly by Gold Sino Assets Limited (\"Gold Sino\"). Following the death of the Reporting Person's father, the Reporting Person, his mother and another successor became entitled under the laws of descent and distribution to one-third each of the Gold Sino shares formerly held by his father. On June 22, 2026, the Reporting Person's mother agreed to assign her entitlement to one-third of the Gold Sino shares to the Reporting Person. As a result, the Reporting Person is entitled to a two-thirds equity interest in, and can control, Gold Sino and may be deemed to beneficially own the Ordinary Shares held by Gold Sino.",
+      "The Reporting Person holds a majority equity interest in and has control over Peng-Lin Investment Co., Ltd., which currently holds 494,538 Ordinary Shares of the Issuer.",
+      "The warrants reported herein are held directly by Gold Sino. Following the death of the Reporting Person's father, the Reporting Person, his mother and another successor became entitled under the laws of descent and distribution to one-third each of the Gold Sino shares formerly held by his father. On June 22, 2026, the Reporting Person's mother agreed to assign her entitlement to one-third of the Gold Sino shares to the Reporting Person. As a result, the Reporting Person is entitled to a two-thirds equity interest in, and can control, Gold Sino and may be deemed to beneficially own the warrants held by Gold Sino.",
+      "The Reporting Person disclaims beneficial ownership of the securities reported herein, except to the extent of such Reporting Person's pecuniary interest therein, and this report shall not be deemed an admission that the Reporting Person is the beneficial owner of such securities for purposes of Section 16 or any other purpose."
+    ],
+    "signature_name": "/s/ Chung Yao Yin",
+    "signature_date": "2026-07-14",
+    "xml_url": "https://www.sec.gov/Archives/edgar/data/1886190/000119312526302449/ownership.xml"
   },
   {
     "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001890749&owner=include&count=100",
@@ -90775,6 +93475,123 @@
     "xml_url": "https://www.sec.gov/Archives/edgar/data/1880438/000119312526301167/ownership.xml"
   },
   {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001916103&owner=include&count=100",
+    "entity_name": "Yin Chung-Yao",
+    "entity_cik": "0001916103",
+    "entity_role": "Reporting",
+    "form_type": "4",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/1916103/000119312526302449/0001193125-26-302449-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/1916103/000119312526302449/0001193125-26-302449.txt",
+    "description": "Statement of changes in beneficial ownership of securities",
+    "accession_number": "0001193125-26-302449",
+    "act": "34",
+    "size": "9 KB",
+    "accepted_date": "2026-07-14",
+    "accepted_time": "06:06:12",
+    "filing_date": "2026-07-14",
+    "file_number": "001-41327",
+    "film_number": "261172484",
+    "content_hash": "5944a1ad579925ea8e5ebc4ff3113720",
+    "url": "https://www.sec.gov/Archives/edgar/data/1916103/000119312526302449/0001193125-26-302449-index.htm",
+    "entry_id": "0001916103_0001193125-26-302449",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "4",
+          "ownership.html",
+          "4",
+          ""
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1886190/000119312526302449/xslF345X06/ownership.xml"
+        ]
+      },
+      {
+        "cells": [
+          "1",
+          "4",
+          "ownership.xml",
+          "4",
+          "8402"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1886190/000119312526302449/ownership.xml"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001193125-26-302449.txt",
+          "",
+          "9900"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1886190/000119312526302449/0001193125-26-302449.txt"
+        ]
+      }
+    ],
+    "schema_version": "X0609",
+    "document_type": "4",
+    "period_of_report": "2026-06-22",
+    "issuer_cik": "0001886190",
+    "issuer_name": "Gogoro Inc.",
+    "issuer_trading_symbol": "GGR",
+    "reporting_owner_cik": "0001916103",
+    "reporting_owner_name": "Yin Chung-Yao",
+    "reporting_owner_address": {
+      "rptOwnerNonUSAddressFlag": "true",
+      "rptOwnerStreet1": "11F, BUILDING C, NO. 225, SECTION 2,",
+      "rptOwnerStreet2": "CHANG'AN E. RD., SONGSHAN DISTRICT",
+      "rptOwnerCity": "TAIPEI CITY",
+      "rptOwnerNonUSStateTerritory": "TAIWAN",
+      "rptOwnerCountry": "F5",
+      "rptOwnerZipCode": "105404",
+      "rptOwnerStateDescription": "TAIWAN"
+    },
+    "relationship": {
+      "isDirector": "true",
+      "isOfficer": "false",
+      "isTenPercentOwner": "false",
+      "isOther": "false"
+    },
+    "non_derivative_transactions": [
+      {
+        "security_title": "Ordinary Shares",
+        "transaction_date": "2026-06-22",
+        "shares_owned_following": "9561657",
+        "direct_or_indirect": "I",
+        "transaction_code": "J",
+        "shares": "9561657",
+        "acquired_disposed": "A"
+      }
+    ],
+    "derivative_transactions": [
+      {
+        "security_title": "Warrants",
+        "transaction_date": "2026-06-22",
+        "shares_owned_following": "541934",
+        "direct_or_indirect": "I",
+        "transaction_code": "J",
+        "shares": "541934",
+        "acquired_disposed": "A",
+        "conversion_exercise_price": "33.83",
+        "underlying_title": "Ordinary Shares",
+        "underlying_shares": "541934"
+      }
+    ],
+    "footnotes": [
+      "The Ordinary Shares reported herein are held directly by Gold Sino Assets Limited (\"Gold Sino\"). Following the death of the Reporting Person's father, the Reporting Person, his mother and another successor became entitled under the laws of descent and distribution to one-third each of the Gold Sino shares formerly held by his father. On June 22, 2026, the Reporting Person's mother agreed to assign her entitlement to one-third of the Gold Sino shares to the Reporting Person. As a result, the Reporting Person is entitled to a two-thirds equity interest in, and can control, Gold Sino and may be deemed to beneficially own the Ordinary Shares held by Gold Sino.",
+      "The Reporting Person holds a majority equity interest in and has control over Peng-Lin Investment Co., Ltd., which currently holds 494,538 Ordinary Shares of the Issuer.",
+      "The warrants reported herein are held directly by Gold Sino. Following the death of the Reporting Person's father, the Reporting Person, his mother and another successor became entitled under the laws of descent and distribution to one-third each of the Gold Sino shares formerly held by his father. On June 22, 2026, the Reporting Person's mother agreed to assign her entitlement to one-third of the Gold Sino shares to the Reporting Person. As a result, the Reporting Person is entitled to a two-thirds equity interest in, and can control, Gold Sino and may be deemed to beneficially own the warrants held by Gold Sino.",
+      "The Reporting Person disclaims beneficial ownership of the securities reported herein, except to the extent of such Reporting Person's pecuniary interest therein, and this report shall not be deemed an admission that the Reporting Person is the beneficial owner of such securities for purposes of Section 16 or any other purpose."
+    ],
+    "signature_name": "/s/ Chung Yao Yin",
+    "signature_date": "2026-07-14",
+    "xml_url": "https://www.sec.gov/Archives/edgar/data/1886190/000119312526302449/ownership.xml"
+  },
+  {
     "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001916764&owner=include&count=100",
     "entity_name": "Martin Patricia A.",
     "entity_cik": "0001916764",
@@ -91074,6 +93891,89 @@
     "signature_name": "/s/ Lucy Day, Attorney-in-Fact for Gilbert Lynn Marks",
     "signature_date": "2026-07-10",
     "xml_url": "https://www.sec.gov/Archives/edgar/data/1880438/000119312526301166/ownership.xml"
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001918080&owner=include&count=100",
+    "entity_name": "Deep Isolation Nuclear, Inc.",
+    "entity_cik": "0001918080",
+    "entity_role": "Filer",
+    "form_type": "424B8",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/1918080/000121390026077758/0001213900-26-077758-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/1918080/000121390026077758/0001213900-26-077758.txt",
+    "description": "Prospectus filed pursuant to Rule 424(b)(8)",
+    "accession_number": "0001213900-26-077758",
+    "act": "33",
+    "size": "2 MB",
+    "accepted_date": "2026-07-14",
+    "accepted_time": "06:02:15",
+    "filing_date": "2026-07-14",
+    "file_number": "333-289689",
+    "film_number": "261172469",
+    "content_hash": "e0d8461bb7435348e99ad4ab08c18095",
+    "url": "https://www.sec.gov/Archives/edgar/data/1918080/000121390026077758/0001213900-26-077758-index.htm",
+    "entry_id": "0001918080_0001213900-26-077758",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "PROSPECTUS",
+          "ea0297927-424b8_deep.htm",
+          "424B8",
+          "2317723"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1918080/000121390026077758/ea0297927-424b8_deep.htm"
+        ]
+      },
+      {
+        "cells": [
+          "2",
+          "GRAPHIC",
+          "ea029792701_img1.jpg",
+          "GRAPHIC",
+          "5301"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1918080/000121390026077758/ea029792701_img1.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "3",
+          "GRAPHIC",
+          "ea029792701_img2.jpg",
+          "GRAPHIC",
+          "50785"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1918080/000121390026077758/ea029792701_img2.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "4",
+          "GRAPHIC",
+          "ea029792701_img3.jpg",
+          "GRAPHIC",
+          "31222"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1918080/000121390026077758/ea029792701_img3.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001213900-26-077758.txt",
+          "",
+          "2439544"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1918080/000121390026077758/0001213900-26-077758.txt"
+        ]
+      }
+    ]
   },
   {
     "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001919150&owner=include&count=100",
@@ -94183,6 +97083,110 @@
     "xml_url": "https://www.sec.gov/Archives/edgar/data/1602573/000123191926000726/form4-07032026_010748.xml"
   },
   {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001978482&owner=include&count=100",
+    "entity_name": "Ruda Harry E",
+    "entity_cik": "0001978482",
+    "entity_role": "Reporting",
+    "form_type": "4",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/1978482/000110465926083273/0001104659-26-083273-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/1978482/000110465926083273/0001104659-26-083273.txt",
+    "description": "Statement of changes in beneficial ownership of securities",
+    "accession_number": "0001104659-26-083273",
+    "act": "34",
+    "size": "5 KB",
+    "accepted_date": "2026-07-14",
+    "accepted_time": "06:04:18",
+    "filing_date": "2026-07-14",
+    "file_number": "001-33107",
+    "film_number": "261172476",
+    "content_hash": "b7dbd0133af8328d9e2ed3280f791ba1",
+    "url": "https://www.sec.gov/Archives/edgar/data/1978482/000110465926083273/0001104659-26-083273-index.htm",
+    "entry_id": "0001978482_0001104659-26-083273",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "OWNERSHIP DOCUMENT",
+          "tm2620303-6_4seq1.html",
+          "4",
+          ""
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1375877/000110465926083273/xslF345X06/tm2620303-6_4seq1.xml"
+        ]
+      },
+      {
+        "cells": [
+          "1",
+          "OWNERSHIP DOCUMENT",
+          "tm2620303-6_4seq1.xml",
+          "4",
+          "4392"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1375877/000110465926083273/tm2620303-6_4seq1.xml"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001104659-26-083273.txt",
+          "",
+          "5870"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1375877/000110465926083273/0001104659-26-083273.txt"
+        ]
+      }
+    ],
+    "schema_version": "X0609",
+    "document_type": "4",
+    "period_of_report": "2026-07-09",
+    "issuer_cik": "0001375877",
+    "issuer_name": "Canadian Solar Inc.",
+    "issuer_trading_symbol": "CSIQ",
+    "reporting_owner_cik": "0001978482",
+    "reporting_owner_name": "Ruda Harry E",
+    "reporting_owner_address": {
+      "rptOwnerNonUSAddressFlag": "true",
+      "rptOwnerStreet1": "C/O CANADIAN SOLAR INC,",
+      "rptOwnerStreet2": "4273 KING STREET EAST, SUITE 102",
+      "rptOwnerCity": "KITCHENER",
+      "rptOwnerCountry": "A6",
+      "rptOwnerZipCode": "N2P 2E9",
+      "rptOwnerStateDescription": "ONTARIO, CANADA"
+    },
+    "relationship": {
+      "isDirector": "1",
+      "isOfficer": "0",
+      "isTenPercentOwner": "0",
+      "isOther": "0"
+    },
+    "derivative_transactions": [
+      {
+        "security_title": "Restricted Share Units",
+        "transaction_date": "2026-07-09",
+        "shares_owned_following": "24108",
+        "direct_or_indirect": "D",
+        "transaction_code": "A",
+        "shares": "1949",
+        "price_per_share": "0.00",
+        "acquired_disposed": "A",
+        "conversion_exercise_price": "0.00",
+        "underlying_title": "Common Stock",
+        "underlying_shares": "1949"
+      }
+    ],
+    "footnotes": [
+      "The transaction reported herein was effected on July 9, 2026. For purposes of the applicable award terms, the award has a deemed grant date of July 1, 20",
+      "These RSUs have no expiration date."
+    ],
+    "signature_name": "/s/ Harry Eugen Ruda",
+    "signature_date": "2026-07-14",
+    "xml_url": "https://www.sec.gov/Archives/edgar/data/1375877/000110465926083273/tm2620303-6_4seq1.xml"
+  },
+  {
     "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001978611&owner=include&count=100",
     "entity_name": "Chelouche Yoav",
     "entity_cik": "0001978611",
@@ -94387,6 +97391,110 @@
     "signature_name": "Lightspeed Venture Partners X, L.P., By: Lightspeed General Partner X, L.P., its General Partner, By: Lightspeed Ultimate General Partner X, Ltd., its General Partner, By /s/ Ravi Mhatre, Director",
     "signature_date": "2026-07-02",
     "xml_url": "https://www.sec.gov/Archives/edgar/data/1602573/000123191926000726/form4-07032026_010748.xml"
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001979240&owner=include&count=100",
+    "entity_name": "Wong Andrew Luen Cheung",
+    "entity_cik": "0001979240",
+    "entity_role": "Reporting",
+    "form_type": "4",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/1979240/000110465926083281/0001104659-26-083281-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/1979240/000110465926083281/0001104659-26-083281.txt",
+    "description": "Statement of changes in beneficial ownership of securities",
+    "accession_number": "0001104659-26-083281",
+    "act": "34",
+    "size": "5 KB",
+    "accepted_date": "2026-07-14",
+    "accepted_time": "06:08:07",
+    "filing_date": "2026-07-14",
+    "file_number": "001-33107",
+    "film_number": "261172485",
+    "content_hash": "5868d54ae15c940b8fd7faa6f0953256",
+    "url": "https://www.sec.gov/Archives/edgar/data/1979240/000110465926083281/0001104659-26-083281-index.htm",
+    "entry_id": "0001979240_0001104659-26-083281",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "OWNERSHIP DOCUMENT",
+          "tm2620303-1_4seq1.html",
+          "4",
+          ""
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1375877/000110465926083281/xslF345X06/tm2620303-1_4seq1.xml"
+        ]
+      },
+      {
+        "cells": [
+          "1",
+          "OWNERSHIP DOCUMENT",
+          "tm2620303-1_4seq1.xml",
+          "4",
+          "4415"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1375877/000110465926083281/tm2620303-1_4seq1.xml"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001104659-26-083281.txt",
+          "",
+          "5904"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1375877/000110465926083281/0001104659-26-083281.txt"
+        ]
+      }
+    ],
+    "schema_version": "X0609",
+    "document_type": "4",
+    "period_of_report": "2026-07-09",
+    "issuer_cik": "0001375877",
+    "issuer_name": "Canadian Solar Inc.",
+    "issuer_trading_symbol": "CSIQ",
+    "reporting_owner_cik": "0001979240",
+    "reporting_owner_name": "Wong Andrew Luen Cheung",
+    "reporting_owner_address": {
+      "rptOwnerNonUSAddressFlag": "true",
+      "rptOwnerStreet1": "C/O CANADIAN SOLAR INC,",
+      "rptOwnerStreet2": "4273 KING STREET EAST, SUITE 102",
+      "rptOwnerCity": "KITCHENER",
+      "rptOwnerCountry": "A6",
+      "rptOwnerZipCode": "N2P 2E9",
+      "rptOwnerStateDescription": "ONTARIO, CANADA"
+    },
+    "relationship": {
+      "isDirector": "1",
+      "isOfficer": "0",
+      "isTenPercentOwner": "0",
+      "isOther": "0"
+    },
+    "derivative_transactions": [
+      {
+        "security_title": "Restricted Share Units",
+        "transaction_date": "2026-07-09",
+        "shares_owned_following": "24108",
+        "direct_or_indirect": "D",
+        "transaction_code": "A",
+        "shares": "1949",
+        "price_per_share": "0.00",
+        "acquired_disposed": "A",
+        "conversion_exercise_price": "0.00",
+        "underlying_title": "Common Stock",
+        "underlying_shares": "1949"
+      }
+    ],
+    "footnotes": [
+      "The transaction reported herein was effected on July 9, 2026. For purposes of the applicable award terms, the award has a deemed grant date of July 1, 2026.",
+      "These RSUs have no expiration date."
+    ],
+    "signature_name": "/s/ Andrew (Luen Cheung) Wong",
+    "signature_date": "2026-07-14",
+    "xml_url": "https://www.sec.gov/Archives/edgar/data/1375877/000110465926083281/tm2620303-1_4seq1.xml"
   },
   {
     "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001979357&owner=include&count=100",
@@ -96342,6 +99450,89 @@
     "signature_name": "/s/ Maximilian Jo, as Attorney-in-Fact for David J. Lee",
     "signature_date": "2026-07-13",
     "xml_url": "https://www.sec.gov/Archives/edgar/data/1605182/000160518226000014/wk-form4_1783981071.xml"
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001999480&owner=include&count=100",
+    "entity_name": "Alto Neuroscience, Inc.",
+    "entity_cik": "0001999480",
+    "entity_role": "Filer",
+    "form_type": "424B5",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/1999480/000110465926083268/0001104659-26-083268-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/1999480/000110465926083268/0001104659-26-083268.txt",
+    "description": "Prospectus [Rule 424(b)(5)]",
+    "accession_number": "0001104659-26-083268",
+    "act": "33",
+    "size": "1 MB",
+    "accepted_date": "2026-07-14",
+    "accepted_time": "06:03:02",
+    "filing_date": "2026-07-14",
+    "file_number": "333-284667",
+    "film_number": "261172473",
+    "content_hash": "ccb46712e18605664ea57d34bb730d3e",
+    "url": "https://www.sec.gov/Archives/edgar/data/1999480/000110465926083268/0001104659-26-083268-index.htm",
+    "entry_id": "0001999480_0001104659-26-083268",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "424B5",
+          "tm2620333-1_424b5.htm",
+          "424B5",
+          "645812"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1999480/000110465926083268/tm2620333-1_424b5.htm"
+        ]
+      },
+      {
+        "cells": [
+          "2",
+          "GRAPHIC",
+          "lg_altoneurosci-4c.jpg",
+          "GRAPHIC",
+          "30908"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1999480/000110465926083268/lg_altoneurosci-4c.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "3",
+          "GRAPHIC",
+          "tb_product-4c.jpg",
+          "GRAPHIC",
+          "179905"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1999480/000110465926083268/tb_product-4c.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "4",
+          "GRAPHIC",
+          "tb_productcand-4clr.jpg",
+          "GRAPHIC",
+          "118710"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1999480/000110465926083268/tb_productcand-4clr.jpg"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001104659-26-083268.txt",
+          "",
+          "1101066"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1999480/000110465926083268/0001104659-26-083268.txt"
+        ]
+      }
+    ]
   },
   {
     "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002002524&owner=include&count=100",
@@ -102561,6 +105752,53 @@
     "xml_url": "https://www.sec.gov/Archives/edgar/data/2030482/000121390026077741/ownership.xml"
   },
   {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002067588&owner=include&count=100",
+    "entity_name": "Robinhood Asset Management, LLC",
+    "entity_cik": "0002067588",
+    "entity_role": "Filer",
+    "form_type": "40-APP",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/2067588/000095010326010574/0000950103-26-010574-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/2067588/000095010326010574/0000950103-26-010574.txt",
+    "description": "Application for exemption and other relief filed under the Investment Company Act of 1940",
+    "accession_number": "0000950103-26-010574",
+    "act": "IC",
+    "size": "139 KB",
+    "accepted_date": "2026-07-13",
+    "accepted_time": "20:43:51",
+    "filing_date": "2026-07-14",
+    "file_number": "812-16054-03",
+    "film_number": "261172378",
+    "content_hash": "fb700f8f9c593df93ee9b6daeb95f36f",
+    "url": "https://www.sec.gov/Archives/edgar/data/2067588/000095010326010574/0000950103-26-010574-index.htm",
+    "entry_id": "0002067588_0000950103-26-010574",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "FORM 40-APP",
+          "dp250003_40app.htm",
+          "40-APP",
+          "133511"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1783879/000095010326010574/dp250003_40app.htm"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0000950103-26-010574.txt",
+          "",
+          "139296"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1783879/000095010326010574/0000950103-26-010574.txt"
+        ]
+      }
+    ]
+  },
+  {
     "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002068530&owner=include&count=100",
     "entity_name": "Coastlands Capital LP",
     "entity_cik": "0002068530",
@@ -103078,6 +106316,100 @@
     "signature_name": "/s/ Donald Ainscow",
     "signature_date": "2026-07-02",
     "xml_url": "https://www.sec.gov/Archives/edgar/data/1921865/000147793226004176/form4.xml"
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002085091&owner=include&count=100",
+    "entity_name": "Robinhood Ventures Fund I",
+    "entity_cik": "0002085091",
+    "entity_role": "Filer",
+    "form_type": "40-APP",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/2085091/000095010326010574/0000950103-26-010574-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/2085091/000095010326010574/0000950103-26-010574.txt",
+    "description": "Application for exemption and other relief filed under the Investment Company Act of 1940",
+    "accession_number": "0000950103-26-010574",
+    "act": "IC",
+    "size": "139 KB",
+    "accepted_date": "2026-07-13",
+    "accepted_time": "20:43:51",
+    "filing_date": "2026-07-14",
+    "file_number": "812-16054-08",
+    "film_number": "261172383",
+    "content_hash": "b18f3afa737221930fa3d346a20fcd3f",
+    "url": "https://www.sec.gov/Archives/edgar/data/2085091/000095010326010574/0000950103-26-010574-index.htm",
+    "entry_id": "0002085091_0000950103-26-010574",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "FORM 40-APP",
+          "dp250003_40app.htm",
+          "40-APP",
+          "133511"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1783879/000095010326010574/dp250003_40app.htm"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0000950103-26-010574.txt",
+          "",
+          "139296"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1783879/000095010326010574/0000950103-26-010574.txt"
+        ]
+      }
+    ]
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002088356&owner=include&count=100",
+    "entity_name": "Robinhood Ventures DE, LLC",
+    "entity_cik": "0002088356",
+    "entity_role": "Filer",
+    "form_type": "40-APP",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/2088356/000095010326010574/0000950103-26-010574-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/2088356/000095010326010574/0000950103-26-010574.txt",
+    "description": "Application for exemption and other relief filed under the Investment Company Act of 1940",
+    "accession_number": "0000950103-26-010574",
+    "act": "IC",
+    "size": "139 KB",
+    "accepted_date": "2026-07-13",
+    "accepted_time": "20:43:51",
+    "filing_date": "2026-07-14",
+    "file_number": "812-16054-04",
+    "film_number": "261172379",
+    "content_hash": "b2b1eea4b71d8f3e4eee3c4eb89cdb73",
+    "url": "https://www.sec.gov/Archives/edgar/data/2088356/000095010326010574/0000950103-26-010574-index.htm",
+    "entry_id": "0002088356_0000950103-26-010574",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "FORM 40-APP",
+          "dp250003_40app.htm",
+          "40-APP",
+          "133511"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1783879/000095010326010574/dp250003_40app.htm"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0000950103-26-010574.txt",
+          "",
+          "139296"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1783879/000095010326010574/0000950103-26-010574.txt"
+        ]
+      }
+    ]
   },
   {
     "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002092012&owner=include&count=100",
@@ -104592,6 +107924,196 @@
     "signature_name": "/s/ Emily Tan, attorney-in-fact for Yanjun Wang",
     "signature_date": "2026-07-08",
     "xml_url": "https://www.sec.gov/Archives/edgar/data/1703399/000119312526297957/ownership.xml"
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002113214&owner=include&count=100",
+    "entity_name": "Wang Yanjun",
+    "entity_cik": "0002113214",
+    "entity_role": "Reporting",
+    "form_type": "4",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/2113214/000119312526302442/0001193125-26-302442-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/2113214/000119312526302442/0001193125-26-302442.txt",
+    "description": "Statement of changes in beneficial ownership of securities",
+    "accession_number": "0001193125-26-302442",
+    "act": "34",
+    "size": "19 KB",
+    "accepted_date": "2026-07-14",
+    "accepted_time": "06:02:29",
+    "filing_date": "2026-07-14",
+    "file_number": "001-38237",
+    "film_number": "261172470",
+    "content_hash": "3c1ca4eab4d19bc2c5182dff0f70d301",
+    "url": "https://www.sec.gov/Archives/edgar/data/2113214/000119312526302442/0001193125-26-302442-index.htm",
+    "entry_id": "0002113214_0001193125-26-302442",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "4",
+          "ownership.html",
+          "4",
+          ""
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1703399/000119312526302442/xslF345X06/ownership.xml"
+        ]
+      },
+      {
+        "cells": [
+          "1",
+          "4",
+          "ownership.xml",
+          "4",
+          "18295"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1703399/000119312526302442/ownership.xml"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001193125-26-302442.txt",
+          "",
+          "19797"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1703399/000119312526302442/0001193125-26-302442.txt"
+        ]
+      }
+    ],
+    "schema_version": "X0609",
+    "document_type": "4",
+    "period_of_report": "2026-07-10",
+    "issuer_cik": "0001703399",
+    "issuer_name": "Sea Ltd",
+    "issuer_trading_symbol": "SE",
+    "reporting_owner_cik": "0002113214",
+    "reporting_owner_name": "Wang Yanjun",
+    "reporting_owner_address": {
+      "rptOwnerNonUSAddressFlag": "true",
+      "rptOwnerStreet1": "C/O 1 FUSIONOPOLIS PLACE,",
+      "rptOwnerStreet2": "#17-10, GALAXIS",
+      "rptOwnerCity": "SINGAPORE",
+      "rptOwnerCountry": "U0",
+      "rptOwnerZipCode": "138522",
+      "rptOwnerStateDescription": "SINGAPORE"
+    },
+    "relationship": {
+      "isDirector": "false",
+      "isOfficer": "true",
+      "isTenPercentOwner": "false",
+      "isOther": "false",
+      "officerTitle": "CCO and GC"
+    },
+    "non_derivative_transactions": [
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-10",
+        "shares_owned_following": "39473",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "527",
+        "price_per_share": "111.96",
+        "acquired_disposed": "D"
+      },
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-10",
+        "shares_owned_following": "39297",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "176",
+        "price_per_share": "113.25",
+        "acquired_disposed": "D"
+      },
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-10",
+        "shares_owned_following": "38843",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "454",
+        "price_per_share": "113.92",
+        "acquired_disposed": "D"
+      },
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-10",
+        "shares_owned_following": "38500",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "343",
+        "price_per_share": "114.7",
+        "acquired_disposed": "D"
+      },
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-13",
+        "shares_owned_following": "37983",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "517",
+        "price_per_share": "111.22",
+        "acquired_disposed": "D"
+      },
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-13",
+        "shares_owned_following": "37489",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "494",
+        "price_per_share": "111.93",
+        "acquired_disposed": "D"
+      },
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-13",
+        "shares_owned_following": "37285",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "204",
+        "price_per_share": "113.08",
+        "acquired_disposed": "D"
+      },
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-13",
+        "shares_owned_following": "37158",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "127",
+        "price_per_share": "114.21",
+        "acquired_disposed": "D"
+      },
+      {
+        "security_title": "Class A ordinary shares",
+        "transaction_date": "2026-07-13",
+        "shares_owned_following": "37000",
+        "direct_or_indirect": "I",
+        "transaction_code": "S",
+        "shares": "158",
+        "price_per_share": "114.93",
+        "acquired_disposed": "D"
+      }
+    ],
+    "footnotes": [
+      "The shares were sold pursuant to a Rule 10b5-1 trading plan adopted by a BVI entity controlled by the Reporting Person on March 26, 2026.",
+      "Represents the weighted average price of shares sold at prices that ranged from $111.43 to $112.39. The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer or a security holder of the issuer full information regarding the number of shares sold at each separate price within the ranges set forth in this Form 4.",
+      "Represents the weighted average price of shares sold at prices that ranged from $112.44 to $113.42.",
+      "Represents the weighted average price of shares sold at prices that ranged from $113.43 to $114.42.",
+      "Represents the weighted average price of shares sold at prices that ranged from $114.43 to $115.35.",
+      "Represents the weighted average price of shares sold at prices that ranged from $110.64 to $111.63.",
+      "Represents the weighted average price of shares sold at prices that ranged from $111.64 to $112.62.",
+      "Represents the weighted average price of shares sold at prices that ranged from $112.64 to $113.58.",
+      "Represents the weighted average price of shares sold at prices that ranged from $113.70 to $114.60.",
+      "Represents the weighted average price of shares sold at prices that ranged from $114.66 to $115.24."
+    ],
+    "signature_name": "/s/ Emily Tan, attorney-in-fact for Yanjun Wang",
+    "signature_date": "2026-07-14",
+    "xml_url": "https://www.sec.gov/Archives/edgar/data/1703399/000119312526302442/ownership.xml"
   },
   {
     "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002114309&owner=include&count=100",
@@ -107403,6 +110925,53 @@
     ]
   },
   {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002131040&owner=include&count=100",
+    "entity_name": "Robinhood Ventures Fund II",
+    "entity_cik": "0002131040",
+    "entity_role": "Filer",
+    "form_type": "40-APP",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/2131040/000095010326010574/0000950103-26-010574-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/2131040/000095010326010574/0000950103-26-010574.txt",
+    "description": "Application for exemption and other relief filed under the Investment Company Act of 1940",
+    "accession_number": "0000950103-26-010574",
+    "act": "IC",
+    "size": "139 KB",
+    "accepted_date": "2026-07-13",
+    "accepted_time": "20:43:51",
+    "filing_date": "2026-07-14",
+    "file_number": "812-16054-07",
+    "film_number": "261172382",
+    "content_hash": "5cfa0362c332a7c0acaebce5b9fb146c",
+    "url": "https://www.sec.gov/Archives/edgar/data/2131040/000095010326010574/0000950103-26-010574-index.htm",
+    "entry_id": "0002131040_0000950103-26-010574",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "FORM 40-APP",
+          "dp250003_40app.htm",
+          "40-APP",
+          "133511"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1783879/000095010326010574/dp250003_40app.htm"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0000950103-26-010574.txt",
+          "",
+          "139296"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1783879/000095010326010574/0000950103-26-010574.txt"
+        ]
+      }
+    ]
+  },
+  {
     "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002131351&owner=include&count=100",
     "entity_name": "Weeks Brad Allan",
     "entity_cik": "0002131351",
@@ -108858,6 +112427,194 @@
     "xml_url": "https://www.sec.gov/Archives/edgar/data/1631463/000147793226004194/form4.xml"
   },
   {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002142247&owner=include&count=100",
+    "entity_name": "Robinhood Assets (Jersey) Ltd",
+    "entity_cik": "0002142247",
+    "entity_role": "Filer",
+    "form_type": "40-APP",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/2142247/000095010326010574/0000950103-26-010574-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/2142247/000095010326010574/0000950103-26-010574.txt",
+    "description": "Application for exemption and other relief filed under the Investment Company Act of 1940",
+    "accession_number": "0000950103-26-010574",
+    "act": "IC",
+    "size": "139 KB",
+    "accepted_date": "2026-07-13",
+    "accepted_time": "20:43:51",
+    "filing_date": "2026-07-14",
+    "file_number": "812-16054-01",
+    "film_number": "261172376",
+    "content_hash": "fcc1490968383acabd1a9f86631f92e4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2142247/000095010326010574/0000950103-26-010574-index.htm",
+    "entry_id": "0002142247_0000950103-26-010574",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "FORM 40-APP",
+          "dp250003_40app.htm",
+          "40-APP",
+          "133511"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1783879/000095010326010574/dp250003_40app.htm"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0000950103-26-010574.txt",
+          "",
+          "139296"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1783879/000095010326010574/0000950103-26-010574.txt"
+        ]
+      }
+    ]
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002142480&owner=include&count=100",
+    "entity_name": "Robinhood Europe, UAB",
+    "entity_cik": "0002142480",
+    "entity_role": "Filer",
+    "form_type": "40-APP",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/2142480/000095010326010574/0000950103-26-010574-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/2142480/000095010326010574/0000950103-26-010574.txt",
+    "description": "Application for exemption and other relief filed under the Investment Company Act of 1940",
+    "accession_number": "0000950103-26-010574",
+    "act": "IC",
+    "size": "139 KB",
+    "accepted_date": "2026-07-13",
+    "accepted_time": "20:43:51",
+    "filing_date": "2026-07-14",
+    "file_number": "812-16054-02",
+    "film_number": "261172377",
+    "content_hash": "82b0b1df4c0b4da9269e8514eb1aa352",
+    "url": "https://www.sec.gov/Archives/edgar/data/2142480/000095010326010574/0000950103-26-010574-index.htm",
+    "entry_id": "0002142480_0000950103-26-010574",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "FORM 40-APP",
+          "dp250003_40app.htm",
+          "40-APP",
+          "133511"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1783879/000095010326010574/dp250003_40app.htm"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0000950103-26-010574.txt",
+          "",
+          "139296"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1783879/000095010326010574/0000950103-26-010574.txt"
+        ]
+      }
+    ]
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002144350&owner=include&count=100",
+    "entity_name": "Robinhood Ventures Fund III",
+    "entity_cik": "0002144350",
+    "entity_role": "Filer",
+    "form_type": "40-APP",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/2144350/000095010326010574/0000950103-26-010574-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/2144350/000095010326010574/0000950103-26-010574.txt",
+    "description": "Application for exemption and other relief filed under the Investment Company Act of 1940",
+    "accession_number": "0000950103-26-010574",
+    "act": "IC",
+    "size": "139 KB",
+    "accepted_date": "2026-07-13",
+    "accepted_time": "20:43:51",
+    "filing_date": "2026-07-14",
+    "file_number": "812-16054-06",
+    "film_number": "261172381",
+    "content_hash": "6d4bb6b01dedbf4eaf852654d734e25e",
+    "url": "https://www.sec.gov/Archives/edgar/data/2144350/000095010326010574/0000950103-26-010574-index.htm",
+    "entry_id": "0002144350_0000950103-26-010574",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "FORM 40-APP",
+          "dp250003_40app.htm",
+          "40-APP",
+          "133511"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1783879/000095010326010574/dp250003_40app.htm"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0000950103-26-010574.txt",
+          "",
+          "139296"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1783879/000095010326010574/0000950103-26-010574.txt"
+        ]
+      }
+    ]
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002144351&owner=include&count=100",
+    "entity_name": "Robinhood Ventures Fund IV",
+    "entity_cik": "0002144351",
+    "entity_role": "Filer",
+    "form_type": "40-APP",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/2144351/000095010326010574/0000950103-26-010574-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/2144351/000095010326010574/0000950103-26-010574.txt",
+    "description": "Application for exemption and other relief filed under the Investment Company Act of 1940",
+    "accession_number": "0000950103-26-010574",
+    "act": "IC",
+    "size": "139 KB",
+    "accepted_date": "2026-07-13",
+    "accepted_time": "20:43:51",
+    "filing_date": "2026-07-14",
+    "file_number": "812-16054-05",
+    "film_number": "261172380",
+    "content_hash": "5ac8908c06eff0294ca7b663235a4f6a",
+    "url": "https://www.sec.gov/Archives/edgar/data/2144351/000095010326010574/0000950103-26-010574-index.htm",
+    "entry_id": "0002144351_0000950103-26-010574",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "FORM 40-APP",
+          "dp250003_40app.htm",
+          "40-APP",
+          "133511"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1783879/000095010326010574/dp250003_40app.htm"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0000950103-26-010574.txt",
+          "",
+          "139296"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1783879/000095010326010574/0000950103-26-010574.txt"
+        ]
+      }
+    ]
+  },
+  {
     "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002144658&owner=include&count=100",
     "entity_name": "ICONIQ Strategic Partners VIII GP, L.P.",
     "entity_cik": "0002144658",
@@ -109310,6 +113067,48 @@
     "xml_url": "https://www.sec.gov/Archives/edgar/data/1812477/000119312526302304/ownership.xml"
   },
   {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001326380&owner=include&count=100",
+    "entity_name": "GameStop Corp. (0001326380) (Filed by)",
+    "form_type": "425",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/1326380/000119312526302491/0001193125-26-302491-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/1326380/000119312526302491/0001193125-26-302491.txt",
+    "description": "Prospectuses and communications, business combinations",
+    "accession_number": "0001193125-26-302491",
+    "size": "36 KB",
+    "accepted_date": "2026-07-14",
+    "accepted_time": "06:53:03",
+    "filing_date": "2026-07-14",
+    "content_hash": "1eb336e6c5b87494a10690c06f1820ab",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326380/000119312526302491/0001193125-26-302491-index.htm",
+    "entry_id": "_0001193125-26-302491",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "425",
+          "d97777d425.htm",
+          "425",
+          "34991"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1065088/000119312526302491/d97777d425.htm"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001193125-26-302491.txt",
+          "",
+          "36662"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1065088/000119312526302491/0001193125-26-302491.txt"
+        ]
+      }
+    ]
+  },
+  {
     "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002064953&owner=include&count=100",
     "entity_name": "Solstice Advanced Materials Inc. (0002064953) (Filed by)",
     "form_type": "425",
@@ -109359,6 +113158,48 @@
         ],
         "links": [
           "https://www.sec.gov/Archives/edgar/data/1590714/000121390026076549/0001213900-26-076549.txt"
+        ]
+      }
+    ]
+  },
+  {
+    "entity_link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001843162&owner=include&count=100",
+    "entity_name": "Chicago Atlantic BDC, Inc. (0001843162) (Filed by)",
+    "form_type": "425",
+    "html_index_link": "https://www.sec.gov/Archives/edgar/data/1843162/000121390026077754/0001213900-26-077754-index.htm",
+    "txt_link": "https://www.sec.gov/Archives/edgar/data/1843162/000121390026077754/0001213900-26-077754.txt",
+    "description": "Prospectuses and communications, business combinations",
+    "accession_number": "0001213900-26-077754",
+    "size": "15 KB",
+    "accepted_date": "2026-07-13",
+    "accepted_time": "21:44:38",
+    "filing_date": "2026-07-14",
+    "content_hash": "9736a686c95134f8da5b67e7e82c5327",
+    "url": "https://www.sec.gov/Archives/edgar/data/1843162/000121390026077754/0001213900-26-077754-index.htm",
+    "entry_id": "_0001213900-26-077754",
+    "documents": [
+      {
+        "cells": [
+          "1",
+          "FORM 425",
+          "ea0297908-425_chicago.htm",
+          "425",
+          "13390"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1843162/000121390026077754/ea0297908-425_chicago.htm"
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Complete submission text file",
+          "0001213900-26-077754.txt",
+          "",
+          "15085"
+        ],
+        "links": [
+          "https://www.sec.gov/Archives/edgar/data/1843162/000121390026077754/0001213900-26-077754.txt"
         ]
       }
     ]
