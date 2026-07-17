@@ -1,52 +1,6 @@
 {
   "date": "2026-07-17",
-  "additions": [
-    {
-      "entry_id": "0001930214_0001213900-26-078891",
-      "url": "https://www.sec.gov/Archives/edgar/data/1930214/000121390026078891/0001213900-26-078891-index.htm",
-      "entity_name": "Vivo Opportunity Fund Holdings, L.P."
-    },
-    {
-      "entry_id": "0001930113_0001213900-26-078891",
-      "url": "https://www.sec.gov/Archives/edgar/data/1930113/000121390026078891/0001213900-26-078891-index.htm",
-      "entity_name": "Vivo Opportunity Cayman, LLC"
-    },
-    {
-      "entry_id": "0001875722_0001213900-26-078891",
-      "url": "https://www.sec.gov/Archives/edgar/data/1875722/000121390026078891/0001213900-26-078891-index.htm",
-      "entity_name": "Vivo Opportunity Cayman Fund, L.P."
-    },
-    {
-      "entry_id": "0001728970_0001213900-26-078891",
-      "url": "https://www.sec.gov/Archives/edgar/data/1728970/000121390026078891/0001213900-26-078891-index.htm",
-      "entity_name": "Vivo Opportunity, LLC"
-    },
-    {
-      "entry_id": "0001728328_0001213900-26-078891",
-      "url": "https://www.sec.gov/Archives/edgar/data/1728328/000121390026078891/0001213900-26-078891-index.htm",
-      "entity_name": "InMed Pharmaceuticals Inc."
-    },
-    {
-      "entry_id": "0001547042_0001547042-26-000012",
-      "url": "https://www.sec.gov/Archives/edgar/data/1547042/000154704226000012/0001547042-26-000012-index.htm",
-      "entity_name": "BEXIGA ANNABELLE G"
-    },
-    {
-      "entry_id": "0000913760_0001547042-26-000012",
-      "url": "https://www.sec.gov/Archives/edgar/data/913760/000154704226000012/0001547042-26-000012-index.htm",
-      "entity_name": "StoneX Group Inc."
-    },
-    {
-      "entry_id": "0001975808_0001628280-26-048556",
-      "url": "https://www.sec.gov/Archives/edgar/data/1975808/000162828026048556/0001628280-26-048556-index.htm",
-      "entity_name": "Bharathi Sandeep"
-    },
-    {
-      "entry_id": "0001835632_0001628280-26-048556",
-      "url": "https://www.sec.gov/Archives/edgar/data/1835632/000162828026048556/0001628280-26-048556-index.htm",
-      "entity_name": "Marvell Technology, Inc."
-    }
-  ],
+  "additions": [],
   "deletions": [
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1750/000000175026000074/0000001750-26-000074-index.htm",
