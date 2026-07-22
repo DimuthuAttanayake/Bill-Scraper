@@ -1,6 +1,47 @@
 {
   "date": "2026-07-22",
-  "additions": [],
+  "additions": [
+    {
+      "entry_id": "0001145022_0000894189-26-021283",
+      "url": "https://www.sec.gov/Archives/edgar/data/1145022/000089418926021283/0000894189-26-021283-index.htm",
+      "entity_name": "HOTCHKIS & WILEY FUNDS /DE/"
+    },
+    {
+      "entry_id": "0001145022_0000894189-26-021282",
+      "url": "https://www.sec.gov/Archives/edgar/data/1145022/000089418926021282/0000894189-26-021282-index.htm",
+      "entity_name": "HOTCHKIS & WILEY FUNDS /DE/"
+    },
+    {
+      "entry_id": "0001665650_0001213900-26-080140",
+      "url": "https://www.sec.gov/Archives/edgar/data/1665650/000121390026080140/0001213900-26-080140-index.htm",
+      "entity_name": "JPMorgan Chase Financial Co. LLC"
+    },
+    {
+      "entry_id": "0000019617_0001213900-26-080140",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026080140/0001213900-26-080140-index.htm",
+      "entity_name": "JPMORGAN CHASE & CO"
+    },
+    {
+      "entry_id": "0001682472_0001918704-26-020847",
+      "url": "https://www.sec.gov/Archives/edgar/data/1682472/000191870426020847/0001918704-26-020847-index.htm",
+      "entity_name": "BofA Finance LLC"
+    },
+    {
+      "entry_id": "0000070858_0001918704-26-020847",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426020847/0001918704-26-020847-index.htm",
+      "entity_name": "BANK OF AMERICA CORP /DE/"
+    },
+    {
+      "entry_id": "0001698990_0001104659-26-085487",
+      "url": "https://www.sec.gov/Archives/edgar/data/1698990/000110465926085487/0001104659-26-085487-index.htm",
+      "entity_name": "Magnolia Oil & Gas Corp"
+    },
+    {
+      "entry_id": "0000831001_0000950103-26-010954",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010954/0000950103-26-010954-index.htm",
+      "entity_name": "CITIGROUP INC"
+    }
+  ],
   "deletions": [
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1750/000000175026000074/0000001750-26-000074-index.htm",
@@ -10053,6 +10094,11 @@
       "accession_number": "0001193125-26-308061"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/1236537/000164033426001231/0001640334-26-001231-index.htm",
+      "entity_name": "MATSUI CONNIE",
+      "accession_number": "0001640334-26-001231"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/1236810/000119312526303493/0001193125-26-303493-index.htm",
       "entity_name": "BURNISON GARY D",
       "accession_number": "0001193125-26-303493"
@@ -10601,6 +10647,11 @@
       "url": "https://www.sec.gov/Archives/edgar/data/1327688/000119312526309104/0001193125-26-309104-index.htm",
       "entity_name": "OOMA INC",
       "accession_number": "0001193125-26-309104"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1327748/000149315226034126/0001493152-26-034126-index.htm",
+      "entity_name": "Moore Peter R",
+      "accession_number": "0001493152-26-034126"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1327935/000110465926081520/0001104659-26-081520-index.htm",
@@ -14341,6 +14392,11 @@
       "url": "https://www.sec.gov/Archives/edgar/data/1621221/000164033426001229/0001640334-26-001229-index.htm",
       "entity_name": "ARTELO BIOSCIENCES, INC.",
       "accession_number": "0001640334-26-001229"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1621221/000164033426001231/0001640334-26-001231-index.htm",
+      "entity_name": "ARTELO BIOSCIENCES, INC.",
+      "accession_number": "0001640334-26-001231"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1622235/000143774926023453/0001437749-26-023453-index.htm",
@@ -22693,6 +22749,21 @@
       "accession_number": "0001193125-26-303517"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/1994214/000149315226034122/0001493152-26-034122-index.htm",
+      "entity_name": "Nomadar Corp.",
+      "accession_number": "0001493152-26-034122"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1994214/000149315226034124/0001493152-26-034124-index.htm",
+      "entity_name": "Nomadar Corp.",
+      "accession_number": "0001493152-26-034124"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1994214/000149315226034126/0001493152-26-034126-index.htm",
+      "entity_name": "Nomadar Corp.",
+      "accession_number": "0001493152-26-034126"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/1994894/000119312526297858/0001193125-26-297858-index.htm",
       "entity_name": "SCLX Stock Acquisition JV LLC",
       "accession_number": "0001193125-26-297858"
@@ -24338,6 +24409,11 @@
       "accession_number": "0001628280-26-048207"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/2100540/000149315226034124/0001493152-26-034124-index.htm",
+      "entity_name": "Sanchez Rojas Javier",
+      "accession_number": "0001493152-26-034124"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/2100787/000149315226033126/0001493152-26-033126-index.htm",
       "entity_name": "Rudy Mitchell Austin",
       "accession_number": "0001493152-26-033126"
@@ -24601,6 +24677,11 @@
       "url": "https://www.sec.gov/Archives/edgar/data/2119322/000143774926022959/0001437749-26-022959-index.htm",
       "entity_name": "Digimarc Corp",
       "accession_number": "0001437749-26-022959"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2120005/000149315226034122/0001493152-26-034122-index.htm",
+      "entity_name": "Calderon Jose Manuel",
+      "accession_number": "0001493152-26-034122"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/2120107/000170904826000151/0001709048-26-000151-index.htm",
