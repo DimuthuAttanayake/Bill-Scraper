@@ -1,6 +1,277 @@
 {
   "date": "2026-07-24",
-  "additions": [],
+  "additions": [
+    {
+      "entry_id": "0001981861_0001213900-26-081115",
+      "url": "https://www.sec.gov/Archives/edgar/data/1981861/000121390026081115/0001213900-26-081115-index.htm",
+      "entity_name": "Carmel Sharon"
+    },
+    {
+      "entry_id": "0001899005_0001213900-26-081115",
+      "url": "https://www.sec.gov/Archives/edgar/data/1899005/000121390026081115/0001213900-26-081115-index.htm",
+      "entity_name": "Beamr Imaging Ltd."
+    },
+    {
+      "entry_id": "0002009676_0001628280-26-049497",
+      "url": "https://www.sec.gov/Archives/edgar/data/2009676/000162828026049497/0001628280-26-049497-index.htm",
+      "entity_name": "Azaria Eynav"
+    },
+    {
+      "entry_id": "0001432133_0001628280-26-049497",
+      "url": "https://www.sec.gov/Archives/edgar/data/1432133/000162828026049497/0001628280-26-049497-index.htm",
+      "entity_name": "KALTURA INC"
+    },
+    {
+      "entry_id": "0001889993_0001628280-26-049491",
+      "url": "https://www.sec.gov/Archives/edgar/data/1889993/000162828026049491/0001628280-26-049491-index.htm",
+      "entity_name": "Schmidt Joshua D."
+    },
+    {
+      "entry_id": "0001405495_0001628280-26-049491",
+      "url": "https://www.sec.gov/Archives/edgar/data/1405495/000162828026049491/0001628280-26-049491-index.htm",
+      "entity_name": "InterDigital, Inc."
+    },
+    {
+      "entry_id": "0001405495_0001628280-26-049489",
+      "url": "https://www.sec.gov/Archives/edgar/data/1405495/000162828026049489/0001628280-26-049489-index.htm",
+      "entity_name": "InterDigital, Inc."
+    },
+    {
+      "entry_id": "0001222716_0001628280-26-049489",
+      "url": "https://www.sec.gov/Archives/edgar/data/1222716/000162828026049489/0001628280-26-049489-index.htm",
+      "entity_name": "RANKIN JEAN F"
+    },
+    {
+      "entry_id": "0001936535_0001628280-26-049487",
+      "url": "https://www.sec.gov/Archives/edgar/data/1936535/000162828026049487/0001628280-26-049487-index.htm",
+      "entity_name": "Pankaj Rajesh"
+    },
+    {
+      "entry_id": "0001405495_0001628280-26-049487",
+      "url": "https://www.sec.gov/Archives/edgar/data/1405495/000162828026049487/0001628280-26-049487-index.htm",
+      "entity_name": "InterDigital, Inc."
+    },
+    {
+      "entry_id": "0002086712_0001628280-26-049485",
+      "url": "https://www.sec.gov/Archives/edgar/data/2086712/000162828026049485/0001628280-26-049485-index.htm",
+      "entity_name": "Mattis Julia C"
+    },
+    {
+      "entry_id": "0001405495_0001628280-26-049485",
+      "url": "https://www.sec.gov/Archives/edgar/data/1405495/000162828026049485/0001628280-26-049485-index.htm",
+      "entity_name": "InterDigital, Inc."
+    },
+    {
+      "entry_id": "0001491492_0001628280-26-049483",
+      "url": "https://www.sec.gov/Archives/edgar/data/1491492/000162828026049483/0001628280-26-049483-index.htm",
+      "entity_name": "Markley John D. Jr."
+    },
+    {
+      "entry_id": "0001405495_0001628280-26-049483",
+      "url": "https://www.sec.gov/Archives/edgar/data/1405495/000162828026049483/0001628280-26-049483-index.htm",
+      "entity_name": "InterDigital, Inc."
+    },
+    {
+      "entry_id": "0001405495_0001628280-26-049481",
+      "url": "https://www.sec.gov/Archives/edgar/data/1405495/000162828026049481/0001628280-26-049481-index.htm",
+      "entity_name": "InterDigital, Inc."
+    },
+    {
+      "entry_id": "0001194009_0001628280-26-049481",
+      "url": "https://www.sec.gov/Archives/edgar/data/1194009/000162828026049481/0001628280-26-049481-index.htm",
+      "entity_name": "KRITZMACHER JOHN A"
+    },
+    {
+      "entry_id": "0001405495_0001628280-26-049479",
+      "url": "https://www.sec.gov/Archives/edgar/data/1405495/000162828026049479/0001628280-26-049479-index.htm",
+      "entity_name": "InterDigital, Inc."
+    },
+    {
+      "entry_id": "0001223761_0001628280-26-049479",
+      "url": "https://www.sec.gov/Archives/edgar/data/1223761/000162828026049479/0001628280-26-049479-index.htm",
+      "entity_name": "HUTCHESON STEWART D"
+    },
+    {
+      "entry_id": "0001577360_0001628280-26-049477",
+      "url": "https://www.sec.gov/Archives/edgar/data/1577360/000162828026049477/0001628280-26-049477-index.htm",
+      "entity_name": "Gillman Joan H"
+    },
+    {
+      "entry_id": "0001405495_0001628280-26-049477",
+      "url": "https://www.sec.gov/Archives/edgar/data/1405495/000162828026049477/0001628280-26-049477-index.htm",
+      "entity_name": "InterDigital, Inc."
+    },
+    {
+      "entry_id": "0001854214_0001628280-26-049475",
+      "url": "https://www.sec.gov/Archives/edgar/data/1854214/000162828026049475/0001628280-26-049475-index.htm",
+      "entity_name": "Chen Lawrence Liren"
+    },
+    {
+      "entry_id": "0001405495_0001628280-26-049475",
+      "url": "https://www.sec.gov/Archives/edgar/data/1405495/000162828026049475/0001628280-26-049475-index.htm",
+      "entity_name": "InterDigital, Inc."
+    },
+    {
+      "entry_id": "0001405495_0001628280-26-049473",
+      "url": "https://www.sec.gov/Archives/edgar/data/1405495/000162828026049473/0001628280-26-049473-index.htm",
+      "entity_name": "InterDigital, Inc."
+    },
+    {
+      "entry_id": "0001231579_0001628280-26-049473",
+      "url": "https://www.sec.gov/Archives/edgar/data/1231579/000162828026049473/0001628280-26-049473-index.htm",
+      "entity_name": "BREZSKI RICHARD"
+    },
+    {
+      "entry_id": "0001813526_0001628280-26-049471",
+      "url": "https://www.sec.gov/Archives/edgar/data/1813526/000162828026049471/0001628280-26-049471-index.htm",
+      "entity_name": "Armaly Samir"
+    },
+    {
+      "entry_id": "0001405495_0001628280-26-049471",
+      "url": "https://www.sec.gov/Archives/edgar/data/1405495/000162828026049471/0001628280-26-049471-index.htm",
+      "entity_name": "InterDigital, Inc."
+    },
+    {
+      "entry_id": "0001445355_0001628280-26-049469",
+      "url": "https://www.sec.gov/Archives/edgar/data/1445355/000162828026049469/0001628280-26-049469-index.htm",
+      "entity_name": "ABERLE DEREK K"
+    },
+    {
+      "entry_id": "0001405495_0001628280-26-049469",
+      "url": "https://www.sec.gov/Archives/edgar/data/1405495/000162828026049469/0001628280-26-049469-index.htm",
+      "entity_name": "InterDigital, Inc."
+    },
+    {
+      "entry_id": "0001665650_0001213900-26-081096",
+      "url": "https://www.sec.gov/Archives/edgar/data/1665650/000121390026081096/0001213900-26-081096-index.htm",
+      "entity_name": "JPMorgan Chase Financial Co. LLC"
+    },
+    {
+      "entry_id": "0000019617_0001213900-26-081096",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026081096/0001213900-26-081096-index.htm",
+      "entity_name": "JPMORGAN CHASE & CO"
+    },
+    {
+      "entry_id": "0001795351_0001999371-26-015740",
+      "url": "https://www.sec.gov/Archives/edgar/data/1795351/000199937126015740/0001999371-26-015740-index.htm",
+      "entity_name": "T. Rowe Price Exchange-Traded Funds, Inc."
+    },
+    {
+      "entry_id": "0001795351_0001999371-26-015740",
+      "url": "https://www.sec.gov/Archives/edgar/data/1795351/000199937126015740/0001999371-26-015740-index.htm",
+      "entity_name": "T. Rowe Price Exchange-Traded Funds, Inc."
+    },
+    {
+      "entry_id": "0001102993_0001102993-26-000048",
+      "url": "https://www.sec.gov/Archives/edgar/data/1102993/000110299326000048/0001102993-26-000048-index.htm",
+      "entity_name": "LIVEPERSON INC"
+    },
+    {
+      "entry_id": "0001665650_0001213900-26-081092",
+      "url": "https://www.sec.gov/Archives/edgar/data/1665650/000121390026081092/0001213900-26-081092-index.htm",
+      "entity_name": "JPMorgan Chase Financial Co. LLC"
+    },
+    {
+      "entry_id": "0000019617_0001213900-26-081092",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026081092/0001213900-26-081092-index.htm",
+      "entity_name": "JPMORGAN CHASE & CO"
+    },
+    {
+      "entry_id": "0002057337_0001493152-26-034455",
+      "url": "https://www.sec.gov/Archives/edgar/data/2057337/000149315226034455/0001493152-26-034455-index.htm",
+      "entity_name": "Lerman Ted"
+    },
+    {
+      "entry_id": "0001782430_0001493152-26-034455",
+      "url": "https://www.sec.gov/Archives/edgar/data/1782430/000149315226034455/0001493152-26-034455-index.htm",
+      "entity_name": "Strawberry Fields REIT, Inc."
+    },
+    {
+      "entry_id": "0002118034_0000950103-26-011125",
+      "url": "https://www.sec.gov/Archives/edgar/data/2118034/000095010326011125/0000950103-26-011125-index.htm",
+      "entity_name": "Uang Du-Tsuen"
+    },
+    {
+      "entry_id": "0001122411_0000950103-26-011125",
+      "url": "https://www.sec.gov/Archives/edgar/data/1122411/000095010326011125/0000950103-26-011125-index.htm",
+      "entity_name": "ASE Technology Holding Co., Ltd."
+    },
+    {
+      "entry_id": "0001840856_0001213900-26-081089",
+      "url": "https://www.sec.gov/Archives/edgar/data/1840856/000121390026081089/0001213900-26-081089-index.htm",
+      "entity_name": "SOUNDHOUND AI, INC."
+    },
+    {
+      "entry_id": "0001729171_0001193125-26-314996",
+      "url": "https://www.sec.gov/Archives/edgar/data/1729171/000119312526314996/0001193125-26-314996-index.htm",
+      "entity_name": "Ye Gang"
+    },
+    {
+      "entry_id": "0001703399_0001193125-26-314996",
+      "url": "https://www.sec.gov/Archives/edgar/data/1703399/000119312526314996/0001193125-26-314996-index.htm",
+      "entity_name": "Sea Ltd"
+    },
+    {
+      "entry_id": "0002113214_0001193125-26-314995",
+      "url": "https://www.sec.gov/Archives/edgar/data/2113214/000119312526314995/0001193125-26-314995-index.htm",
+      "entity_name": "Wang Yanjun"
+    },
+    {
+      "entry_id": "0001703399_0001193125-26-314995",
+      "url": "https://www.sec.gov/Archives/edgar/data/1703399/000119312526314995/0001193125-26-314995-index.htm",
+      "entity_name": "Sea Ltd"
+    },
+    {
+      "entry_id": "0001987240_0001104659-26-086427",
+      "url": "https://www.sec.gov/Archives/edgar/data/1987240/000110465926086427/0001104659-26-086427-index.htm",
+      "entity_name": "SCHMID Group N.V."
+    },
+    {
+      "entry_id": "0001419828_0001193125-26-314794",
+      "url": "https://www.sec.gov/Archives/edgar/data/1419828/000119312526314794/0001193125-26-314794-index.htm",
+      "entity_name": "GS Finance Corp."
+    },
+    {
+      "entry_id": "0000886982_0001193125-26-314794",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526314794/0001193125-26-314794-index.htm",
+      "entity_name": "GOLDMAN SACHS GROUP INC"
+    },
+    {
+      "entry_id": "0001000275_0000950103-26-011123",
+      "url": "https://www.sec.gov/Archives/edgar/data/1000275/000095010326011123/0000950103-26-011123-index.htm",
+      "entity_name": "ROYAL BANK OF CANADA"
+    },
+    {
+      "entry_id": "0002146367_0001213900-26-081078",
+      "url": "https://www.sec.gov/Archives/edgar/data/2146367/000121390026081078/0001213900-26-081078-index.htm",
+      "entity_name": "Powerlaw Fund II"
+    },
+    {
+      "entry_id": "0000033185_0001193125-26-314770",
+      "url": "https://www.sec.gov/Archives/edgar/data/33185/000119312526314770/0001193125-26-314770-index.htm",
+      "entity_name": "EQUIFAX INC"
+    },
+    {
+      "entry_id": "0001419828_0001193125-26-314754",
+      "url": "https://www.sec.gov/Archives/edgar/data/1419828/000119312526314754/0001193125-26-314754-index.htm",
+      "entity_name": "GS Finance Corp."
+    },
+    {
+      "entry_id": "0000886982_0001193125-26-314754",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526314754/0001193125-26-314754-index.htm",
+      "entity_name": "GOLDMAN SACHS GROUP INC"
+    },
+    {
+      "entry_id": "0001045520_0001918704-26-021105",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045520/000191870426021105/0001918704-26-021105-index.htm",
+      "entity_name": "CANADIAN IMPERIAL BANK OF COMMERCE /CAN/"
+    },
+    {
+      "entry_id": "0001045520_0001918704-26-021104",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045520/000191870426021104/0001918704-26-021104-index.htm",
+      "entity_name": "CANADIAN IMPERIAL BANK OF COMMERCE /CAN/"
+    }
+  ],
   "deletions": [
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1750/000000175026000074/0000001750-26-000074-index.htm",
@@ -5053,6 +5324,11 @@
       "accession_number": "0000929638-26-002639"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/314984/000092963826002682/0000929638-26-002682-index.htm",
+      "entity_name": "THRIVENT FINANCIAL FOR LUTHERANS",
+      "accession_number": "0000929638-26-002682"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/315090/000119312526304843/0001193125-26-304843-index.htm",
       "entity_name": "BUFFETT WARREN E",
       "accession_number": "0001193125-26-304843"
@@ -5066,6 +5342,11 @@
       "url": "https://www.sec.gov/Archives/edgar/data/315774/000139834426012499/0001398344-26-012499-index.htm",
       "entity_name": "FORUM FUNDS",
       "accession_number": "0001398344-26-012499"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/316709/000164959926000009/0001649599-26-000009-index.htm",
+      "entity_name": "SCHWAB CHARLES CORP",
+      "accession_number": "0001649599-26-000009"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/316709/000202897726000015/0002028977-26-000015-index.htm",
@@ -9273,6 +9554,11 @@
       "accession_number": "0000906553-26-000060"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/906553/000090655326000062/0000906553-26-000062-index.htm",
+      "entity_name": "BOYD GAMING CORP",
+      "accession_number": "0000906553-26-000062"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/907654/000090765426000073/0000907654-26-000073-index.htm",
       "entity_name": "Oruka Therapeutics, Inc.",
       "accession_number": "0000907654-26-000073"
@@ -11403,6 +11689,16 @@
       "accession_number": "0001786612-26-000009"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000154/0001108524-26-000154-index.htm",
+      "entity_name": "Salesforce, Inc.",
+      "accession_number": "0001108524-26-000154"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000156/0001108524-26-000156-index.htm",
+      "entity_name": "Salesforce, Inc.",
+      "accession_number": "0001108524-26-000156"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/1109255/000162828026048852/0001628280-26-048852-index.htm",
       "entity_name": "BRADFORD DEBRA A",
       "accession_number": "0001628280-26-048852"
@@ -12266,6 +12562,11 @@
       "url": "https://www.sec.gov/Archives/edgar/data/1162896/000114036126029454/0001140361-26-029454-index.htm",
       "entity_name": "Prairie Operating Co.",
       "accession_number": "0001140361-26-029454"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1162896/000114036126029460/0001140361-26-029460-index.htm",
+      "entity_name": "Prairie Operating Co.",
+      "accession_number": "0001140361-26-029460"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1163653/000110465926082546/0001104659-26-082546-index.htm",
@@ -13748,6 +14049,11 @@
       "accession_number": "0001294280-26-000005"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/1294774/000110852426000154/0001108524-26-000154-index.htm",
+      "entity_name": "Harris Parker",
+      "accession_number": "0001108524-26-000154"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/1295402/000119312526301124/0001193125-26-301124-index.htm",
       "entity_name": "Salem Enrique T",
       "accession_number": "0001193125-26-301124"
@@ -14211,6 +14517,21 @@
       "url": "https://www.sec.gov/Archives/edgar/data/1354866/000143774926023737/0001437749-26-023737-index.htm",
       "entity_name": "Byrna Technologies Inc.",
       "accession_number": "0001437749-26-023737"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1354866/000143774926024350/0001437749-26-024350-index.htm",
+      "entity_name": "Byrna Technologies Inc.",
+      "accession_number": "0001437749-26-024350"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1354866/000143774926024354/0001437749-26-024354-index.htm",
+      "entity_name": "Byrna Technologies Inc.",
+      "accession_number": "0001437749-26-024354"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1354866/000143774926024355/0001437749-26-024355-index.htm",
+      "entity_name": "Byrna Technologies Inc.",
+      "accession_number": "0001437749-26-024355"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1357615/000135761526000161/0001357615-26-000161-index.htm",
@@ -16183,6 +16504,11 @@
       "accession_number": "0001780660-26-000019"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/1478320/000178085126000017/0001780851-26-000017-index.htm",
+      "entity_name": "Adaptive Biotechnologies Corp",
+      "accession_number": "0001780851-26-000017"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/1478320/000182088526000016/0001820885-26-000016-index.htm",
       "entity_name": "Adaptive Biotechnologies Corp",
       "accession_number": "0001820885-26-000016"
@@ -16448,6 +16774,11 @@
       "accession_number": "0000082811-26-000209"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/1497617/000182897226000115/0001828972-26-000115-index.htm",
+      "entity_name": "Rolle Janet L",
+      "accession_number": "0001828972-26-000115"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/1498132/000121390026079337/0001213900-26-079337-index.htm",
       "entity_name": "Agadi Harshavardhan V",
       "accession_number": "0001213900-26-079337"
@@ -16651,6 +16982,16 @@
       "url": "https://www.sec.gov/Archives/edgar/data/1506307/000150630726000081/0001506307-26-000081-index.htm",
       "entity_name": "KINDER MORGAN, INC.",
       "accession_number": "0001506307-26-000081"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1506307/000150630726000082/0001506307-26-000082-index.htm",
+      "entity_name": "KINDER MORGAN, INC.",
+      "accession_number": "0001506307-26-000082"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1506307/000150630726000083/0001506307-26-000083-index.htm",
+      "entity_name": "KINDER MORGAN, INC.",
+      "accession_number": "0001506307-26-000083"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1506488/000149259726000001/0001492597-26-000001-index.htm",
@@ -17021,6 +17362,11 @@
       "url": "https://www.sec.gov/Archives/edgar/data/1530249/000143774926023631/0001437749-26-023631-index.htm",
       "entity_name": "FS Bancorp, Inc.",
       "accession_number": "0001437749-26-023631"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1530677/000150630726000082/0001506307-26-000082-index.htm",
+      "entity_name": "James Catherine C.",
+      "accession_number": "0001506307-26-000082"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1530803/000090266426003001/0000902664-26-003001-index.htm",
@@ -18168,6 +18514,11 @@
       "accession_number": "0001601099-26-000043"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/1602273/000182897226000118/0001828972-26-000118-index.htm",
+      "entity_name": "Rothstein Adam",
+      "accession_number": "0001828972-26-000118"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/1602409/000152013826000267/0001520138-26-000267-index.htm",
       "entity_name": "FingerMotion, Inc.",
       "accession_number": "0001520138-26-000267"
@@ -19138,9 +19489,19 @@
       "accession_number": "0001193125-26-301192"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/1649599/000164959926000009/0001649599-26-000009-index.htm",
+      "entity_name": "Murtagh Nigel J",
+      "accession_number": "0001649599-26-000009"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/1649749/000124915826000007/0001249158-26-000007-index.htm",
       "entity_name": "FB Financial Corp",
       "accession_number": "0001249158-26-000007"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1649989/000164998926000006/0001649989-26-000006-index.htm",
+      "entity_name": "Outlook Therapeutics, Inc.",
+      "accession_number": "0001649989-26-000006"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1650101/000149315226033267/0001493152-26-033267-index.htm",
@@ -19286,6 +19647,11 @@
       "url": "https://www.sec.gov/Archives/edgar/data/1655210/000201929526000010/0002019295-26-000010-index.htm",
       "entity_name": "BEYOND MEAT, INC.",
       "accession_number": "0002019295-26-000010"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1655904/000182897226000117/0001828972-26-000117-index.htm",
+      "entity_name": "Washington Stanley Eric",
+      "accession_number": "0001828972-26-000117"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1657677/000123191926000779/0001231919-26-000779-index.htm",
@@ -23388,6 +23754,11 @@
       "accession_number": "0001628280-26-048336"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/1708599/000196558526000006/0001965585-26-000006-index.htm",
+      "entity_name": "Serina Therapeutics, Inc.",
+      "accession_number": "0001965585-26-000006"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/1709048/000162828026047972/0001628280-26-047972-index.htm",
       "entity_name": "GLOBALFOUNDRIES Inc.",
       "accession_number": "0001628280-26-047972"
@@ -24116,6 +24487,11 @@
       "url": "https://www.sec.gov/Archives/edgar/data/1742771/000174277126000012/0001742771-26-000012-index.htm",
       "entity_name": "Naylor Stuart",
       "accession_number": "0001742771-26-000012"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1742882/000110852426000156/0001108524-26-000156-index.htm",
+      "entity_name": "Tallapragada Srinivas",
+      "accession_number": "0001108524-26-000156"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1742926/000174292626000003/0001742926-26-000003-index.htm",
@@ -25078,6 +25454,11 @@
       "accession_number": "0001780660-26-000019"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/1780851/000178085126000017/0001780851-26-000017-index.htm",
+      "entity_name": "ROBINS HARLAN S",
+      "accession_number": "0001780851-26-000017"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/1780948/000123191926000726/0001231919-26-000726-index.htm",
       "entity_name": "Lightspeed Opportunity Fund, L.P.",
       "accession_number": "0001231919-26-000726"
@@ -25863,6 +26244,11 @@
       "accession_number": "0001818566-26-000001"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/1818749/000143774926024350/0001437749-26-024350-index.htm",
+      "entity_name": "Kennedy TJ",
+      "accession_number": "0001437749-26-024350"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526310573/0001193125-26-310573-index.htm",
       "entity_name": "Dyne Therapeutics, Inc.",
       "accession_number": "0001193125-26-310573"
@@ -26218,6 +26604,41 @@
       "accession_number": "0002052363-26-000045"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/1828972/000182897226000114/0001828972-26-000114-index.htm",
+      "entity_name": "BuzzFeed, Inc.",
+      "accession_number": "0001828972-26-000114"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1828972/000182897226000115/0001828972-26-000115-index.htm",
+      "entity_name": "BuzzFeed, Inc.",
+      "accession_number": "0001828972-26-000115"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1828972/000182897226000116/0001828972-26-000116-index.htm",
+      "entity_name": "BuzzFeed, Inc.",
+      "accession_number": "0001828972-26-000116"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1828972/000182897226000117/0001828972-26-000117-index.htm",
+      "entity_name": "BuzzFeed, Inc.",
+      "accession_number": "0001828972-26-000117"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1828972/000182897226000118/0001828972-26-000118-index.htm",
+      "entity_name": "BuzzFeed, Inc.",
+      "accession_number": "0001828972-26-000118"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1828972/000182897226000119/0001828972-26-000119-index.htm",
+      "entity_name": "BuzzFeed, Inc.",
+      "accession_number": "0001828972-26-000119"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1828972/000182897226000120/0001828972-26-000120-index.htm",
+      "entity_name": "BuzzFeed, Inc.",
+      "accession_number": "0001828972-26-000120"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/1829118/000119312526297961/0001193125-26-297961-index.htm",
       "entity_name": "Tuya Inc.",
       "accession_number": "0001193125-26-297961"
@@ -26256,6 +26677,16 @@
       "url": "https://www.sec.gov/Archives/edgar/data/1830016/000181838326000193/0001818383-26-000193-index.htm",
       "entity_name": "Nonko Eugene",
       "accession_number": "0001818383-26-000193"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1830033/000212431926000008/0002124319-26-000008-index.htm",
+      "entity_name": "PureCycle Technologies, Inc.",
+      "accession_number": "0002124319-26-000008"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1830033/000212431926000010/0002124319-26-000010-index.htm",
+      "entity_name": "PureCycle Technologies, Inc.",
+      "accession_number": "0002124319-26-000010"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1830177/000110465926085113/0001104659-26-085113-index.htm",
@@ -26586,6 +27017,16 @@
       "url": "https://www.sec.gov/Archives/edgar/data/1845257/000119312526303501/0001193125-26-303501-index.htm",
       "entity_name": "LifeStance Health Group, Inc.",
       "accession_number": "0001193125-26-303501"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1845437/000110465926086399/0001104659-26-086399-index.htm",
+      "entity_name": "NET Power Inc.",
+      "accession_number": "0001104659-26-086399"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1845437/000110465926086400/0001104659-26-086400-index.htm",
+      "entity_name": "NET Power Inc.",
+      "accession_number": "0001104659-26-086400"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1845550/000121390026081009/0001213900-26-081009-index.htm",
@@ -26958,6 +27399,11 @@
       "accession_number": "0001859690-26-000160"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/1859795/000119312526314660/0001193125-26-314660-index.htm",
+      "entity_name": "NOVONIX Ltd",
+      "accession_number": "0001193125-26-314660"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/1859807/000121390026075765/0001213900-26-075765-index.htm",
       "entity_name": "Profusa, Inc.",
       "accession_number": "0001213900-26-075765"
@@ -27096,6 +27542,11 @@
       "url": "https://www.sec.gov/Archives/edgar/data/1861560/000119312526305095/0001193125-26-305095-index.htm",
       "entity_name": "Nuvalent, Inc.",
       "accession_number": "0001193125-26-305095"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1861816/000143774926024354/0001437749-26-024354-index.htm",
+      "entity_name": "Hughes Herbert",
+      "accession_number": "0001437749-26-024354"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1862146/000119312526305073/0001193125-26-305073-index.htm",
@@ -27978,6 +28429,11 @@
       "accession_number": "0001193125-26-309189"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/1916048/000191604826000009/0001916048-26-000009-index.htm",
+      "entity_name": "Warren Eric",
+      "accession_number": "0001916048-26-000009"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/1916103/000119312526302449/0001193125-26-302449-index.htm",
       "entity_name": "Yin Chung-Yao",
       "accession_number": "0001193125-26-302449"
@@ -28241,6 +28697,11 @@
       "url": "https://www.sec.gov/Archives/edgar/data/1933414/000167265926000036/0001672659-26-000036-index.htm",
       "entity_name": "Mineralys Therapeutics, Inc.",
       "accession_number": "0001672659-26-000036"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1933414/000191604826000009/0001916048-26-000009-index.htm",
+      "entity_name": "Mineralys Therapeutics, Inc.",
+      "accession_number": "0001916048-26-000009"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1933414/000193341426000099/0001933414-26-000099-index.htm",
@@ -28593,6 +29054,11 @@
       "accession_number": "0001213900-26-078447"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/1965585/000196558526000006/0001965585-26-000006-index.htm",
+      "entity_name": "Simon Farrell",
+      "accession_number": "0001965585-26-000006"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/1965684/000095010326010697/0000950103-26-010697-index.htm",
       "entity_name": "Wang Haijun",
       "accession_number": "0000950103-26-010697"
@@ -28721,6 +29187,11 @@
       "url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312526312814/0001193125-26-312814-index.htm",
       "entity_name": "TKO Group Holdings, Inc.",
       "accession_number": "0001193125-26-312814"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1973442/000110465926086400/0001104659-26-086400-index.htm",
+      "entity_name": "BEAUCHAMP DAMIAN R.",
+      "accession_number": "0001104659-26-086400"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1973495/000197349526000004/0001973495-26-000004-index.htm",
@@ -28933,6 +29404,11 @@
       "accession_number": "0001231919-26-000726"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/1981100/000110465926086400/0001104659-26-086400-index.htm",
+      "entity_name": "8 Rivers Capital, LLC",
+      "accession_number": "0001104659-26-086400"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/1981256/000183165126000102/0001831651-26-000102-index.htm",
       "entity_name": "MOSS BRANDON",
       "accession_number": "0001831651-26-000102"
@@ -28941,6 +29417,11 @@
       "url": "https://www.sec.gov/Archives/edgar/data/1981714/000095010326010845/0000950103-26-010845-index.htm",
       "entity_name": "Wiedmann Lindsey Roon",
       "accession_number": "0000950103-26-010845"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1981772/000110465926086399/0001104659-26-086399-index.htm",
+      "entity_name": "NPEH, LLC",
+      "accession_number": "0001104659-26-086399"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1983167/000198316726000006/0001983167-26-000006-index.htm",
@@ -29436,6 +29917,11 @@
       "url": "https://www.sec.gov/Archives/edgar/data/2013453/000150630726000061/0001506307-26-000061-index.htm",
       "entity_name": "Pitta Michael J",
       "accession_number": "0001506307-26-000061"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2013453/000150630726000083/0001506307-26-000083-index.htm",
+      "entity_name": "Pitta Michael J",
+      "accession_number": "0001506307-26-000083"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/2013619/000162828026047426/0001628280-26-047426-index.htm",
@@ -30713,6 +31199,11 @@
       "accession_number": "0000929638-26-002639"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/2069785/000092963826002682/0000929638-26-002682-index.htm",
+      "entity_name": "Gloo Holdings, Inc.",
+      "accession_number": "0000929638-26-002682"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/2070457/000121390026079806/0001213900-26-079806-index.htm",
       "entity_name": "Twenty One Capital, Inc.",
       "accession_number": "0001213900-26-079806"
@@ -30781,6 +31272,11 @@
       "url": "https://www.sec.gov/Archives/edgar/data/2074990/000110465926083622/0001104659-26-083622-index.htm",
       "entity_name": "Krepp Sarah",
       "accession_number": "0001104659-26-083622"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2076177/000164998926000006/0001649989-26-000006-index.htm",
+      "entity_name": "Jahr Robert Charles",
+      "accession_number": "0001649989-26-000006"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/2076299/000119312526303728/0001193125-26-303728-index.htm",
@@ -31578,6 +32074,11 @@
       "accession_number": "0001193125-26-308090"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/2118306/000119312526314660/0001193125-26-314660-index.htm",
+      "entity_name": "Burrow Sharan",
+      "accession_number": "0001193125-26-314660"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/2118327/000161976226000082/0001619762-26-000082-index.htm",
       "entity_name": "Morgan David Thomas",
       "accession_number": "0001619762-26-000082"
@@ -31688,6 +32189,11 @@
       "accession_number": "0001213900-26-079350"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/2121511/000143774926024355/0001437749-26-024355-index.htm",
+      "entity_name": "Davis Conn Q.",
+      "accession_number": "0001437749-26-024355"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/2121522/000205889726000238/0002058897-26-000238-index.htm",
       "entity_name": "Jaramillo Mejia Ricardo",
       "accession_number": "0002058897-26-000238"
@@ -31756,6 +32262,16 @@
       "url": "https://www.sec.gov/Archives/edgar/data/2124229/000208426426000004/0002084264-26-000004-index.htm",
       "entity_name": "Fundomo SN-002, LP",
       "accession_number": "0002084264-26-000004"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2124319/000212431926000008/0002124319-26-000008-index.htm",
+      "entity_name": "Carpenter Donald",
+      "accession_number": "0002124319-26-000008"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2124319/000212431926000010/0002124319-26-000010-index.htm",
+      "entity_name": "Carpenter Donald",
+      "accession_number": "0002124319-26-000010"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/2124657/000197640826000632/0001976408-26-000632-index.htm",
@@ -32218,6 +32734,26 @@
       "accession_number": "0001193125-26-306715"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/2135290/000182897226000114/0001828972-26-000114-index.htm",
+      "entity_name": "Malone Chris",
+      "accession_number": "0001828972-26-000114"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2135506/000182897226000119/0001828972-26-000119-index.htm",
+      "entity_name": "Karras Sydnie",
+      "accession_number": "0001828972-26-000119"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2136171/000182897226000116/0001828972-26-000116-index.htm",
+      "entity_name": "Gould Eric",
+      "accession_number": "0001828972-26-000116"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2136747/000182897226000120/0001828972-26-000120-index.htm",
+      "entity_name": "Hill Terence",
+      "accession_number": "0001828972-26-000120"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/2137444/000213744426000007/0002137444-26-000007-index.htm",
       "entity_name": "Meehan Viola Mong",
       "accession_number": "0002137444-26-000007"
@@ -32376,6 +32912,11 @@
       "url": "https://www.sec.gov/Archives/edgar/data/2142480/000095010326010574/0000950103-26-010574-index.htm",
       "entity_name": "Robinhood Europe, UAB",
       "accession_number": "0000950103-26-010574"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2142547/000114036126029460/0001140361-26-029460-index.htm",
+      "entity_name": "Shelly Michael James",
+      "accession_number": "0001140361-26-029460"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/2142553/000162828026048737/0001628280-26-048737-index.htm",
