@@ -2,159 +2,504 @@
   "date": "2026-08-21",
   "additions": [
     {
-      "entry_id": "0001665650_0001918704-26-024485",
-      "url": "https://www.sec.gov/Archives/edgar/data/1665650/000191870426024485/0001918704-26-024485-index.htm",
-      "entity_name": "JPMorgan Chase Financial Co. LLC"
+      "entry_id": "0002144035_0001493152-26-039698",
+      "url": "https://www.sec.gov/Archives/edgar/data/2144035/000149315226039698/0001493152-26-039698-index.htm",
+      "entity_name": "Fisher Danina"
     },
     {
-      "entry_id": "0000019617_0001918704-26-024485",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024485/0001918704-26-024485-index.htm",
-      "entity_name": "JPMORGAN CHASE & CO"
+      "entry_id": "0001583771_0001493152-26-039698",
+      "url": "https://www.sec.gov/Archives/edgar/data/1583771/000149315226039698/0001493152-26-039698-index.htm",
+      "entity_name": "Hepion Pharmaceuticals, Inc."
     },
     {
-      "entry_id": "0000312070_0001918704-26-024484",
-      "url": "https://www.sec.gov/Archives/edgar/data/312070/000191870426024484/0001918704-26-024484-index.htm",
-      "entity_name": "BARCLAYS BANK PLC"
+      "entry_id": "0001738250_0001738250-26-000006",
+      "url": "https://www.sec.gov/Archives/edgar/data/1738250/000173825026000006/0001738250-26-000006-index.htm",
+      "entity_name": "Schugel Jason E."
     },
     {
-      "entry_id": "0000312070_0001918704-26-024483",
-      "url": "https://www.sec.gov/Archives/edgar/data/312070/000191870426024483/0001918704-26-024483-index.htm",
-      "entity_name": "BARCLAYS BANK PLC"
+      "entry_id": "0000801337_0001738250-26-000006",
+      "url": "https://www.sec.gov/Archives/edgar/data/801337/000173825026000006/0001738250-26-000006-index.htm",
+      "entity_name": "WEBSTER FINANCIAL CORP"
     },
     {
-      "entry_id": "0001516212_0001193125-26-361042",
-      "url": "https://www.sec.gov/Archives/edgar/data/1516212/000119312526361042/0001193125-26-361042-index.htm",
-      "entity_name": "SSGA Active Trust"
+      "entry_id": "0002085091_0001783879-26-000132",
+      "url": "https://www.sec.gov/Archives/edgar/data/2085091/000178387926000132/0001783879-26-000132-index.htm",
+      "entity_name": "Robinhood Ventures Fund I"
     },
     {
-      "entry_id": "0001516212_0001193125-26-361042",
-      "url": "https://www.sec.gov/Archives/edgar/data/1516212/000119312526361042/0001193125-26-361042-index.htm",
-      "entity_name": "SSGA Active Trust"
+      "entry_id": "0001783879_0001783879-26-000132",
+      "url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387926000132/0001783879-26-000132-index.htm",
+      "entity_name": "Robinhood Markets, Inc."
     },
     {
-      "entry_id": "0001048702_0002071844-26-001116",
-      "url": "https://www.sec.gov/Archives/edgar/data/1048702/000207184426001116/0002071844-26-001116-index.htm",
-      "entity_name": "NATIONWIDE MUTUAL FUNDS"
+      "entry_id": "0001670492_0001437749-26-028739",
+      "url": "https://www.sec.gov/Archives/edgar/data/1670492/000143774926028739/0001437749-26-028739-index.htm",
+      "entity_name": "Begley Grant A"
     },
     {
-      "entry_id": "0001048702_0002071844-26-001116",
-      "url": "https://www.sec.gov/Archives/edgar/data/1048702/000207184426001116/0002071844-26-001116-index.htm",
-      "entity_name": "NATIONWIDE MUTUAL FUNDS"
+      "entry_id": "0000008504_0001437749-26-028739",
+      "url": "https://www.sec.gov/Archives/edgar/data/8504/000143774926028739/0001437749-26-028739-index.htm",
+      "entity_name": "AgEagle Aerial Systems Inc."
     },
     {
-      "entry_id": "0001592900_0001592900-26-003938",
-      "url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026003938/0001592900-26-003938-index.htm",
-      "entity_name": "EA Series Trust"
+      "entry_id": "0001924868_0001999371-26-018433",
+      "url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126018433/0001999371-26-018433-index.htm",
+      "entity_name": "Tidal Trust II"
     },
     {
-      "entry_id": "0001665650_0001918704-26-024482",
-      "url": "https://www.sec.gov/Archives/edgar/data/1665650/000191870426024482/0001918704-26-024482-index.htm",
-      "entity_name": "JPMorgan Chase Financial Co. LLC"
+      "entry_id": "0002063863_0001104659-26-099711",
+      "url": "https://www.sec.gov/Archives/edgar/data/2063863/000110465926099711/0001104659-26-099711-index.htm",
+      "entity_name": "Elauwit Connection, Inc."
     },
     {
-      "entry_id": "0000019617_0001918704-26-024482",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024482/0001918704-26-024482-index.htm",
-      "entity_name": "JPMORGAN CHASE & CO"
+      "entry_id": "0001378325_0001628280-26-058442",
+      "url": "https://www.sec.gov/Archives/edgar/data/1378325/000162828026058442/0001628280-26-058442-index.htm",
+      "entity_name": "CapsoVision, Inc"
     },
     {
-      "entry_id": "0001592900_0001592900-26-003937",
-      "url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026003937/0001592900-26-003937-index.htm",
-      "entity_name": "EA Series Trust"
+      "entry_id": "0001287750_0001104659-26-099704",
+      "url": "https://www.sec.gov/Archives/edgar/data/1287750/000110465926099704/0001104659-26-099704-index.htm",
+      "entity_name": "ARES CAPITAL CORP"
     },
     {
-      "entry_id": "0001665650_0001213900-26-092578",
-      "url": "https://www.sec.gov/Archives/edgar/data/1665650/000121390026092578/0001213900-26-092578-index.htm",
-      "entity_name": "JPMorgan Chase Financial Co. LLC"
+      "entry_id": "0002111999_0002111999-26-000009",
+      "url": "https://www.sec.gov/Archives/edgar/data/2111999/000211199926000009/0002111999-26-000009-index.htm",
+      "entity_name": "BALDEW RUBEN"
     },
     {
-      "entry_id": "0000019617_0001213900-26-092578",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026092578/0001213900-26-092578-index.htm",
-      "entity_name": "JPMORGAN CHASE & CO"
+      "entry_id": "0001651717_0002111999-26-000009",
+      "url": "https://www.sec.gov/Archives/edgar/data/1651717/000211199926000009/0002111999-26-000009-index.htm",
+      "entity_name": "Nomad Foods Ltd"
     },
     {
-      "entry_id": "0001419828_0001193125-26-361024",
-      "url": "https://www.sec.gov/Archives/edgar/data/1419828/000119312526361024/0001193125-26-361024-index.htm",
+      "entry_id": "0001746822_0001746822-26-000003",
+      "url": "https://www.sec.gov/Archives/edgar/data/1746822/000174682226000003/0001746822-26-000003-index.htm",
+      "entity_name": "Luderer Albert"
+    },
+    {
+      "entry_id": "0001411690_0001746822-26-000003",
+      "url": "https://www.sec.gov/Archives/edgar/data/1411690/000174682226000003/0001746822-26-000003-index.htm",
+      "entity_name": "Bionano Genomics, Inc."
+    },
+    {
+      "entry_id": "0001311899_0001493152-26-039694",
+      "url": "https://www.sec.gov/Archives/edgar/data/1311899/000149315226039694/0001493152-26-039694-index.htm",
+      "entity_name": "Phelan William P"
+    },
+    {
+      "entry_id": "0000064463_0001493152-26-039694",
+      "url": "https://www.sec.gov/Archives/edgar/data/64463/000149315226039694/0001493152-26-039694-index.htm",
+      "entity_name": "Soluna Holdings, Inc"
+    },
+    {
+      "entry_id": "0001977689_0001493152-26-039693",
+      "url": "https://www.sec.gov/Archives/edgar/data/1977689/000149315226039693/0001493152-26-039693-index.htm",
+      "entity_name": "Plump Andrew Stewart"
+    },
+    {
+      "entry_id": "0001395064_0001493152-26-039693",
+      "url": "https://www.sec.gov/Archives/edgar/data/1395064/000149315226039693/0001493152-26-039693-index.htm",
+      "entity_name": "TAKEDA PHARMACEUTICAL CO LTD"
+    },
+    {
+      "entry_id": "0001833214_0001193125-26-361180",
+      "url": "https://www.sec.gov/Archives/edgar/data/1833214/000119312526361180/0001193125-26-361180-index.htm",
+      "entity_name": "SAB Biotherapeutics, Inc."
+    },
+    {
+      "entry_id": "0001819576_0001104659-26-099703",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819576/000110465926099703/0001104659-26-099703-index.htm",
+      "entity_name": "Liquidia Corp"
+    },
+    {
+      "entry_id": "0001813058_0001193125-26-361184",
+      "url": "https://www.sec.gov/Archives/edgar/data/1813058/000119312526361184/0001193125-26-361184-index.htm",
+      "entity_name": "Bair Teresa Brophy"
+    },
+    {
+      "entry_id": "0001791718_0001104659-26-099703",
+      "url": "https://www.sec.gov/Archives/edgar/data/1791718/000110465926099703/0001104659-26-099703-index.htm",
+      "entity_name": "Rielly-Gauvin Katherine"
+    },
+    {
+      "entry_id": "0001422143_0001193125-26-361184",
+      "url": "https://www.sec.gov/Archives/edgar/data/1422143/000119312526361184/0001193125-26-361184-index.htm",
+      "entity_name": "Kura Oncology, Inc."
+    },
+    {
+      "entry_id": "0002061052_0001193125-26-361183",
+      "url": "https://www.sec.gov/Archives/edgar/data/2061052/000119312526361183/0001193125-26-361183-index.htm",
+      "entity_name": "Boyle James M"
+    },
+    {
+      "entry_id": "0002046386_0001193125-26-361183",
+      "url": "https://www.sec.gov/Archives/edgar/data/2046386/000119312526361183/0001193125-26-361183-index.htm",
+      "entity_name": "Medline Inc."
+    },
+    {
+      "entry_id": "0001960415_0001960415-26-000006",
+      "url": "https://www.sec.gov/Archives/edgar/data/1960415/000196041526000006/0001960415-26-000006-index.htm",
+      "entity_name": "Barnes Dawn Wilson"
+    },
+    {
+      "entry_id": "0001795139_0001960415-26-000006",
+      "url": "https://www.sec.gov/Archives/edgar/data/1795139/000196041526000006/0001960415-26-000006-index.htm",
+      "entity_name": "Green Thumb Industries Inc."
+    },
+    {
+      "entry_id": "0002082917_0001493152-26-039690",
+      "url": "https://www.sec.gov/Archives/edgar/data/2082917/000149315226039690/0001493152-26-039690-index.htm",
+      "entity_name": "Liddy James Gordon"
+    },
+    {
+      "entry_id": "0001713369_0001193125-26-361182",
+      "url": "https://www.sec.gov/Archives/edgar/data/1713369/000119312526361182/0001193125-26-361182-index.htm",
+      "entity_name": "Stewart Richard Alistair"
+    },
+    {
+      "entry_id": "0001583771_0001493152-26-039690",
+      "url": "https://www.sec.gov/Archives/edgar/data/1583771/000149315226039690/0001493152-26-039690-index.htm",
+      "entity_name": "Hepion Pharmaceuticals, Inc."
+    },
+    {
+      "entry_id": "0000949858_0001193125-26-361182",
+      "url": "https://www.sec.gov/Archives/edgar/data/949858/000119312526361182/0001193125-26-361182-index.htm",
+      "entity_name": "ACHIEVE LIFE SCIENCES, INC."
+    },
+    {
+      "entry_id": "0001669811_0001193125-26-361181",
+      "url": "https://www.sec.gov/Archives/edgar/data/1669811/000119312526361181/0001193125-26-361181-index.htm",
+      "entity_name": "Donnelley Financial Solutions, Inc."
+    },
+    {
+      "entry_id": "0001464929_0001193125-26-361181",
+      "url": "https://www.sec.gov/Archives/edgar/data/1464929/000119312526361181/0001193125-26-361181-index.htm",
+      "entity_name": "Leib Daniel"
+    },
+    {
+      "entry_id": "0002060964_0001193125-26-361185",
+      "url": "https://www.sec.gov/Archives/edgar/data/2060964/000119312526361185/0001193125-26-361185-index.htm",
+      "entity_name": "Miller Stephen L"
+    },
+    {
+      "entry_id": "0002046386_0001193125-26-361185",
+      "url": "https://www.sec.gov/Archives/edgar/data/2046386/000119312526361185/0001193125-26-361185-index.htm",
+      "entity_name": "Medline Inc."
+    },
+    {
+      "entry_id": "0001855007_0001193125-26-361178",
+      "url": "https://www.sec.gov/Archives/edgar/data/1855007/000119312526361178/0001193125-26-361178-index.htm",
+      "entity_name": "Gardiner Warren"
+    },
+    {
+      "entry_id": "0001571949_0001193125-26-361178",
+      "url": "https://www.sec.gov/Archives/edgar/data/1571949/000119312526361178/0001193125-26-361178-index.htm",
+      "entity_name": "Intercontinental Exchange, Inc."
+    },
+    {
+      "entry_id": "0000831001_0000950103-26-012773",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326012773/0000950103-26-012773-index.htm",
+      "entity_name": "CITIGROUP INC"
+    },
+    {
+      "entry_id": "0000200245_0000950103-26-012773",
+      "url": "https://www.sec.gov/Archives/edgar/data/200245/000095010326012773/0000950103-26-012773-index.htm",
+      "entity_name": "Citigroup Global Markets Holdings Inc."
+    },
+    {
+      "entry_id": "0001795091_0001213900-26-092627",
+      "url": "https://www.sec.gov/Archives/edgar/data/1795091/000121390026092627/0001213900-26-092627-index.htm",
+      "entity_name": "OS Therapies Inc"
+    },
+    {
+      "entry_id": "0001901565_0001493152-26-039688",
+      "url": "https://www.sec.gov/Archives/edgar/data/1901565/000149315226039688/0001493152-26-039688-index.htm",
+      "entity_name": "Appajosyula Sireesh"
+    },
+    {
+      "entry_id": "0001583771_0001493152-26-039688",
+      "url": "https://www.sec.gov/Archives/edgar/data/1583771/000149315226039688/0001493152-26-039688-index.htm",
+      "entity_name": "Hepion Pharmaceuticals, Inc."
+    },
+    {
+      "entry_id": "0001419828_0001193125-26-361177",
+      "url": "https://www.sec.gov/Archives/edgar/data/1419828/000119312526361177/0001193125-26-361177-index.htm",
       "entity_name": "GS Finance Corp."
     },
     {
-      "entry_id": "0000886982_0001193125-26-361024",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526361024/0001193125-26-361024-index.htm",
+      "entry_id": "0000886982_0001193125-26-361177",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526361177/0001193125-26-361177-index.htm",
       "entity_name": "GOLDMAN SACHS GROUP INC"
     },
     {
-      "entry_id": "0001682472_0001918704-26-024481",
-      "url": "https://www.sec.gov/Archives/edgar/data/1682472/000191870426024481/0001918704-26-024481-index.htm",
+      "entry_id": "0001847014_0001847014-26-000005",
+      "url": "https://www.sec.gov/Archives/edgar/data/1847014/000184701426000005/0001847014-26-000005-index.htm",
+      "entity_name": "Rollins Emily"
+    },
+    {
+      "entry_id": "0001657573_0001847014-26-000005",
+      "url": "https://www.sec.gov/Archives/edgar/data/1657573/000184701426000005/0001847014-26-000005-index.htm",
+      "entity_name": "Xometry, Inc."
+    },
+    {
+      "entry_id": "0001924868_0001999371-26-018432",
+      "url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126018432/0001999371-26-018432-index.htm",
+      "entity_name": "Tidal Trust II"
+    },
+    {
+      "entry_id": "0000916620_0001193125-26-361175",
+      "url": "https://www.sec.gov/Archives/edgar/data/916620/000119312526361175/0001193125-26-361175-index.htm",
+      "entity_name": "NORTHERN FUNDS"
+    },
+    {
+      "entry_id": "0000916620_0001193125-26-361175",
+      "url": "https://www.sec.gov/Archives/edgar/data/916620/000119312526361175/0001193125-26-361175-index.htm",
+      "entity_name": "NORTHERN FUNDS"
+    },
+    {
+      "entry_id": "0002145064_0001493152-26-039685",
+      "url": "https://www.sec.gov/Archives/edgar/data/2145064/000149315226039685/0001493152-26-039685-index.htm",
+      "entity_name": "Stetz Gary S. II"
+    },
+    {
+      "entry_id": "0001583771_0001493152-26-039685",
+      "url": "https://www.sec.gov/Archives/edgar/data/1583771/000149315226039685/0001493152-26-039685-index.htm",
+      "entity_name": "Hepion Pharmaceuticals, Inc."
+    },
+    {
+      "entry_id": "0001383951_0001104659-26-099701",
+      "url": "https://www.sec.gov/Archives/edgar/data/1383951/000110465926099701/0001104659-26-099701-index.htm",
+      "entity_name": "Nomura America Finance, LLC"
+    },
+    {
+      "entry_id": "0001163653_0001104659-26-099701",
+      "url": "https://www.sec.gov/Archives/edgar/data/1163653/000110465926099701/0001104659-26-099701-index.htm",
+      "entity_name": "NOMURA HOLDINGS INC"
+    },
+    {
+      "entry_id": "0002009681_0002009681-26-000010",
+      "url": "https://www.sec.gov/Archives/edgar/data/2009681/000200968126000010/0002009681-26-000010-index.htm",
+      "entity_name": "SOTO JASON A."
+    },
+    {
+      "entry_id": "0000801337_0002009681-26-000010",
+      "url": "https://www.sec.gov/Archives/edgar/data/801337/000200968126000010/0002009681-26-000010-index.htm",
+      "entity_name": "WEBSTER FINANCIAL CORP"
+    },
+    {
+      "entry_id": "0001500217_0001221359-26-000045",
+      "url": "https://www.sec.gov/Archives/edgar/data/1500217/000122135926000045/0001221359-26-000045-index.htm",
+      "entity_name": "American Assets Trust, Inc."
+    },
+    {
+      "entry_id": "0001221359_0001221359-26-000045",
+      "url": "https://www.sec.gov/Archives/edgar/data/1221359/000122135926000045/0001221359-26-000045-index.htm",
+      "entity_name": "RADY ERNEST S"
+    },
+    {
+      "entry_id": "0001935476_0001213900-26-092621",
+      "url": "https://www.sec.gov/Archives/edgar/data/1935476/000121390026092621/0001213900-26-092621-index.htm",
+      "entity_name": "Huang Yuping"
+    },
+    {
+      "entry_id": "0001758009_0001213900-26-092621",
+      "url": "https://www.sec.gov/Archives/edgar/data/1758009/000121390026092621/0001213900-26-092621-index.htm",
+      "entity_name": "Quantum Computing Inc."
+    },
+    {
+      "entry_id": "0001100663_0001193125-26-361162",
+      "url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526361162/0001193125-26-361162-index.htm",
+      "entity_name": "iSHARES TRUST"
+    },
+    {
+      "entry_id": "0001665650_0001918704-26-024496",
+      "url": "https://www.sec.gov/Archives/edgar/data/1665650/000191870426024496/0001918704-26-024496-index.htm",
+      "entity_name": "JPMorgan Chase Financial Co. LLC"
+    },
+    {
+      "entry_id": "0000019617_0001918704-26-024496",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024496/0001918704-26-024496-index.htm",
+      "entity_name": "JPMORGAN CHASE & CO"
+    },
+    {
+      "entry_id": "0002117539_0000919574-26-005665",
+      "url": "https://www.sec.gov/Archives/edgar/data/2117539/000091957426005665/0000919574-26-005665-index.htm",
+      "entity_name": "Foss Halfdan Marius"
+    },
+    {
+      "entry_id": "0001772253_0000919574-26-005665",
+      "url": "https://www.sec.gov/Archives/edgar/data/1772253/000091957426005665/0000919574-26-005665-index.htm",
+      "entity_name": "Flex LNG Ltd."
+    },
+    {
+      "entry_id": "0001924868_0001999371-26-018431",
+      "url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126018431/0001999371-26-018431-index.htm",
+      "entity_name": "Tidal Trust II"
+    },
+    {
+      "entry_id": "0002131176_0001185185-26-003676",
+      "url": "https://www.sec.gov/Archives/edgar/data/2131176/000118518526003676/0001185185-26-003676-index.htm",
+      "entity_name": "Sun Dingxin"
+    },
+    {
+      "entry_id": "0001958133_0001185185-26-003676",
+      "url": "https://www.sec.gov/Archives/edgar/data/1958133/000118518526003676/0001185185-26-003676-index.htm",
+      "entity_name": "Decent Holding Inc."
+    },
+    {
+      "entry_id": "0001801884_0000008858-26-000073",
+      "url": "https://www.sec.gov/Archives/edgar/data/1801884/000000885826000073/0000008858-26-000073-index.htm",
+      "entity_name": "McCoy Michael Ryan"
+    },
+    {
+      "entry_id": "0000008858_0000008858-26-000073",
+      "url": "https://www.sec.gov/Archives/edgar/data/8858/000000885826000073/0000008858-26-000073-index.htm",
+      "entity_name": "AVNET INC"
+    },
+    {
+      "entry_id": "0001244276_0001244276-26-000018",
+      "url": "https://www.sec.gov/Archives/edgar/data/1244276/000124427626000018/0001244276-26-000018-index.htm",
+      "entity_name": "DYKSTRA DAVID A"
+    },
+    {
+      "entry_id": "0001015328_0001244276-26-000018",
+      "url": "https://www.sec.gov/Archives/edgar/data/1015328/000124427626000018/0001244276-26-000018-index.htm",
+      "entity_name": "WINTRUST FINANCIAL CORP"
+    },
+    {
+      "entry_id": "0001665650_0001918704-26-024495",
+      "url": "https://www.sec.gov/Archives/edgar/data/1665650/000191870426024495/0001918704-26-024495-index.htm",
+      "entity_name": "JPMorgan Chase Financial Co. LLC"
+    },
+    {
+      "entry_id": "0000019617_0001918704-26-024495",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024495/0001918704-26-024495-index.htm",
+      "entity_name": "JPMORGAN CHASE & CO"
+    },
+    {
+      "entry_id": "0001244290_0001244290-26-000009",
+      "url": "https://www.sec.gov/Archives/edgar/data/1244290/000124429026000009/0001244290-26-000009-index.htm",
+      "entity_name": "WEHMER EDWARD J"
+    },
+    {
+      "entry_id": "0001015328_0001244290-26-000009",
+      "url": "https://www.sec.gov/Archives/edgar/data/1015328/000124429026000009/0001244290-26-000009-index.htm",
+      "entity_name": "WINTRUST FINANCIAL CORP"
+    },
+    {
+      "entry_id": "0001387196_0001387196-26-000004",
+      "url": "https://www.sec.gov/Archives/edgar/data/1387196/000138719626000004/0001387196-26-000004-index.htm",
+      "entity_name": "Pettie Mark"
+    },
+    {
+      "entry_id": "0000801337_0001387196-26-000004",
+      "url": "https://www.sec.gov/Archives/edgar/data/801337/000138719626000004/0001387196-26-000004-index.htm",
+      "entity_name": "WEBSTER FINANCIAL CORP"
+    },
+    {
+      "entry_id": "0000916620_0001193125-26-361148",
+      "url": "https://www.sec.gov/Archives/edgar/data/916620/000119312526361148/0001193125-26-361148-index.htm",
+      "entity_name": "NORTHERN FUNDS"
+    },
+    {
+      "entry_id": "0000916620_0001193125-26-361148",
+      "url": "https://www.sec.gov/Archives/edgar/data/916620/000119312526361148/0001193125-26-361148-index.htm",
+      "entity_name": "NORTHERN FUNDS"
+    },
+    {
+      "entry_id": "0002142607_0002142607-26-000008",
+      "url": "https://www.sec.gov/Archives/edgar/data/2142607/000214260726000008/0002142607-26-000008-index.htm",
+      "entity_name": "Greatrex Mark James"
+    },
+    {
+      "entry_id": "0001091667_0002142607-26-000008",
+      "url": "https://www.sec.gov/Archives/edgar/data/1091667/000214260726000008/0002142607-26-000008-index.htm",
+      "entity_name": "CHARTER COMMUNICATIONS, INC. /MO/"
+    },
+    {
+      "entry_id": "0001867096_0001867096-26-000073",
+      "url": "https://www.sec.gov/Archives/edgar/data/1867096/000186709626000073/0001867096-26-000073-index.htm",
+      "entity_name": "Xeris Biopharma Holdings, Inc."
+    },
+    {
+      "entry_id": "0001553595_0001867096-26-000073",
+      "url": "https://www.sec.gov/Archives/edgar/data/1553595/000186709626000073/0001867096-26-000073-index.htm",
+      "entity_name": "Shannon John Patrick Jr"
+    },
+    {
+      "entry_id": "0001682472_0001918704-26-024494",
+      "url": "https://www.sec.gov/Archives/edgar/data/1682472/000191870426024494/0001918704-26-024494-index.htm",
       "entity_name": "BofA Finance LLC"
     },
     {
-      "entry_id": "0000070858_0001918704-26-024481",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024481/0001918704-26-024481-index.htm",
+      "entry_id": "0000070858_0001918704-26-024494",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024494/0001918704-26-024494-index.htm",
       "entity_name": "BANK OF AMERICA CORP /DE/"
     },
     {
-      "entry_id": "0001665650_0001918704-26-024480",
-      "url": "https://www.sec.gov/Archives/edgar/data/1665650/000191870426024480/0001918704-26-024480-index.htm",
+      "entry_id": "0001809344_0001809344-26-000008",
+      "url": "https://www.sec.gov/Archives/edgar/data/1809344/000180934426000008/0001809344-26-000008-index.htm",
+      "entity_name": "Ziegler Brandon"
+    },
+    {
+      "entry_id": "0001445305_0001809344-26-000008",
+      "url": "https://www.sec.gov/Archives/edgar/data/1445305/000180934426000008/0001809344-26-000008-index.htm",
+      "entity_name": "WORKIVA INC"
+    },
+    {
+      "entry_id": "0001198477_0001198477-26-000008",
+      "url": "https://www.sec.gov/Archives/edgar/data/1198477/000119847726000008/0001198477-26-000008-index.htm",
+      "entity_name": "CLEMENT DALLAS S"
+    },
+    {
+      "entry_id": "0001091667_0001198477-26-000008",
+      "url": "https://www.sec.gov/Archives/edgar/data/1091667/000119847726000008/0001198477-26-000008-index.htm",
+      "entity_name": "CHARTER COMMUNICATIONS, INC. /MO/"
+    },
+    {
+      "entry_id": "0001924868_0001999371-26-018430",
+      "url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126018430/0001999371-26-018430-index.htm",
+      "entity_name": "Tidal Trust II"
+    },
+    {
+      "entry_id": "0001561620_0001561620-26-000006",
+      "url": "https://www.sec.gov/Archives/edgar/data/1561620/000156162026000006/0001561620-26-000006-index.htm",
+      "entity_name": "O'Toole Richard L."
+    },
+    {
+      "entry_id": "0000801337_0001561620-26-000006",
+      "url": "https://www.sec.gov/Archives/edgar/data/801337/000156162026000006/0001561620-26-000006-index.htm",
+      "entity_name": "WEBSTER FINANCIAL CORP"
+    },
+    {
+      "entry_id": "0001665650_0001213900-26-092617",
+      "url": "https://www.sec.gov/Archives/edgar/data/1665650/000121390026092617/0001213900-26-092617-index.htm",
       "entity_name": "JPMorgan Chase Financial Co. LLC"
     },
     {
-      "entry_id": "0000019617_0001918704-26-024480",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024480/0001918704-26-024480-index.htm",
+      "entry_id": "0000019617_0001213900-26-092617",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026092617/0001213900-26-092617-index.htm",
       "entity_name": "JPMORGAN CHASE & CO"
     },
     {
-      "entry_id": "0001114446_0001839882-26-041078",
-      "url": "https://www.sec.gov/Archives/edgar/data/1114446/000183988226041078/0001839882-26-041078-index.htm",
-      "entity_name": "UBS AG"
+      "entry_id": "0001725472_0001725472-26-000007",
+      "url": "https://www.sec.gov/Archives/edgar/data/1725472/000172547226000007/0001725472-26-000007-index.htm",
+      "entity_name": "Carlyle Tactical Private Credit Fund"
     },
     {
-      "entry_id": "0001419828_0001193125-26-361012",
-      "url": "https://www.sec.gov/Archives/edgar/data/1419828/000119312526361012/0001193125-26-361012-index.htm",
-      "entity_name": "GS Finance Corp."
+      "entry_id": "0001882917_0001628280-26-058437",
+      "url": "https://www.sec.gov/Archives/edgar/data/1882917/000162828026058437/0001628280-26-058437-index.htm",
+      "entity_name": "Bodden Stuart"
     },
     {
-      "entry_id": "0000886982_0001193125-26-361012",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526361012/0001193125-26-361012-index.htm",
-      "entity_name": "GOLDMAN SACHS GROUP INC"
+      "entry_id": "0001699039_0001628280-26-058437",
+      "url": "https://www.sec.gov/Archives/edgar/data/1699039/000162828026058437/0001628280-26-058437-index.htm",
+      "entity_name": "Ranger Energy Services, Inc."
     },
     {
-      "entry_id": "0001665650_0001918704-26-024479",
-      "url": "https://www.sec.gov/Archives/edgar/data/1665650/000191870426024479/0001918704-26-024479-index.htm",
-      "entity_name": "JPMorgan Chase Financial Co. LLC"
-    },
-    {
-      "entry_id": "0000019617_0001918704-26-024479",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024479/0001918704-26-024479-index.htm",
-      "entity_name": "JPMORGAN CHASE & CO"
-    },
-    {
-      "entry_id": "0001665650_0001918704-26-024478",
-      "url": "https://www.sec.gov/Archives/edgar/data/1665650/000191870426024478/0001918704-26-024478-index.htm",
-      "entity_name": "JPMorgan Chase Financial Co. LLC"
-    },
-    {
-      "entry_id": "0000019617_0001918704-26-024478",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024478/0001918704-26-024478-index.htm",
-      "entity_name": "JPMORGAN CHASE & CO"
-    },
-    {
-      "entry_id": "0000312070_0000950103-26-012766",
-      "url": "https://www.sec.gov/Archives/edgar/data/312070/000095010326012766/0000950103-26-012766-index.htm",
-      "entity_name": "BARCLAYS BANK PLC"
-    },
-    {
-      "entry_id": "0000312070_0000950103-26-012765",
-      "url": "https://www.sec.gov/Archives/edgar/data/312070/000095010326012765/0000950103-26-012765-index.htm",
-      "entity_name": "BARCLAYS BANK PLC"
-    },
-    {
-      "entry_id": "0001738143_0001839882-26-041077",
-      "url": "https://www.sec.gov/Archives/edgar/data/1738143/000183988226041077/0001839882-26-041077-index.htm",
-      "entity_name": "Wells Fargo Finance LLC"
-    },
-    {
-      "entry_id": "0000072971_0001839882-26-041077",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226041077/0001839882-26-041077-index.htm",
-      "entity_name": "WELLS FARGO & COMPANY/MN"
+      "entry_id": "0002142618_0002142618-26-000008",
+      "url": "https://www.sec.gov/Archives/edgar/data/2142618/000214261826000008/0002142618-26-000008-index.htm",
+      "entity_name": "Taylor Alexander Cox"
     }
   ],
   "deletions": [
@@ -1412,6 +1757,11 @@
       "url": "https://www.sec.gov/Archives/edgar/data/9631/000183988226041061/0001839882-26-041061-index.htm",
       "entity_name": "BANK OF NOVA SCOTIA",
       "accession_number": "0001839882-26-041061"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/9631/000183988226041066/0001839882-26-041066-index.htm",
+      "entity_name": "BANK OF NOVA SCOTIA",
+      "accession_number": "0001839882-26-041066"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/9712/000000971226000108/0000009712-26-000108-index.htm",
@@ -3462,6 +3812,21 @@
       "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026092542/0001213900-26-092542-index.htm",
       "entity_name": "JPMORGAN CHASE & CO",
       "accession_number": "0001213900-26-092542"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026092550/0001213900-26-092550-index.htm",
+      "entity_name": "JPMORGAN CHASE & CO",
+      "accession_number": "0001213900-26-092550"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026092552/0001213900-26-092552-index.htm",
+      "entity_name": "JPMORGAN CHASE & CO",
+      "accession_number": "0001213900-26-092552"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026092578/0001213900-26-092578-index.htm",
+      "entity_name": "JPMORGAN CHASE & CO",
+      "accession_number": "0001213900-26-092578"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/19617/000183988226035509/0001839882-26-035509-index.htm",
@@ -6647,6 +7012,61 @@
       "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024468/0001918704-26-024468-index.htm",
       "entity_name": "JPMORGAN CHASE & CO",
       "accession_number": "0001918704-26-024468"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024471/0001918704-26-024471-index.htm",
+      "entity_name": "JPMORGAN CHASE & CO",
+      "accession_number": "0001918704-26-024471"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024472/0001918704-26-024472-index.htm",
+      "entity_name": "JPMORGAN CHASE & CO",
+      "accession_number": "0001918704-26-024472"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024473/0001918704-26-024473-index.htm",
+      "entity_name": "JPMORGAN CHASE & CO",
+      "accession_number": "0001918704-26-024473"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024475/0001918704-26-024475-index.htm",
+      "entity_name": "JPMORGAN CHASE & CO",
+      "accession_number": "0001918704-26-024475"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024476/0001918704-26-024476-index.htm",
+      "entity_name": "JPMORGAN CHASE & CO",
+      "accession_number": "0001918704-26-024476"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024477/0001918704-26-024477-index.htm",
+      "entity_name": "JPMORGAN CHASE & CO",
+      "accession_number": "0001918704-26-024477"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024478/0001918704-26-024478-index.htm",
+      "entity_name": "JPMORGAN CHASE & CO",
+      "accession_number": "0001918704-26-024478"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024479/0001918704-26-024479-index.htm",
+      "entity_name": "JPMORGAN CHASE & CO",
+      "accession_number": "0001918704-26-024479"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024480/0001918704-26-024480-index.htm",
+      "entity_name": "JPMORGAN CHASE & CO",
+      "accession_number": "0001918704-26-024480"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024482/0001918704-26-024482-index.htm",
+      "entity_name": "JPMORGAN CHASE & CO",
+      "accession_number": "0001918704-26-024482"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024485/0001918704-26-024485-index.htm",
+      "entity_name": "JPMORGAN CHASE & CO",
+      "accession_number": "0001918704-26-024485"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/19957/000110465926086755/0001104659-26-086755-index.htm",
@@ -10024,6 +10444,21 @@
       "accession_number": "0001918704-26-024444"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024469/0001918704-26-024469-index.htm",
+      "entity_name": "BANK OF AMERICA CORP /DE/",
+      "accession_number": "0001918704-26-024469"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024474/0001918704-26-024474-index.htm",
+      "entity_name": "BANK OF AMERICA CORP /DE/",
+      "accession_number": "0001918704-26-024474"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024481/0001918704-26-024481-index.htm",
+      "entity_name": "BANK OF AMERICA CORP /DE/",
+      "accession_number": "0001918704-26-024481"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/71691/000093888526000013/0000938885-26-000013-index.htm",
       "entity_name": "NEW YORK TIMES CO",
       "accession_number": "0000938885-26-000013"
@@ -10462,6 +10897,21 @@
       "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226041010/0001839882-26-041010-index.htm",
       "entity_name": "WELLS FARGO & COMPANY/MN",
       "accession_number": "0001839882-26-041010"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226041070/0001839882-26-041070-index.htm",
+      "entity_name": "WELLS FARGO & COMPANY/MN",
+      "accession_number": "0001839882-26-041070"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226041072/0001839882-26-041072-index.htm",
+      "entity_name": "WELLS FARGO & COMPANY/MN",
+      "accession_number": "0001839882-26-041072"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226041077/0001839882-26-041077-index.htm",
+      "entity_name": "WELLS FARGO & COMPANY/MN",
+      "accession_number": "0001839882-26-041077"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/73309/000007330926000131/0000073309-26-000131-index.htm",
@@ -11312,6 +11762,11 @@
       "url": "https://www.sec.gov/Archives/edgar/data/83246/000110465926099603/0001104659-26-099603-index.htm",
       "entity_name": "HSBC USA INC /MD/",
       "accession_number": "0001104659-26-099603"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/83246/000110465926099644/0001104659-26-099644-index.htm",
+      "entity_name": "HSBC USA INC /MD/",
+      "accession_number": "0001104659-26-099644"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/84246/000126792626000008/0001267926-26-000008-index.htm",
@@ -14719,6 +15174,11 @@
       "accession_number": "0001918704-26-024448"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/200245/000191870426024470/0001918704-26-024470-index.htm",
+      "entity_name": "Citigroup Global Markets Holdings Inc.",
+      "accession_number": "0001918704-26-024470"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000148/0000200406-26-000148-index.htm",
       "entity_name": "JOHNSON & JOHNSON",
       "accession_number": "0000200406-26-000148"
@@ -15727,6 +16187,16 @@
       "url": "https://www.sec.gov/Archives/edgar/data/312070/000095010326012753/0000950103-26-012753-index.htm",
       "entity_name": "BARCLAYS BANK PLC",
       "accession_number": "0000950103-26-012753"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/312070/000095010326012765/0000950103-26-012765-index.htm",
+      "entity_name": "BARCLAYS BANK PLC",
+      "accession_number": "0000950103-26-012765"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/312070/000095010326012766/0000950103-26-012766-index.htm",
+      "entity_name": "BARCLAYS BANK PLC",
+      "accession_number": "0000950103-26-012766"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/312070/000191870426019306/0001918704-26-019306-index.htm",
@@ -17092,6 +17562,16 @@
       "url": "https://www.sec.gov/Archives/edgar/data/312070/000191870426024456/0001918704-26-024456-index.htm",
       "entity_name": "BARCLAYS BANK PLC",
       "accession_number": "0001918704-26-024456"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/312070/000191870426024483/0001918704-26-024483-index.htm",
+      "entity_name": "BARCLAYS BANK PLC",
+      "accession_number": "0001918704-26-024483"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/312070/000191870426024484/0001918704-26-024484-index.htm",
+      "entity_name": "BARCLAYS BANK PLC",
+      "accession_number": "0001918704-26-024484"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/312257/000092189526002241/0000921895-26-002241-index.htm",
@@ -23914,6 +24394,11 @@
       "accession_number": "0001918704-26-024448"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426024470/0001918704-26-024470-index.htm",
+      "entity_name": "CITIGROUP INC",
+      "accession_number": "0001918704-26-024470"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/831114/000139834426012627/0001398344-26-012627-index.htm",
       "entity_name": "RBB FUND, INC.",
       "accession_number": "0001398344-26-012627"
@@ -24327,6 +24812,11 @@
       "url": "https://www.sec.gov/Archives/edgar/data/853285/000074554426000152/0000745544-26-000152-index.htm",
       "entity_name": "DELAWARE LIFE VARIABLE ACCOUNT F",
       "accession_number": "0000745544-26-000152"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/853285/000074554426000154/0000745544-26-000154-index.htm",
+      "entity_name": "DELAWARE LIFE VARIABLE ACCOUNT F",
+      "accession_number": "0000745544-26-000154"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/853437/000199937126016123/0001999371-26-016123-index.htm",
@@ -25352,6 +25842,11 @@
       "url": "https://www.sec.gov/Archives/edgar/data/886982/000095010326012761/0000950103-26-012761-index.htm",
       "entity_name": "GOLDMAN SACHS GROUP INC",
       "accession_number": "0000950103-26-012761"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000095010326012764/0000950103-26-012764-index.htm",
+      "entity_name": "GOLDMAN SACHS GROUP INC",
+      "accession_number": "0000950103-26-012764"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526297841/0001193125-26-297841-index.htm",
@@ -27812,6 +28307,36 @@
       "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526360842/0001193125-26-360842-index.htm",
       "entity_name": "GOLDMAN SACHS GROUP INC",
       "accession_number": "0001193125-26-360842"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526360916/0001193125-26-360916-index.htm",
+      "entity_name": "GOLDMAN SACHS GROUP INC",
+      "accession_number": "0001193125-26-360916"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526360945/0001193125-26-360945-index.htm",
+      "entity_name": "GOLDMAN SACHS GROUP INC",
+      "accession_number": "0001193125-26-360945"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526360947/0001193125-26-360947-index.htm",
+      "entity_name": "GOLDMAN SACHS GROUP INC",
+      "accession_number": "0001193125-26-360947"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526360995/0001193125-26-360995-index.htm",
+      "entity_name": "GOLDMAN SACHS GROUP INC",
+      "accession_number": "0001193125-26-360995"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526361012/0001193125-26-361012-index.htm",
+      "entity_name": "GOLDMAN SACHS GROUP INC",
+      "accession_number": "0001193125-26-361012"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526361024/0001193125-26-361024-index.htm",
+      "entity_name": "GOLDMAN SACHS GROUP INC",
+      "accession_number": "0001193125-26-361024"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/887147/000199937126017169/0001999371-26-017169-index.htm",
@@ -31242,6 +31767,21 @@
       "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226041064/0001839882-26-041064-index.htm",
       "entity_name": "MORGAN STANLEY",
       "accession_number": "0001839882-26-041064"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226041067/0001839882-26-041067-index.htm",
+      "entity_name": "MORGAN STANLEY",
+      "accession_number": "0001839882-26-041067"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226041068/0001839882-26-041068-index.htm",
+      "entity_name": "MORGAN STANLEY",
+      "accession_number": "0001839882-26-041068"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226041069/0001839882-26-041069-index.htm",
+      "entity_name": "MORGAN STANLEY",
+      "accession_number": "0001839882-26-041069"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/895456/000122520826006892/0001225208-26-006892-index.htm",
@@ -38509,6 +39049,11 @@
       "accession_number": "0001764727-26-000008"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/1048702/000207184426001116/0002071844-26-001116-index.htm",
+      "entity_name": "NATIONWIDE MUTUAL FUNDS",
+      "accession_number": "0002071844-26-001116"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/1049502/000104950226000111/0001049502-26-000111-index.htm",
       "entity_name": "MKS INC",
       "accession_number": "0001049502-26-000111"
@@ -43329,6 +43874,11 @@
       "accession_number": "0001839882-26-041049"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/1114446/000183988226041078/0001839882-26-041078-index.htm",
+      "entity_name": "UBS AG",
+      "accession_number": "0001839882-26-041078"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/1114700/000121390026077729/0001213900-26-077729-index.htm",
       "entity_name": "GRUPO FINANCIERO GALICIA SA",
       "accession_number": "0001213900-26-077729"
@@ -44697,6 +45247,11 @@
       "url": "https://www.sec.gov/Archives/edgar/data/1163653/000110465926099575/0001104659-26-099575-index.htm",
       "entity_name": "NOMURA HOLDINGS INC",
       "accession_number": "0001104659-26-099575"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1163653/000110465926099643/0001104659-26-099643-index.htm",
+      "entity_name": "NOMURA HOLDINGS INC",
+      "accession_number": "0001104659-26-099643"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1163653/000119312526317224/0001193125-26-317224-index.htm",
@@ -49699,6 +50254,11 @@
       "accession_number": "0001061983-26-000085"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/1288992/000122520826007269/0001225208-26-007269-index.htm",
+      "entity_name": "Eaton Vance Floating-Rate Income Trust",
+      "accession_number": "0001225208-26-007269"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/1289000/000128900026000013/0001289000-26-000013-index.htm",
       "entity_name": "Harris Benjamin P",
       "accession_number": "0001289000-26-000013"
@@ -50262,6 +50822,11 @@
       "url": "https://www.sec.gov/Archives/edgar/data/1308105/000089706926001558/0000897069-26-001558-index.htm",
       "entity_name": "SKIBSTED RUSSELL",
       "accession_number": "0000897069-26-001558"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1308335/000122520826007270/0001225208-26-007270-index.htm",
+      "entity_name": "Eaton Vance Enhanced Equity Income Fund II",
+      "accession_number": "0001225208-26-007270"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1309108/000183487126000011/0001834871-26-000011-index.htm",
@@ -53434,6 +53999,11 @@
       "accession_number": "0001104659-26-099575"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/1383951/000110465926099643/0001104659-26-099643-index.htm",
+      "entity_name": "Nomura America Finance, LLC",
+      "accession_number": "0001104659-26-099643"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/1384550/000143774926028185/0001437749-26-028185-index.htm",
       "entity_name": "Tardugno Michael H",
       "accession_number": "0001437749-26-028185"
@@ -53777,6 +54347,11 @@
       "url": "https://www.sec.gov/Archives/edgar/data/1393687/000139368726000005/0001393687-26-000005-index.htm",
       "entity_name": "Childs Russell A",
       "accession_number": "0001393687-26-000005"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1393772/000109690626001276/0001096906-26-001276-index.htm",
+      "entity_name": "WEED, INC.",
+      "accession_number": "0001096906-26-001276"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1393818/000119312526332966/0001193125-26-332966-index.htm",
@@ -55037,6 +55612,11 @@
       "url": "https://www.sec.gov/Archives/edgar/data/1419828/000095010326012761/0000950103-26-012761-index.htm",
       "entity_name": "GS Finance Corp.",
       "accession_number": "0000950103-26-012761"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1419828/000095010326012764/0000950103-26-012764-index.htm",
+      "entity_name": "GS Finance Corp.",
+      "accession_number": "0000950103-26-012764"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1419828/000119312526297841/0001193125-26-297841-index.htm",
@@ -57239,6 +57819,36 @@
       "accession_number": "0001193125-26-360842"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/1419828/000119312526360916/0001193125-26-360916-index.htm",
+      "entity_name": "GS Finance Corp.",
+      "accession_number": "0001193125-26-360916"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1419828/000119312526360945/0001193125-26-360945-index.htm",
+      "entity_name": "GS Finance Corp.",
+      "accession_number": "0001193125-26-360945"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1419828/000119312526360947/0001193125-26-360947-index.htm",
+      "entity_name": "GS Finance Corp.",
+      "accession_number": "0001193125-26-360947"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1419828/000119312526360995/0001193125-26-360995-index.htm",
+      "entity_name": "GS Finance Corp.",
+      "accession_number": "0001193125-26-360995"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1419828/000119312526361012/0001193125-26-361012-index.htm",
+      "entity_name": "GS Finance Corp.",
+      "accession_number": "0001193125-26-361012"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1419828/000119312526361024/0001193125-26-361024-index.htm",
+      "entity_name": "GS Finance Corp.",
+      "accession_number": "0001193125-26-361024"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/1419945/000141994526000057/0001419945-26-000057-index.htm",
       "entity_name": "TEEKAY TANKERS LTD.",
       "accession_number": "0001419945-26-000057"
@@ -58422,6 +59032,11 @@
       "url": "https://www.sec.gov/Archives/edgar/data/1442259/000143774926024535/0001437749-26-024535-index.htm",
       "entity_name": "Barton Don",
       "accession_number": "0001437749-26-024535"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1442861/000109690626001276/0001096906-26-001276-index.htm",
+      "entity_name": "BREEN NICOLE M",
+      "accession_number": "0001096906-26-001276"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1443035/000121390026090894/0001213900-26-090894-index.htm",
@@ -60104,6 +60719,11 @@
       "accession_number": "0001805570-26-000007"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/1486521/000148652126000009/0001486521-26-000009-index.htm",
+      "entity_name": "George Georgette R.",
+      "accession_number": "0001486521-26-000009"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/1487292/000119312526300603/0001193125-26-300603-index.htm",
       "entity_name": "Morefield Diane M",
       "accession_number": "0001193125-26-300603"
@@ -61717,6 +62337,11 @@
       "url": "https://www.sec.gov/Archives/edgar/data/1515359/000119312526316318/0001193125-26-316318-index.htm",
       "entity_name": "Banikarim Maryam",
       "accession_number": "0001193125-26-316318"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1516212/000119312526361042/0001193125-26-361042-index.htm",
+      "entity_name": "SSGA Active Trust",
+      "accession_number": "0001193125-26-361042"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1516354/000119312526345835/0001193125-26-345835-index.htm",
@@ -63677,6 +64302,11 @@
       "url": "https://www.sec.gov/Archives/edgar/data/1545440/000158064226005282/0001580642-26-005282-index.htm",
       "entity_name": "Ultimus Managers Trust",
       "accession_number": "0001580642-26-005282"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1545440/000158064226005516/0001580642-26-005516-index.htm",
+      "entity_name": "Ultimus Managers Trust",
+      "accession_number": "0001580642-26-005516"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1545591/000154559126000008/0001545591-26-000008-index.htm",
@@ -66359,6 +66989,11 @@
       "accession_number": "0001585521-26-000115"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/1585608/000119312526360939/0001193125-26-360939-index.htm",
+      "entity_name": "Jaguar Health, Inc.",
+      "accession_number": "0001193125-26-360939"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/1585724/000146452126000103/0001464521-26-000103-index.htm",
       "entity_name": "Rogers Campbell",
       "accession_number": "0001464521-26-000103"
@@ -66877,6 +67512,16 @@
       "url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026003921/0001592900-26-003921-index.htm",
       "entity_name": "EA Series Trust",
       "accession_number": "0001592900-26-003921"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026003937/0001592900-26-003937-index.htm",
+      "entity_name": "EA Series Trust",
+      "accession_number": "0001592900-26-003937"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026003938/0001592900-26-003938-index.htm",
+      "entity_name": "EA Series Trust",
+      "accession_number": "0001592900-26-003938"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1593040/000159304026000002/0001593040-26-000002-index.htm",
@@ -73169,6 +73814,21 @@
       "accession_number": "0001213900-26-092542"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/1665650/000121390026092550/0001213900-26-092550-index.htm",
+      "entity_name": "JPMorgan Chase Financial Co. LLC",
+      "accession_number": "0001213900-26-092550"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1665650/000121390026092552/0001213900-26-092552-index.htm",
+      "entity_name": "JPMorgan Chase Financial Co. LLC",
+      "accession_number": "0001213900-26-092552"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1665650/000121390026092578/0001213900-26-092578-index.htm",
+      "entity_name": "JPMorgan Chase Financial Co. LLC",
+      "accession_number": "0001213900-26-092578"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/1665650/000183988226035509/0001839882-26-035509-index.htm",
       "entity_name": "JPMorgan Chase Financial Co. LLC",
       "accession_number": "0001839882-26-035509"
@@ -76389,6 +77049,66 @@
       "accession_number": "0001918704-26-024467"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/1665650/000191870426024468/0001918704-26-024468-index.htm",
+      "entity_name": "JPMorgan Chase Financial Co. LLC",
+      "accession_number": "0001918704-26-024468"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1665650/000191870426024471/0001918704-26-024471-index.htm",
+      "entity_name": "JPMorgan Chase Financial Co. LLC",
+      "accession_number": "0001918704-26-024471"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1665650/000191870426024472/0001918704-26-024472-index.htm",
+      "entity_name": "JPMorgan Chase Financial Co. LLC",
+      "accession_number": "0001918704-26-024472"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1665650/000191870426024473/0001918704-26-024473-index.htm",
+      "entity_name": "JPMorgan Chase Financial Co. LLC",
+      "accession_number": "0001918704-26-024473"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1665650/000191870426024475/0001918704-26-024475-index.htm",
+      "entity_name": "JPMorgan Chase Financial Co. LLC",
+      "accession_number": "0001918704-26-024475"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1665650/000191870426024476/0001918704-26-024476-index.htm",
+      "entity_name": "JPMorgan Chase Financial Co. LLC",
+      "accession_number": "0001918704-26-024476"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1665650/000191870426024477/0001918704-26-024477-index.htm",
+      "entity_name": "JPMorgan Chase Financial Co. LLC",
+      "accession_number": "0001918704-26-024477"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1665650/000191870426024478/0001918704-26-024478-index.htm",
+      "entity_name": "JPMorgan Chase Financial Co. LLC",
+      "accession_number": "0001918704-26-024478"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1665650/000191870426024479/0001918704-26-024479-index.htm",
+      "entity_name": "JPMorgan Chase Financial Co. LLC",
+      "accession_number": "0001918704-26-024479"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1665650/000191870426024480/0001918704-26-024480-index.htm",
+      "entity_name": "JPMorgan Chase Financial Co. LLC",
+      "accession_number": "0001918704-26-024480"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1665650/000191870426024482/0001918704-26-024482-index.htm",
+      "entity_name": "JPMorgan Chase Financial Co. LLC",
+      "accession_number": "0001918704-26-024482"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1665650/000191870426024485/0001918704-26-024485-index.htm",
+      "entity_name": "JPMorgan Chase Financial Co. LLC",
+      "accession_number": "0001918704-26-024485"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/1665774/000121390026088570/0001213900-26-088570-index.htm",
       "entity_name": "Seidl Randy",
       "accession_number": "0001213900-26-088570"
@@ -79339,6 +80059,21 @@
       "accession_number": "0001839882-26-041064"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/1666268/000183988226041067/0001839882-26-041067-index.htm",
+      "entity_name": "Morgan Stanley Finance LLC",
+      "accession_number": "0001839882-26-041067"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1666268/000183988226041068/0001839882-26-041068-index.htm",
+      "entity_name": "Morgan Stanley Finance LLC",
+      "accession_number": "0001839882-26-041068"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1666268/000183988226041069/0001839882-26-041069-index.htm",
+      "entity_name": "Morgan Stanley Finance LLC",
+      "accession_number": "0001839882-26-041069"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/1666651/000118518526003311/0001185185-26-003311-index.htm",
       "entity_name": "Wotczak Robert",
       "accession_number": "0001185185-26-003311"
@@ -82082,6 +82817,21 @@
       "url": "https://www.sec.gov/Archives/edgar/data/1682472/000191870426024444/0001918704-26-024444-index.htm",
       "entity_name": "BofA Finance LLC",
       "accession_number": "0001918704-26-024444"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1682472/000191870426024469/0001918704-26-024469-index.htm",
+      "entity_name": "BofA Finance LLC",
+      "accession_number": "0001918704-26-024469"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1682472/000191870426024474/0001918704-26-024474-index.htm",
+      "entity_name": "BofA Finance LLC",
+      "accession_number": "0001918704-26-024474"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1682472/000191870426024481/0001918704-26-024481-index.htm",
+      "entity_name": "BofA Finance LLC",
+      "accession_number": "0001918704-26-024481"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1682638/000119312526295228/0001193125-26-295228-index.htm",
@@ -84999,6 +85749,21 @@
       "accession_number": "0001999371-26-016313"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/1719812/000199937126018402/0001999371-26-018402-index.htm",
+      "entity_name": "Collaborative Investment Series Trust",
+      "accession_number": "0001999371-26-018402"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1719812/000199937126018405/0001999371-26-018405-index.htm",
+      "entity_name": "Collaborative Investment Series Trust",
+      "accession_number": "0001999371-26-018405"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1719812/000199937126018408/0001999371-26-018408-index.htm",
+      "entity_name": "Collaborative Investment Series Trust",
+      "accession_number": "0001999371-26-018408"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/1720219/000149315226039528/0001493152-26-039528-index.htm",
       "entity_name": "Burnell Thomas W.",
       "accession_number": "0001493152-26-039528"
@@ -86634,6 +87399,21 @@
       "accession_number": "0001839882-26-041010"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/1738143/000183988226041070/0001839882-26-041070-index.htm",
+      "entity_name": "Wells Fargo Finance LLC",
+      "accession_number": "0001839882-26-041070"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1738143/000183988226041072/0001839882-26-041072-index.htm",
+      "entity_name": "Wells Fargo Finance LLC",
+      "accession_number": "0001839882-26-041072"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1738143/000183988226041077/0001839882-26-041077-index.htm",
+      "entity_name": "Wells Fargo Finance LLC",
+      "accession_number": "0001839882-26-041077"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/1738152/000143774926028707/0001437749-26-028707-index.htm",
       "entity_name": "Laverne Robert G.",
       "accession_number": "0001437749-26-028707"
@@ -87687,6 +88467,16 @@
       "url": "https://www.sec.gov/Archives/edgar/data/1754953/000094787126000709/0000947871-26-000709-index.htm",
       "entity_name": "McRaven William H.",
       "accession_number": "0000947871-26-000709"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1754991/000122520826007269/0001225208-26-007269-index.htm",
+      "entity_name": "QUINTON KEITH",
+      "accession_number": "0001225208-26-007269"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1754991/000122520826007270/0001225208-26-007270-index.htm",
+      "entity_name": "QUINTON KEITH",
+      "accession_number": "0001225208-26-007270"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1755446/000175544626000006/0001755446-26-000006-index.htm",
@@ -104254,6 +105044,11 @@
       "accession_number": "0001186827-26-000014"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/1964333/000148652126000009/0001486521-26-000009-index.htm",
+      "entity_name": "Burke & Herbert Financial Services Corp.",
+      "accession_number": "0001486521-26-000009"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/1964333/000186443826000010/0001864438-26-000010-index.htm",
       "entity_name": "Burke & Herbert Financial Services Corp.",
       "accession_number": "0001864438-26-000010"
@@ -105424,6 +106219,11 @@
       "accession_number": "0001829126-26-009219"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626009221/0001829126-26-009221-index.htm",
+      "entity_name": "Themes ETF Trust",
+      "accession_number": "0001829126-26-009221"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426012250/0001398344-26-012250-index.htm",
       "entity_name": "Roundhill ETF Trust",
       "accession_number": "0001398344-26-012250"
@@ -106347,6 +107147,11 @@
       "url": "https://www.sec.gov/Archives/edgar/data/1988752/000121390026083418/0001213900-26-083418-index.htm",
       "entity_name": "Meketa Infrastructure Fund",
       "accession_number": "0001213900-26-083418"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1988855/000205560626000004/0002055606-26-000004-index.htm",
+      "entity_name": "Manulife Private Credit Plus Fund",
+      "accession_number": "0002055606-26-000004"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1988976/000198897626000006/0001988976-26-000006-index.htm",
@@ -111362,6 +112167,11 @@
       "url": "https://www.sec.gov/Archives/edgar/data/2055582/000143774926028158/0001437749-26-028158-index.htm",
       "entity_name": "Shaikh Erhaan",
       "accession_number": "0001437749-26-028158"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2055606/000205560626000004/0002055606-26-000004-index.htm",
+      "entity_name": "John Hancock Stable Value Fund Collective Investment Trust",
+      "accession_number": "0002055606-26-000004"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/2055628/000093905726000180/0000939057-26-000180-index.htm",
