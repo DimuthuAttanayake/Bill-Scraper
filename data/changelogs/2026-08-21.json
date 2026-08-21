@@ -1,27 +1,6 @@
 {
   "date": "2026-08-21",
-  "additions": [
-    {
-      "entry_id": "0002008935_0001683168-26-006638",
-      "url": "https://www.sec.gov/Archives/edgar/data/2008935/000168316826006638/0001683168-26-006638-index.htm",
-      "entity_name": "Chuang Shun-Chih"
-    },
-    {
-      "entry_id": "0001756180_0001683168-26-006638",
-      "url": "https://www.sec.gov/Archives/edgar/data/1756180/000168316826006638/0001683168-26-006638-index.htm",
-      "entity_name": "NOCERA, INC."
-    },
-    {
-      "entry_id": "0001977756_0001193125-26-359706",
-      "url": "https://www.sec.gov/Archives/edgar/data/1977756/000119312526359706/0001193125-26-359706-index.htm",
-      "entity_name": "Huidor Mark Antonio"
-    },
-    {
-      "entry_id": "0001173204_0001193125-26-359706",
-      "url": "https://www.sec.gov/Archives/edgar/data/1173204/000119312526359706/0001193125-26-359706-index.htm",
-      "entity_name": "Cineverse Corp."
-    }
-  ],
+  "additions": [],
   "deletions": [
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1750/000000175026000074/0000001750-26-000074-index.htm",
