@@ -1,6 +1,17 @@
 {
   "date": "2026-08-21",
-  "additions": [],
+  "additions": [
+    {
+      "entry_id": "_0001477932-26-005199",
+      "url": "https://www.sec.gov/Archives/edgar/data/1921865/000147793226005199/0001477932-26-005199-index.htm",
+      "entity_name": "ASP Isotopes Inc. (0001921865) (Filed by)"
+    },
+    {
+      "entry_id": "0001681682_0001477932-26-005199",
+      "url": "https://www.sec.gov/Archives/edgar/data/1681682/000147793226005199/0001477932-26-005199-index.htm",
+      "entity_name": "ENDRA Life Sciences Inc."
+    }
+  ],
   "deletions": [
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1750/000000175026000074/0000001750-26-000074-index.htm",
@@ -60493,6 +60504,11 @@
       "accession_number": "0001315758-26-000015"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/1529628/000153630726000006/0001536307-26-000006-index.htm",
+      "entity_name": "Smart Sand, Inc.",
+      "accession_number": "0001536307-26-000006"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/1529628/000154519726000009/0001545197-26-000009-index.htm",
       "entity_name": "Smart Sand, Inc.",
       "accession_number": "0001545197-26-000009"
@@ -60991,6 +61007,11 @@
       "url": "https://www.sec.gov/Archives/edgar/data/1536129/000153612926000004/0001536129-26-000004-index.htm",
       "entity_name": "Skenesky John P",
       "accession_number": "0001536129-26-000004"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1536307/000153630726000006/0001536307-26-000006-index.htm",
+      "entity_name": "Pawlenty Timothy",
+      "accession_number": "0001536307-26-000006"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1536529/000119312526343029/0001193125-26-343029-index.htm",
