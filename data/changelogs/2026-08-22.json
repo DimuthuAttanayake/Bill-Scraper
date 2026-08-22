@@ -1,57 +1,6 @@
 {
   "date": "2026-08-22",
-  "additions": [
-    {
-      "entry_id": "0002004307_0001628280-26-058507",
-      "url": "https://www.sec.gov/Archives/edgar/data/2004307/000162828026058507/0001628280-26-058507-index.htm",
-      "entity_name": "SHAN LAO HU TONG LLC"
-    },
-    {
-      "entry_id": "0002004302_0001628280-26-058507",
-      "url": "https://www.sec.gov/Archives/edgar/data/2004302/000162828026058507/0001628280-26-058507-index.htm",
-      "entity_name": "JI XIANG HU TONG HOLDINGS LTD"
-    },
-    {
-      "entry_id": "0001962329_0001628280-26-058507",
-      "url": "https://www.sec.gov/Archives/edgar/data/1962329/000162828026058507/0001628280-26-058507-index.htm",
-      "entity_name": "Wu Lei"
-    },
-    {
-      "entry_id": "0001857816_0001628280-26-058507",
-      "url": "https://www.sec.gov/Archives/edgar/data/1857816/000162828026058507/0001628280-26-058507-index.htm",
-      "entity_name": "GigaCloud Technology Inc"
-    },
-    {
-      "entry_id": "0001809519_0001193125-26-361608",
-      "url": "https://www.sec.gov/Archives/edgar/data/1809519/000119312526361608/0001193125-26-361608-index.htm",
-      "entity_name": "GoodRx Holdings, Inc."
-    },
-    {
-      "entry_id": "0001674067_0001193125-26-361608",
-      "url": "https://www.sec.gov/Archives/edgar/data/1674067/000119312526361608/0001193125-26-361608-index.htm",
-      "entity_name": "Francisco Partners GP IV, L.P."
-    },
-    {
-      "entry_id": "0001673966_0001193125-26-361608",
-      "url": "https://www.sec.gov/Archives/edgar/data/1673966/000119312526361608/0001193125-26-361608-index.htm",
-      "entity_name": "Francisco Partners GP IV Management Ltd"
-    },
-    {
-      "entry_id": "0001622908_0001193125-26-361608",
-      "url": "https://www.sec.gov/Archives/edgar/data/1622908/000119312526361608/0001193125-26-361608-index.htm",
-      "entity_name": "FRANCISCO PARTNERS IV-A, L.P."
-    },
-    {
-      "entry_id": "0001622902_0001193125-26-361608",
-      "url": "https://www.sec.gov/Archives/edgar/data/1622902/000119312526361608/0001193125-26-361608-index.htm",
-      "entity_name": "FRANCISCO PARTNERS IV, L.P."
-    },
-    {
-      "entry_id": "0001197853_0001193125-26-361608",
-      "url": "https://www.sec.gov/Archives/edgar/data/1197853/000119312526361608/0001193125-26-361608-index.htm",
-      "entity_name": "Francisco Partners Management, LP"
-    }
-  ],
+  "additions": [],
   "deletions": [
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1750/000000175026000074/0000001750-26-000074-index.htm",
