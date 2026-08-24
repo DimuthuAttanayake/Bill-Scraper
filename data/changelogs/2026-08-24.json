@@ -2,74 +2,34 @@
   "date": "2026-08-24",
   "additions": [
     {
-      "entry_id": "0002111846_0001213900-26-092783",
-      "url": "https://www.sec.gov/Archives/edgar/data/2111846/000121390026092783/0001213900-26-092783-index.htm",
-      "entity_name": "Game Your Game Inc."
+      "entry_id": "0001851666_0001851666-26-000004",
+      "url": "https://www.sec.gov/Archives/edgar/data/1851666/000185166626000004/0001851666-26-000004-index.htm",
+      "entity_name": "Kline David"
     },
     {
-      "entry_id": "0002121606_0001193125-26-361711",
-      "url": "https://www.sec.gov/Archives/edgar/data/2121606/000119312526361711/0001193125-26-361711-index.htm",
-      "entity_name": "Wu Yongming"
+      "entry_id": "0001158172_0001851666-26-000004",
+      "url": "https://www.sec.gov/Archives/edgar/data/1158172/000185166626000004/0001851666-26-000004-index.htm",
+      "entity_name": "COMSCORE, INC."
     },
     {
-      "entry_id": "0001577552_0001193125-26-361711",
-      "url": "https://www.sec.gov/Archives/edgar/data/1577552/000119312526361711/0001193125-26-361711-index.htm",
-      "entity_name": "Alibaba Group Holding Ltd"
+      "entry_id": "0002103955_0001976408-26-000761",
+      "url": "https://www.sec.gov/Archives/edgar/data/2103955/000197640826000761/0001976408-26-000761-index.htm",
+      "entity_name": "Grossman Boaz"
     },
     {
-      "entry_id": "0001738827_0001193125-26-361709",
-      "url": "https://www.sec.gov/Archives/edgar/data/1738827/000119312526361709/0001193125-26-361709-index.htm",
-      "entity_name": "KLX Energy Services Holdings, Inc."
+      "entry_id": "0001365767_0001976408-26-000761",
+      "url": "https://www.sec.gov/Archives/edgar/data/1365767/000197640826000761/0001976408-26-000761-index.htm",
+      "entity_name": "Allot Ltd."
     },
     {
-      "entry_id": "0001832332_0001193125-26-361708",
-      "url": "https://www.sec.gov/Archives/edgar/data/1832332/000119312526361708/0001193125-26-361708-index.htm",
-      "entity_name": "Aveanna Healthcare Holdings, Inc."
+      "entry_id": "0001745936_0001145197-26-000172",
+      "url": "https://www.sec.gov/Archives/edgar/data/1745936/000114519726000172/0001145197-26-000172-index.htm",
+      "entity_name": "McEvoy Ashley"
     },
     {
-      "entry_id": "0001682472_0001918704-26-024513",
-      "url": "https://www.sec.gov/Archives/edgar/data/1682472/000191870426024513/0001918704-26-024513-index.htm",
-      "entity_name": "BofA Finance LLC"
-    },
-    {
-      "entry_id": "0000070858_0001918704-26-024513",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024513/0001918704-26-024513-index.htm",
-      "entity_name": "BANK OF AMERICA CORP /DE/"
-    },
-    {
-      "entry_id": "0001621346_0001621346-26-000006",
-      "url": "https://www.sec.gov/Archives/edgar/data/1621346/000162134626000006/0001621346-26-000006-index.htm",
-      "entity_name": "Estrada Ingrid A"
-    },
-    {
-      "entry_id": "0001601046_0001621346-26-000006",
-      "url": "https://www.sec.gov/Archives/edgar/data/1601046/000162134626000006/0001621346-26-000006-index.htm",
-      "entity_name": "Keysight Technologies, Inc."
-    },
-    {
-      "entry_id": "0001843196_0001193125-26-361706",
-      "url": "https://www.sec.gov/Archives/edgar/data/1843196/000119312526361706/0001193125-26-361706-index.htm",
-      "entity_name": "Liu Chang"
-    },
-    {
-      "entry_id": "0001821468_0001193125-26-361706",
-      "url": "https://www.sec.gov/Archives/edgar/data/1821468/000119312526361706/0001193125-26-361706-index.htm",
-      "entity_name": "17 Education & Technology Group Inc."
-    },
-    {
-      "entry_id": "0002086412_0001213900-26-092781",
-      "url": "https://www.sec.gov/Archives/edgar/data/2086412/000121390026092781/0001213900-26-092781-index.htm",
-      "entity_name": "DRC Medicine Inc."
-    },
-    {
-      "entry_id": "0002086411_0001213900-26-092781",
-      "url": "https://www.sec.gov/Archives/edgar/data/2086411/000121390026092781/0001213900-26-092781-index.htm",
-      "entity_name": "DRC Medicine Ltd."
-    },
-    {
-      "entry_id": "0001621672_0001437749-26-028768",
-      "url": "https://www.sec.gov/Archives/edgar/data/1621672/000143774926028768/0001437749-26-028768-index.htm",
-      "entity_name": "Super League Enterprise, Inc."
+      "entry_id": "0001145197_0001145197-26-000172",
+      "url": "https://www.sec.gov/Archives/edgar/data/1145197/000114519726000172/0001145197-26-000172-index.htm",
+      "entity_name": "INSULET CORP"
     }
   ],
   "deletions": [
@@ -60299,6 +60259,11 @@
       "accession_number": "0001193125-26-315595"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/1475483/000119312526361504/0001193125-26-361504-index.htm",
+      "entity_name": "AMERICAN SECURITIES LLC",
+      "accession_number": "0001193125-26-361504"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/1475597/000147559726000165/0001475597-26-000165-index.htm",
       "entity_name": "HRT FINANCIAL LP",
       "accession_number": "0001475597-26-000165"
@@ -69867,6 +69832,11 @@
       "url": "https://www.sec.gov/Archives/edgar/data/1621104/000140316126000107/0001403161-26-000107-index.htm",
       "entity_name": "MAHON TULLIER KELLY",
       "accession_number": "0001403161-26-000107"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1621183/000119312526361504/0001193125-26-361504-index.htm",
+      "entity_name": "ASP Manager Corp.",
+      "accession_number": "0001193125-26-361504"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1621221/000164033426001221/0001640334-26-001221-index.htm",
@@ -86352,6 +86322,11 @@
       "url": "https://www.sec.gov/Archives/edgar/data/1718348/000171834826000011/0001718348-26-000011-index.htm",
       "entity_name": "Petrie Michael F.",
       "accession_number": "0001718348-26-000011"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1718376/000119312526361504/0001193125-26-361504-index.htm",
+      "entity_name": "American Securities Partners VIII(B), L.P.",
+      "accession_number": "0001193125-26-361504"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1718505/000171850526000006/0001718505-26-000006-index.htm",
@@ -114559,6 +114534,16 @@
       "accession_number": "0001193125-26-361503"
     },
     {
+      "url": "https://www.sec.gov/Archives/edgar/data/2065636/000119312526361504/0001193125-26-361504-index.htm",
+      "entity_name": "SOLV Energy, Inc.",
+      "accession_number": "0001193125-26-361504"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2065636/000119312526361505/0001193125-26-361505-index.htm",
+      "entity_name": "SOLV Energy, Inc.",
+      "accession_number": "0001193125-26-361505"
+    },
+    {
       "url": "https://www.sec.gov/Archives/edgar/data/2065779/000182912626007392/0001829126-26-007392-index.htm",
       "entity_name": "D. Boral ARC Acquisition I Corp.",
       "accession_number": "0001829126-26-007392"
@@ -117702,6 +117687,11 @@
       "url": "https://www.sec.gov/Archives/edgar/data/2109214/000121390026076123/0001213900-26-076123-index.htm",
       "entity_name": "Franke Guus Paul Wilhelm",
       "accession_number": "0001213900-26-076123"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2109254/000119312526361505/0001193125-26-361505-index.htm",
+      "entity_name": "Pearson Brandi Michelle",
+      "accession_number": "0001193125-26-361505"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/2109272/000210927226000008/0002109272-26-000008-index.htm",
