@@ -1,6 +1,12 @@
 {
   "date": "2026-08-25",
-  "additions": [],
+  "additions": [
+    {
+      "entry_id": "0001000275_0000950103-26-012817",
+      "url": "https://www.sec.gov/Archives/edgar/data/1000275/000095010326012817/0000950103-26-012817-index.htm",
+      "entity_name": "ROYAL BANK OF CANADA"
+    }
+  ],
   "deletions": [
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1750/000000175026000074/0000001750-26-000074-index.htm",
@@ -105811,6 +105817,11 @@
       "url": "https://www.sec.gov/Archives/edgar/data/1878390/000119312526301192/0001193125-26-301192-index.htm",
       "entity_name": "ZEEV VENTURES VIII, L.P.",
       "accession_number": "0001193125-26-301192"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1878390/000119312526363930/0001193125-26-363930-index.htm",
+      "entity_name": "ZEEV VENTURES VIII, L.P.",
+      "accession_number": "0001193125-26-363930"
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1878528/000187852826000006/0001878528-26-000006-index.htm",
